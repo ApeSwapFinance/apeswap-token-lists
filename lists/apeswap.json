@@ -831,6 +831,14 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/wbnb.png"
     },
     {
+      "name": "Aave (PoS)",
+      "address": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/AAVE.svg"
+    },
+    {
       "name": "Banana Token",
       "address": "0x5d47baba0d66083c52009271faf3f50dcc01023c",
       "symbol": "BANANA",
