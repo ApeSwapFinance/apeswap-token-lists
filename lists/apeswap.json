@@ -847,6 +847,38 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BANANA.svg"      
     },
     {
+      "name": "PolyDoge",
+      "address": "0x8A953CfE442c5E8855cc6c61b1293FA648BAE472",
+      "symbol": "PDOGE",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PDOGE.png"
+    },
+    {
+      "name": "PolyCrystal",
+      "address": "0x76bF0C28e604CC3fE9967c83b3C3F31c213cfE64",
+      "symbol": "CRYSTL",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CRYSTL.png"
+    },
+    {
+      "name": "Curve",
+      "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
+      "symbol": "CRV",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CURVE.svg"
+    },
+    {
+      "name": "ChainLink Token",
+      "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+      "symbol": "LINK",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LINK.svg"
+    },
+    {
       "name": "Test USD Coin",
       "address": "0x5E061239f6Dd8D8035bb341AA8ef8Be6026e80fa",
       "symbol": "tUSDC",
