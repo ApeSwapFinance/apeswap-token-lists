@@ -1,11 +1,11 @@
 {
-    "name": "ApeSwap BUIDL Token List",
+    "name": "ApeSwap BUIDL List",
     "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/apeswap-ape.svg",
+    "timestamp": "2021-06-20T15:41:29.665Z",
     "keywords": [
         "buidl",
         "defi"
     ],
-    "timestamp": "2020-08-25T15:41:29.665Z",
     "tokens": [
         {
           "name": "Tako Token",
@@ -57,8 +57,8 @@
         }
     ],
     "version": {
-        "major": 0,
+        "major": 1,
         "minor": 1,
-        "patch": 0
+        "patch": 1
     }
 }
