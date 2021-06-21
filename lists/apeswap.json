@@ -804,7 +804,7 @@
       "symbol": "DAI",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-dex/main/public/images/coins/DAI.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DAI.svg"
     },
     {
       "name": "Wrapped BTC",
@@ -828,7 +828,7 @@
       "symbol": "BNB",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-dex/main/public/images/coins/wbnb.png"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/wbnb.png"
     },
     {
       "name": "Banana Token",
@@ -836,7 +836,7 @@
       "symbol": "BANANA",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-dex/main/public/images/coins/BANANA.svg"      
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BANANA.svg"      
     },
     {
       "name": "Test USD Coin",
@@ -860,7 +860,7 @@
       "address": "0x7ab920bb77d89cea9932b9dee8c644e3f39a2e22",
       "chainId": 80001,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-dex/main/public/images/coins/DAI.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DAI.svg"
     }
   ]
 }
