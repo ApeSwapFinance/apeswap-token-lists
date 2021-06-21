@@ -868,7 +868,7 @@
       "symbol": "CRV",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CURVE.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CRV.svg"
     },
     {
       "name": "ChainLink Token",
