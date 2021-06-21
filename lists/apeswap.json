@@ -142,6 +142,14 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BIFI.png"
     },
     {
+      "name": "beefy.finance Token",
+      "symbol": "BIFI",
+      "address": "0xfbdd194376de19a88118e84e279b977f165d01b8",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BIFI.png"
+    },
+    {
       "name": "cryptexlock Token",
       "symbol": "CRX",
       "address": "0x97a30c692ece9c317235d48287d23d358170fc40",
