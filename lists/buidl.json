@@ -1,6 +1,6 @@
 {
     "name": "buidl",
-    "logoURI": "/images/coins/BANANA.svg",
+    "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BANANA.svg",
     "keywords": [
         "buidl",
         "defi"
@@ -13,7 +13,7 @@
           "address": "0x2f3391aebe27393aba0a790aa5e1577fea0361c2",
           "chainId": 56,
           "decimals": 18,
-          "logoURI": "/images/coins/TAKO.svg"
+          "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TAKO.svg"
         },
         {
           "name": "Vox.Finance",
@@ -21,7 +21,7 @@
           "address": "0xc227f8eecc481a8e8baa30a4754b109b81c4dfa4",
           "chainId": 56,
           "decimals": 18,
-          "logoURI": "/images/coins/VOXb.svg"
+          "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/VOXb.svg"
         },
         {
           "name": "CROW",
@@ -29,7 +29,7 @@
           "address": "0xcc2e12a9b5b75360c6fbf23b584c275d52cddb0e",
           "chainId": 56,
           "decimals": 18,
-          "logoURI": "/images/coins/CROW.svg"
+          "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CROW.svg"
         },
         {
           "name": "Purple Monster Token",
@@ -37,7 +37,7 @@
           "address": "0xC46889ec6d0DeAffbfF6545621F82a3e6e0D73A5",
           "chainId": 56,
           "decimals": 18,
-          "logoURI": "/images/coins/PMOT.svg"
+          "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PMOT.png"
         },
         {
           "name": "Twinci",
@@ -45,7 +45,7 @@
           "address": "0xaf83f292fced83032f52ced45ef7dbddb586441a",
           "chainId": 56,
           "decimals": 18,
-          "logoURI": "/images/coins/TWINCI.svg"
+          "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TWINCI.svg"
         },
         {
           "name": "taps token",
@@ -53,7 +53,7 @@
           "address": "0x56eab07247e3e6404ac90140f20bba61375d5c3c",
           "chainId": 56,
           "decimals": 18,
-          "logoURI": "/images/coins/TAPS.svg"
+          "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TAPS.svg"
         }
     ],
     "version": {
