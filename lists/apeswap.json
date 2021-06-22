@@ -879,6 +879,14 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LINK.svg"
     },
     {
+      "name": "JDIToken",
+      "symbol": "JDI",
+      "address": "0x340fe1d898eccaad394e2ba0fc1f93d27c7b717a",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/JDI.png"
+    },
+    {
       "name": "Test USD Coin",
       "address": "0x5E061239f6Dd8D8035bb341AA8ef8Be6026e80fa",
       "symbol": "tUSDC",
