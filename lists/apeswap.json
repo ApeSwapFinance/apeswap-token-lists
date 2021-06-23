@@ -887,6 +887,14 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/JDI.png"
     },
     {
+      "name": "Fish",
+      "symbol": "FISH",
+      "address": "0x3a3Df212b7AA91Aa0402B9035b098891d276572B",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FISH.png"
+    },
+    {
       "name": "Test USD Coin",
       "address": "0x5E061239f6Dd8D8035bb341AA8ef8Be6026e80fa",
       "symbol": "tUSDC",
