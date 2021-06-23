@@ -917,6 +917,14 @@
       "chainId": 80001,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DAI.svg"
+    },
+    {
+      "name": "PolyYeld Token",
+      "symbol": "YELD",
+      "address": "0xd0f3121A190d85dE0AB6131f2bCEcdbfcfB38891",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/YELD.svg"
     }
   ]
 }
