@@ -779,7 +779,7 @@
       "address": "0x545f90dc35ca1e6129f1fed354b3e2df12034261",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NEWB.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NEWB.png"
     },
     {
       "name": "Wrapped Matic",
