@@ -70,6 +70,14 @@
           "chainId": 56,
           "decimals": 18,
           "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BBQ.svg"
+        },
+        {
+          "name": "Tako Token",
+          "symbol": "TAKO",
+          "address": "0x6d2a71f4edf10ab1e821b9b373363e1e24e5df6b",
+          "chainId": 137,
+          "decimals": 18,
+          "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TAKO.svg"
         }
     ],
     "version": {
