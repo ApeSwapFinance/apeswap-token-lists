@@ -417,15 +417,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/gRUPEE.svg"
     },
     {
-      "name": "Bingus Token",
-      "symbol": "BINGUS",
-      "address": "0xda20c8a5c3b1ab48e31ba6e43f0f2830e50218d8",
-      "chainId": 56,
-      "decimals": 9,
-      "type": "deflationary",
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BINGUS.png"
-    },
-    {
       "name": "bxBTC",
       "symbol": "bxBTC",
       "address": "0xab111d5948470ba73d98d66bbdf2798fbe093546",
