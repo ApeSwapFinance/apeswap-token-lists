@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 3,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/apeswap-ape.svg",
@@ -62,7 +62,7 @@
     },
     {
       "name": "ETH Token",
-      "symbol": "ETH",
+      "symbol": "WETH",
       "address": "0xd66c6b4f0be8ce5b39d52e0fd1344c389929b378",
       "chainId": 97,
       "decimals": 18,
@@ -77,8 +77,8 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BUSD.svg"
     },
     {
-      "name": "Ethereum Token",
-      "symbol": "ETH",
+      "name": "Binance-Peg Ethereum Token",
+      "symbol": "WETH",
       "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
       "chainId": 56,
       "decimals": 18,
