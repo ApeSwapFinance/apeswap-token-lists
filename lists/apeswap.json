@@ -923,6 +923,14 @@
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/YELD.svg"
+    },
+    {
+      "name": "ToolApe",
+      "symbol": "TAPE",
+      "address": "0xf98f70c265093a3b3adbef84ddc29eace900685b",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TAPE.svg"
     }
   ]
 }
