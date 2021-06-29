@@ -56,14 +56,6 @@
           "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TAPS.svg"
         },
         {
-          "name": "CryptoBlades Skill Token",
-          "symbol": "SKILL",
-          "address": "0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab",
-          "chainId": 56,
-          "decimals": 18,
-          "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SKILL.jpeg"
-        },
-        {
           "name": "Barbecue Token",
           "symbol": "BBQ",
           "address": "0xd9a88f9b7101046786490baf433f0f6ab3d753e2",
