@@ -955,6 +955,14 @@
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TAPE.svg"
+    },
+    {
+      "name": "Polygon Space Token",
+      "symbol": "pSPACE",
+      "address": "0xD016cAAe879c42cB0D74BB1A265021bf980A7E96",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/pSPACE.svg"
     }
   ]
 }
