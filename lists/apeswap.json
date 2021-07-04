@@ -718,9 +718,9 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WYVERN.png"
     },
     {
-      "name": "Blockmine Nugget",
-      "symbol": "NUGGET",
-      "address": "0xd86aa2066783ae96817065a984924f5c6536e227",
+      "name": "Blockmine Gold Nugget",
+      "symbol": "GOLDNUGGET",
+      "address": "0xE0B58022487131eC9913C1F3AcFD8F74FC6A6C7E",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NUGGET.svg"
