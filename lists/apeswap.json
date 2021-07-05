@@ -798,6 +798,62 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SKILL.svg"
     },
     {
+      "name": "Fruit Token",
+      "symbol": "FRUIT",
+      "address": "0x4ecfb95896660aa7f54003e967e7b283441a2b0a",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FRUIT.svg"
+    },
+    {
+      "name": "Hepa Token",
+      "symbol": "HEPA",
+      "address": "0x9159f30f1c3f0317b0a2d6bc176f29266be790ee",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HEPA.svg"
+    },
+    {
+      "name": "GreenTrust Token",
+      "symbol": "GNT",
+      "address": "0xf750a26eb0acf95556e8529e72ed530f3b60f348",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GNT.svg"
+    },
+    {
+      "name": "SafePal Token",
+      "symbol": "SFP",
+      "address": "0xD41FDb03Ba84762dD66a0af1a6C8540FF1ba5dfb",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SFP.svg"
+    },
+    {
+      "name": "Trust Wallet",
+      "symbol": "TWT",
+      "address": "0x4b0f1812e5df2a09796481ff14017e6005508003",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TWT.png"
+    },
+    {
+      "name": "Ellipsis",
+      "symbol": "EPS",
+      "address": "0xa7f552078dcc247c2684336020c03648500c6d9f",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ELLIPSIS.png"
+    },
+    {
+      "name": "Venus",
+      "symbol": "XVS",
+      "address": "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/XVS.png"
+    },
+    {
       "name": "Wrapped Matic",
       "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
       "symbol": "WMATIC",
@@ -964,30 +1020,6 @@
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SPACE.svg"
-    },
-    {
-      "name": "Fruit Token",
-      "symbol": "FRUIT",
-      "address": "0x4ecfb95896660aa7f54003e967e7b283441a2b0a",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FRUIT.svg"
-    },
-    {
-      "name": "Hepa Token",
-      "symbol": "HEPA",
-      "address": "0x9159f30f1c3f0317b0a2d6bc176f29266be790ee",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HEPA.svg"
-    },
-    {
-      "name": "GreenTrust Token",
-      "symbol": "GNT",
-      "address": "0xf750a26eb0acf95556e8529e72ed530f3b60f348",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GNT.svg"
     }
   ]
 }
