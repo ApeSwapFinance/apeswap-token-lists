@@ -980,6 +980,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HEPA.svg"
+    },
+    {
+      "name": "GreenTrust Token",
+      "symbol": "GNT",
+      "address": "0xf750a26eb0acf95556e8529e72ed530f3b60f348",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GNT.svg"
     }
   ]
 }
