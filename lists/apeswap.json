@@ -1036,6 +1036,14 @@
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SPACE.svg"
+    },
+    {
+      "name": "Poly Roll",
+      "symbol": "ROLL",
+      "address": "0xc68e83a305b0fad69e264a1769a0a070f190d2d6",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ROLL.svg"
     }
   ]
 }
