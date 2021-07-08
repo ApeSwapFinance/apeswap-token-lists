@@ -870,12 +870,12 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PACOCA.svg"
     },
     {
-      "name": "Binance-Peg yearn.finance",
+      "name": "Yearn Finance Token",
       "symbol": "YFI",
       "address": "0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FYI.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/YFI.svg"
     },
     {
       "name": "Wrapped Matic",
