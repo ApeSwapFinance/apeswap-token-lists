@@ -1,88 +1,88 @@
 {
-    "name": "ApeSwap BUIDL List",
-    "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/apeswap-ape.svg",
-    "timestamp": "2021-06-30T15:41:29.665Z",
-    "keywords": [
-        "buidl",
-        "defi"
-    ],
-    "tokens": [
-        {
-          "name": "Tako Token",
-          "symbol": "TAKO",
-          "address": "0x2f3391aebe27393aba0a790aa5e1577fea0361c2",
-          "chainId": 56,
-          "decimals": 18,
-          "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TAKO.svg"
-        },
-        {
-          "name": "Vox.Finance",
-          "symbol": "VOXb",
-          "address": "0xc227f8eecc481a8e8baa30a4754b109b81c4dfa4",
-          "chainId": 56,
-          "decimals": 18,
-          "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/VOXb.svg"
-        },
-        {
-          "name": "CROW",
-          "symbol": "CROW",
-          "address": "0xcc2e12a9b5b75360c6fbf23b584c275d52cddb0e",
-          "chainId": 56,
-          "decimals": 18,
-          "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CROW.svg"
-        },
-        {
-          "name": "Purple Monster Token",
-          "symbol": "PMOT",
-          "address": "0xC46889ec6d0DeAffbfF6545621F82a3e6e0D73A5",
-          "chainId": 56,
-          "decimals": 18,
-          "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PMOT.png"
-        },
-        {
-          "name": "Twinci",
-          "symbol": "TWIN",
-          "address": "0xaf83f292fced83032f52ced45ef7dbddb586441a",
-          "chainId": 56,
-          "decimals": 18,
-          "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TWINCI.svg"
-        },
-        {
-          "name": "taps token",
-          "symbol": "TAPS",
-          "address": "0x56eab07247e3e6404ac90140f20bba61375d5c3c",
-          "chainId": 56,
-          "decimals": 18,
-          "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TAPS.svg"
-        },
-        {
-          "name": "Barbecue Token",
-          "symbol": "BBQ",
-          "address": "0xd9a88f9b7101046786490baf433f0f6ab3d753e2",
-          "chainId": 56,
-          "decimals": 18,
-          "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BBQ.svg"
-        },
-        {
-          "name": "Tako Token",
-          "symbol": "TAKO",
-          "address": "0x6d2a71f4edf10ab1e821b9b373363e1e24e5df6b",
-          "chainId": 137,
-          "decimals": 18,
-          "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TAKO.svg"
-        },
-        {
-          "name": "Collar",
-          "symbol": "SCLR",
-          "address": "0xbad476fe39ddd468bd39c1be8b2060cf77bfbbc0",
-          "chainId": 56,
-          "decimals": 18,
-          "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/COLLAR.svg"
-        }
-    ],
-    "version": {
-        "major": 1,
-        "minor": 1,
-        "patch": 3
+  "name": "ApeSwap BUIDL List",
+  "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/apeswap-ape.svg",
+  "timestamp": "2021-06-30T15:41:29.665Z",
+  "keywords": [
+    "buidl",
+    "defi"
+  ],
+  "version": {
+    "major": 2,
+    "minor": 1,
+    "patch": 3
+  },
+  "tokens": [
+    {
+      "name": "Tako Token",
+      "symbol": "TAKO",
+      "address": "0x2f3391aebe27393aba0a790aa5e1577fea0361c2",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TAKO.svg"
+    },
+    {
+      "name": "Vox.Finance",
+      "symbol": "VOXb",
+      "address": "0xc227f8eecc481a8e8baa30a4754b109b81c4dfa4",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/VOXb.svg"
+    },
+    {
+      "name": "CROW",
+      "symbol": "CROW",
+      "address": "0xcc2e12a9b5b75360c6fbf23b584c275d52cddb0e",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CROW.svg"
+    },
+    {
+      "name": "Purple Monster Token",
+      "symbol": "PMOT",
+      "address": "0xC46889ec6d0DeAffbfF6545621F82a3e6e0D73A5",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PMOT.png"
+    },
+    {
+      "name": "Twinci",
+      "symbol": "TWIN",
+      "address": "0xaf83f292fced83032f52ced45ef7dbddb586441a",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TWINCI.svg"
+    },
+    {
+      "name": "taps token",
+      "symbol": "TAPS",
+      "address": "0x56eab07247e3e6404ac90140f20bba61375d5c3c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TAPS.svg"
+    },
+    {
+      "name": "Barbecue Token",
+      "symbol": "BBQ",
+      "address": "0xd9a88f9b7101046786490baf433f0f6ab3d753e2",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BBQ.svg"
+    },
+    {
+      "name": "Tako Token",
+      "symbol": "TAKO",
+      "address": "0x6d2a71f4edf10ab1e821b9b373363e1e24e5df6b",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TAKO.svg"
+    },
+    {
+      "name": "Collar",
+      "symbol": "SCLR",
+      "address": "0xbad476fe39ddd468bd39c1be8b2060cf77bfbbc0",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/COLLAR.svg"
     }
+  ]
 }
