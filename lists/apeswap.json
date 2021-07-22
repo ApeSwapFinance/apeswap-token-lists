@@ -894,12 +894,12 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SISTA.svg"
     },
     {
-      "name": "Bird",
-      "symbol": "BIRD",
+      "name": "Birb",
+      "symbol": "BIRB",
       "address": "0x82A479264B36104be4FDb91618a59A4fC0F50650",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BIRD.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BIRB.svg"
     },
     {
       "name": "Wrapped Matic",
