@@ -1076,6 +1076,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CAPS.svg"
+    },
+    {
+      "name": "Axie Infinity",
+      "symbol": "AXS",
+      "address": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/.svg"
     }
   ]
 }

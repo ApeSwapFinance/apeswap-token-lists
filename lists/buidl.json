@@ -83,6 +83,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/COLLAR.svg"
+    },    
+    {
+      "name": "BuyMainStreet",
+      "symbol": "MAINST",
+      "address": "0x8fc1a944c149762b6b578a06c0de2abd6b7d2b89",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MAINST.svg"
     }
   ]
 }
