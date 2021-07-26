@@ -902,6 +902,22 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BIRB.svg"
     },
     {
+      "name": "Growth-Peg Token",
+      "symbol": "GRO",
+      "address": "0x336ed56d8615271b38ecee6f4786b55d0ee91b96",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GRO.svg"
+    },
+    {
+      "name": "Wheat Token",
+      "symbol": "WHEAT",
+      "address": "0x3ab63309f85df5d4c3351ff8eacb87980e05da4e",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WHEAT.svg"
+    },
+    {
       "name": "Wrapped Matic",
       "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
       "symbol": "WMATIC",
