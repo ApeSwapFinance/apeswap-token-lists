@@ -1099,7 +1099,15 @@
       "address": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/AXS.png"
+    },
+    {
+      "name": "YEL Token",
+      "symbol": "YEL",
+      "address": "0xd3b71117e6c1558c1553305b44988cd944e97300",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/YEL.svg"
     }
   ]
 }
