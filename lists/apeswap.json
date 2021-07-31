@@ -151,14 +151,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CRX.svg"
     },
     {
-      "name": "blueswap.finance Token",
-      "symbol": "BLUE",
-      "address": "0x36C0556c2B15aED79F842675Ff030782738eF9e8",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BLUE.png"
-    },
-    {
       "name": "Jetfuel GFORCE Token",
       "symbol": "GFORCE",
       "address": "0x94BaBBE728D9411612Ee41b20241a6FA251b26Ce",
@@ -191,15 +183,6 @@
       "decimals": 8,
       "type": "deflationary",
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NAUT.png"
-    },
-    {
-      "name": "BrickChain",
-      "symbol": "BRICK",
-      "address": "0xc4daa5a9f2b832ed0f9bc579662883cd53ea9d61",
-      "chainId": 56,
-      "decimals": 18,
-      "type": "deflationary",
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BRICK.png"
     },
     {
       "name": "Binance-Peg Cardano Token",
@@ -298,14 +281,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SWAMP.svg"
     },
     {
-      "name": "HyperAlloy",
-      "symbol": "ALLOY",
-      "address": "0x5ef5994fa33ff4eb6c82d51ee1dc145c546065bd",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ALLOYv2.svg"
-    },
-    {
       "name": "KeyFi Token",
       "symbol": "KEYFI",
       "address": "0x4b6000f9163de2e3f0a01ec37e06e1469dbbce9d",
@@ -378,14 +353,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SAFEP.png"
     },
     {
-      "name": "Gen Token",
-      "symbol": "GEN",
-      "address": "0xB0F2939A1c0e43683E5954c9Fe142F7df9F8D967",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GEN.png"
-    },
-    {
       "name": "Binance-Peg Dogecoin",
       "symbol": "DOGE",
       "address": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
@@ -432,14 +399,6 @@
       "chainId": 56,
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/XBTC.svg"
-    },
-    {
-      "name": "vBSWAP",
-      "symbol": "vBSWAP",
-      "address": "0x4f0ed527e8a95ecaa132af214dfd41f30b361600",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/VBSWAP.svg"
     },
     {
       "name": "WATCH",
@@ -677,14 +636,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GRAND.png"
     },
     {
-      "name": "JetSwap",
-      "symbol": "WINGS",
-      "address": "0x0487b824c8261462f88940f97053e65bdb498446",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WINGS.png"
-    },
-    {
       "name": "Hero",
       "symbol": "HERO",
       "address": "0x9B26e16377ad29A6CCC01770bcfB56DE3A36d8b2",
@@ -750,14 +701,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/Twin_tUSD.svg"
     },
     {
-      "name": "Twin Team Fund",
-      "symbol": "tTeamFund",
-      "address": "0x7191d810103d34EEc28E04c61298551f2381fa6e",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/Twin_tTeamFund.svg"
-    },
-    {
       "name": "Bogged Finance",
       "symbol": "BOG",
       "address": "0xb09fe1613fe03e7361319d2a43edc17422f36b09",
@@ -820,14 +763,6 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GNT.svg"
-    },
-    {
-      "name": "SafePal Token",
-      "symbol": "SFP",
-      "address": "0xD41FDb03Ba84762dD66a0af1a6C8540FF1ba5dfb",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SFP.svg"
     },
     {
       "name": "Trust Wallet",
@@ -1076,14 +1011,6 @@
       "chainId": 80001,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DAI.svg"
-    },
-    {
-      "name": "PolyYeld Token",
-      "symbol": "YELD",
-      "address": "0xd0f3121A190d85dE0AB6131f2bCEcdbfcfB38891",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/YELD.svg"
     },
     {
       "name": "ToolApe",
