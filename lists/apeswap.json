@@ -345,12 +345,12 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BFT.png"
     },
     {
-      "name": "Safe Protocolo",
-      "symbol": "SAFEP",
-      "address": "0xa8c514d991f59bab02d32b68f04204cb89261c88",
+      "name": "SafePal Token",
+      "symbol": "SFP",
+      "address": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
       "chainId": 56,
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SAFEP.png"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SFP.svg"
     },
     {
       "name": "Binance-Peg Dogecoin",
@@ -675,30 +675,6 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NUGGET.svg"
-    },
-    {
-      "name": "Twin NASDAQ 100",
-      "symbol": "tNDX",
-      "address": "0xc40bdAA708dA1446c13a82a5AFc18A396f40Bb40",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/Twin_tNDX.svg"
-    },
-    {
-      "name": "Twin TotalCap",
-      "symbol": "tTotalCap",
-      "address": "0xa27370B367E07e4427B19DFC4cA4f1244Fe36761",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/Twin_tTotalCap.svg"
-    },
-    {
-      "name": "Twin USD",
-      "symbol": "tUSD",
-      "address": "0x79E29E397f33A4F515c11b913e5357327AE14aEC",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/Twin_tUSD.svg"
     },
     {
       "name": "Bogged Finance",
@@ -1051,6 +1027,22 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/YEL.svg"
+    },
+    {
+      "name": "Treasure Key Polygon",
+      "symbol": "PIRATEP",
+      "address": "0x3750144AcD56CC1d3e8dAFD8a187Ad10d174d462",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PIRATEP.png"
+    },
+    {
+      "name": "Wolf Den Guardian",
+      "symbol": "GUARD",
+      "address": "0xf606bd19b1e61574ed625d9ea96c841d4e247a32",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GUARD.svg"
     }
   ]
 }
