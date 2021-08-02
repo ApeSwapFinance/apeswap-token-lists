@@ -91,6 +91,14 @@
       "chainId": 56,
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MAINST.svg"
+    },    
+    {
+      "name": "YSL Token",
+      "symbol": "YSL",
+      "address": "0x95e7c70b58790a1cbd377bc403cd7e9be7e0afb1",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/YSL.svg"
     }
   ]
 }
