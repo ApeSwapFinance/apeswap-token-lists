@@ -1051,6 +1051,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LAND.svg"
+    },
+    {
+      "name": "Moonpot Token",
+      "symbol": "POTS",
+      "address": "0x3fcca8648651e5b974dd6d3e50f61567779772a8",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/POTS.svg"
     }
   ]
 }
