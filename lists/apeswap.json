@@ -349,7 +349,7 @@
       "symbol": "SFP",
       "address": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
       "chainId": 56,
-      "decimals": 8,
+      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SFP.svg"
     },
     {
