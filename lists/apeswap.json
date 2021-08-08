@@ -1083,6 +1083,15 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CYT.svg"
+    },
+    {
+      "name": "Tiny Titans",
+      "symbol": "TITS",
+      "address": "0x534E99ff924038eB4a3aa7fac791D1eF8BB08b37",
+      "chainId": 56,
+      "decimals": 18,
+      "type": "game",
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TITS.svg"
     }
   ]
 }
