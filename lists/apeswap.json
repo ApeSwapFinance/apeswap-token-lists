@@ -1075,6 +1075,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BHC.png"
+    },
+    {
+      "name": "Coinary Token (Dragonary)",
+      "symbol": "CYT",
+      "address": "0xd9025e25bb6cf39f8c926a704039d2dd51088063",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CYT.svg"
     }
   ]
 }
