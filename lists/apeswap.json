@@ -853,6 +853,14 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SACT.svg"
     },
     {
+      "name": "BabyMatic",
+      "symbol": "BABYMATIC",
+      "address": "0xb2ce41b71d93d7f5878f985c3e1a87a6229019be",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BABYMATIC.svg"
+    },
+    {
       "name": "Wrapped Matic",
       "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
       "symbol": "WMATIC",
@@ -1043,6 +1051,14 @@
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PIRATEP.png"
+    },
+    {
+      "name": "BabyMatic",
+      "symbol": "BABYMATIC",
+      "address": "0x63df542b6468e2f94006a2815c9bee9f6dd9b83a",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BABYMATIC.svg"
     },
     {
       "name": "Wolf Den Guardian",
