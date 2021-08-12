@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="148.109 67.342 126.141 126.054" width="126.141" height="126.054" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="linear-gradient" x1="77.0746" y1="124.7149" x2="43.8408" y2="30.5525" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1, 0, 0, 1, 142.730976, 66.856239)">
+      <stop offset="0.0018" stop-color="#fdce09"/>
+      <stop offset="0.2519" stop-color="#f58e1f"/>
+      <stop offset="0.7008" stop-color="#e91f27"/>
+      <stop offset="1" stop-color="#8e192d"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="64.6687" y1="7.4603" x2="89.9402" y2="107.1616" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1, 0, 0, 1, 142.730976, 66.856239)">
+      <stop offset="0.4012" stop-color="#fac414"/>
+      <stop offset="1" stop-color="#e91f27"/>
+    </linearGradient>
+  </defs>
+  <path class="cls-2" d="M 211.214 164.545 L 177.046 130.377 L 211.214 96.208 C 211.214 96.208 184.453 70.072 158.297 96.158 C 131.955 136.894 159.589 190.87 208.038 193.315 C 230.524 194.449 251.906 183.502 264.132 164.596 C 237.976 190.681 211.214 164.545 211.214 164.545 Z" style="fill: url(#linear-gradient);"/>
+  <path class="cls-3" d="M 244.588 76.917 C 215.397 58.683 176.976 67.25 158.297 96.158 C 184.453 70.072 211.214 96.208 211.214 96.208 L 245.382 130.377 L 211.214 164.545 C 211.214 164.545 237.976 190.681 264.132 164.596 C 283.259 135.042 274.455 95.549 244.588 76.917 Z" style="fill: url(#linear-gradient-2);"/>
+</svg>
