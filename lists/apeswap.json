@@ -1061,6 +1061,14 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BABYMATIC.svg"
     },
     {
+      "name": "Phoenix Token (PoS)",
+      "symbol": "PHX",
+      "address": "0x9c6bfedc14b5c23e3900889436edca7805170f01",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PHX.svg"
+    },
+    {
       "name": "Wolf Den Guardian",
       "symbol": "GUARD",
       "address": "0xf606bd19b1e61574ed625d9ea96c841d4e247a32",
