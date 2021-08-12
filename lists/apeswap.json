@@ -1077,6 +1077,14 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PHX.svg"
     },
     {
+      "name": "Hair Token",
+      "symbol": "HAIR",
+      "address": "0x5245Eaea99e69B1B63335f43d934edB6a2087B92",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HAIR.svg"
+    },
+    {
       "name": "Wolf Den Guardian",
       "symbol": "GUARD",
       "address": "0xf606bd19b1e61574ed625d9ea96c841d4e247a32",
