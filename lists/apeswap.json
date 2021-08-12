@@ -1079,7 +1079,7 @@
     {
       "name": "Hair Token",
       "symbol": "HAIR",
-      "address": "0x5245Eaea99e69B1B63335f43d934edB6a2087B92",
+      "address": "0x100a947f51fa3f1dcdf97f3ae507a72603cae63c",
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HAIR.svg"
