@@ -1147,6 +1147,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CYT.svg"
+    },
+    {
+      "name": "Lympo Market Token",
+      "symbol": "LMT",
+      "address": "0x9617857e191354dbea0b714d78bc59e57c411087",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LMT.svg"
     }
   ]
 }
