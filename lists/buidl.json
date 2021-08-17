@@ -75,15 +75,7 @@
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TAKO.svg"
-    },
-    {
-      "name": "Collar",
-      "symbol": "SCLR",
-      "address": "0xbad476fe39ddd468bd39c1be8b2060cf77bfbbc0",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/COLLAR.svg"
-    },    
+    },   
     {
       "name": "BuyMainStreet",
       "symbol": "MAINST",
@@ -99,6 +91,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/YSL.svg"
+    },
+    {
+      "name": " Zombie Token",
+      "symbol": "ZMBE",
+      "address": "0x50ba8bf9e34f0f83f96a340387d1d3888ba4b3b5",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ZMBE.svg"
     }
   ]
 }
