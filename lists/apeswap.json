@@ -1157,6 +1157,14 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/xUSD.svg"
     },
     {
+      "name": "Nalis Token",
+      "symbol": "NALIS",
+      "address": "0x04f2e3ec0642e501220f32fcd9e26e77924929a9",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NALIS.svg"
+    },
+    {
       "name": "Wolf Den Guardian",
       "symbol": "GUARD",
       "address": "0xf606bd19b1e61574ed625d9ea96c841d4e247a32",
