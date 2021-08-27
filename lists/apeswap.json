@@ -933,6 +933,14 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PLAY.png"
     },
     {
+      "name": "ZigCoin",
+      "symbol": "ZIG",
+      "address": "0x8C907e0a72C3d55627E853f4ec6a96b0C8771145",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ZIG.png"
+    },
+    {
       "name": "Wrapped Matic",
       "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
       "symbol": "WMATIC",
