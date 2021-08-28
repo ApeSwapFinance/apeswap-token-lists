@@ -13,14 +13,6 @@
   },
   "tokens": [
     {
-      "name": "Tako Token",
-      "symbol": "TAKO",
-      "address": "0x2f3391aebe27393aba0a790aa5e1577fea0361c2",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TAKO.svg"
-    },
-    {
       "name": "Vox.Finance",
       "symbol": "VOXb",
       "address": "0xc227f8eecc481a8e8baa30a4754b109b81c4dfa4",
@@ -59,22 +51,6 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TAPS.svg"
-    },
-    {
-      "name": "Barbecue Token",
-      "symbol": "BBQ",
-      "address": "0xd9a88f9b7101046786490baf433f0f6ab3d753e2",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BBQ.svg"
-    },
-    {
-      "name": "Tako Token",
-      "symbol": "TAKO",
-      "address": "0x6d2a71f4edf10ab1e821b9b373363e1e24e5df6b",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TAKO.svg"
     },   
     {
       "name": "BuyMainStreet",
@@ -93,7 +69,7 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/YSL.svg"
     },
     {
-      "name": " Zombie Token",
+      "name": "Zombie Token",
       "symbol": "ZMBE",
       "address": "0x50ba8bf9e34f0f83f96a340387d1d3888ba4b3b5",
       "chainId": 56,

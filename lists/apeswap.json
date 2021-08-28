@@ -933,6 +933,22 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WIZARD.svg"
     },
     {
+      "name": "PolyPlay",
+      "symbol": "PLAY",
+      "address": "0x9a3077F34cC30F9BF8E93A0369119bae0113d9cC",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PLAY.png"
+    },
+    {
+      "name": "ZigCoin",
+      "symbol": "ZIG",
+      "address": "0x8C907e0a72C3d55627E853f4ec6a96b0C8771145",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ZIG.png"
+    },
+    {
       "name": "Wrapped Matic",
       "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
       "symbol": "WMATIC",
@@ -1211,6 +1227,54 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LMT.svg"
+    },    
+    {
+      "name": "Barbecue Token",
+      "symbol": "BBQ",
+      "address": "0xd9a88f9b7101046786490baf433f0f6ab3d753e2",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BBQ.svg"
+    },
+    {
+      "name": "Tako Token",
+      "symbol": "TAKO",
+      "address": "0x6d2a71f4edf10ab1e821b9b373363e1e24e5df6b",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TAKO.svg"
+    },
+    {
+      "name": "Tako Token",
+      "symbol": "TAKO",
+      "address": "0x2f3391aebe27393aba0a790aa5e1577fea0361c2",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TAKO.svg"
+    },
+    {
+      "name": "Candela Coin",
+      "symbol": "CLA",
+      "address": "0xf6663f46ecd7ae8ee8b6cc54681a42eba0ef52b4",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CLA.svg"
+    },
+    {
+      "name": "PearZap Token",
+      "symbol": "PEAR",
+      "address": "0xc8bcb58caEf1bE972C0B638B1dD8B0748Fdc8A44",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PEAR.svg"
+    },
+    {
+      "name": "SportX",
+      "symbol": "SX",
+      "address": "0x840195888db4d6a99ed9f73fcd3b225bb3cb1a79",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SX.svg"
     }
   ]
 }
