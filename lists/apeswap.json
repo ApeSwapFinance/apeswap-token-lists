@@ -1259,6 +1259,14 @@
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PEAR.svg"
+    },
+    {
+      "name": "SportX",
+      "symbol": "SX",
+      "address": "0x840195888db4d6a99ed9f73fcd3b225bb3cb1a79",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SX.svg"
     }
   ]
 }
