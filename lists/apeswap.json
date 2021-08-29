@@ -1275,6 +1275,14 @@
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SX.svg"
+    },
+    {
+      "name": "Sing Token",
+      "symbol": "SING",
+      "address": "0x23894c0ce2d79b79ea33a4d02e67ae843ef6e563",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SING.svg"
     }
   ]
 }
