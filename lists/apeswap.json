@@ -1283,6 +1283,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SING.svg"
+    },
+    {
+      "name": "Nerve Network",
+      "symbol": "NVT",
+      "address": "0xf0e406c49c63abf358030a299c0e00118c4c6ba5",
+      "chainId": 56,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NVT.svg"
     }
   ]
 }
