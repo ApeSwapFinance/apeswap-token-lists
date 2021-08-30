@@ -1291,6 +1291,22 @@
       "chainId": 56,
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NVT.svg"
+    },
+    {
+      "name": "PolarSync",
+      "symbol": "POLAR",
+      "address": "0x29bc49d43e0915fea4e81551ba5dee5ebf9b18dd",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/POLAR.png"
+    },
+    {
+      "name": "yieldwatch",
+      "symbol": "WATCH",
+      "address": "0x09211dc67f9fe98fb7bbb91be0ef05f4a12fa2b2",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WATCH.png"
     }
   ]
 }
