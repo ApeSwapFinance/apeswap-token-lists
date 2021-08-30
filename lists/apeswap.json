@@ -1291,6 +1291,14 @@
       "chainId": 56,
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NVT.svg"
+    },
+    {
+      "name": "PearZap Token",
+      "symbol": "PEAR",
+      "address": "0xdf7C18ED59EA738070E665Ac3F5c258dcc2FBad8",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PEAR.svg"
     }
   ]
 }
