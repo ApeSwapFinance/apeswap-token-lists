@@ -949,6 +949,14 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ZIG.png"
     },
     {
+      "name": "INKU Token",
+      "symbol": "INKU",
+      "address": "0xb37cad62441ef8b866f3e36f12fd42062b6c0f33",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/INKU.png"
+    },
+    {
       "name": "Wrapped Matic",
       "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
       "symbol": "WMATIC",
@@ -1179,6 +1187,14 @@
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/xUSD.svg"
+    },
+    {
+      "name": "INKU Token",
+      "symbol": "INKU",
+      "address": "0x1dd9e9e142f3f84d90af1a9f2cb617c7e08420a4",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/INKU.png"
     },
     {
       "name": "Wolf Den Guardian",
