@@ -1307,6 +1307,14 @@
       "chainId": 56,
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NVT.svg"
+    },
+    {
+      "name": "PolarSync",
+      "symbol": "POLAR",
+      "address": "0xc64c9b30c981fc2ee4e13d0ca3f08258e725fd24",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/POLAR.png"
     }
   ]
 }
