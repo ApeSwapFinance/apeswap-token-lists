@@ -69,12 +69,28 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/YSL.svg"
     },
     {
+      "name": "sYSL Token",
+      "symbol": "SYSL",
+      "address": "0x64D3638a7d8747EEE7bD5D402CC5f5bD00dc27dc",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/sYSL.svg"
+    },
+    {
       "name": "Zombie Token",
       "symbol": "ZMBE",
       "address": "0x50ba8bf9e34f0f83f96a340387d1d3888ba4b3b5",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ZMBE.svg"
+    },
+    {
+      "name": "Bingus Token",
+      "symbol": "BINGUS",
+      "address": "0x12adadddc8d86081561a3ff107a2cb347779e717",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BINGUS.png"
     }
   ]
 }
