@@ -9,7 +9,7 @@
   "version": {
     "major": 2,
     "minor": 1,
-    "patch": 3
+    "patch": 4
   },
   "tokens": [
     {
@@ -90,7 +90,7 @@
       "address": "0x12adadddc8d86081561a3ff107a2cb347779e717",
       "chainId": 56,
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BINGUS.png"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BINGUS.svg"
     }
   ]
 }
