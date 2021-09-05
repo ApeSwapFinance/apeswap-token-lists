@@ -957,6 +957,30 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/INKU.png"
     },
     {
+      "name": "Mor Stablecoin",
+      "symbol": "MOR",
+      "address": "0x87bade473ea0513d4aa7085484aeaa6cb6ebe7e3",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MOR.svg"
+    },
+    {
+      "name": "CrudeToken",
+      "symbol": "CRUDE",
+      "address": "0x8db702D9d561921C45Be8DF38830A653e4BC0299",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CRUDE.svg"
+    },
+    {
+      "name": "CEEK",
+      "symbol": "CEEK",
+      "address": "0xe0f94ac5462997d2bc57287ac3a3ae4c31345d66",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CEEK.png"
+    },
+    {
       "name": "Wrapped Matic",
       "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
       "symbol": "WMATIC",
@@ -1281,6 +1305,14 @@
       "symbol": "PEAR",
       "address": "0xc8bcb58caEf1bE972C0B638B1dD8B0748Fdc8A44",
       "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PEAR.svg"
+    },
+    {
+      "name": "PearZap Token",
+      "symbol": "PEAR",
+      "address": "0xdf7C18ED59EA738070E665Ac3F5c258dcc2FBad8",
+      "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PEAR.svg"
     },
