@@ -1347,6 +1347,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/POLAR.png"
+    },
+    {
+      "name": "KROWN",
+      "symbol": "KRW",
+      "address": "0x1446f3CEdf4d86a9399E49f7937766E6De2A3AAB",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/KRW.svg"
     }
   ]
 }
