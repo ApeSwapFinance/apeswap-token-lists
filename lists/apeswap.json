@@ -1366,7 +1366,7 @@
     },
     {
       "name": "HeroFiEgg",
-      "symbol": "HERO",
+      "symbol": "HEROEGG",
       "address": "0xcfbb1bfa710cb2eba070cc3bec0c35226fea4baf",
       "chainId": 56,
       "decimals": 18,
