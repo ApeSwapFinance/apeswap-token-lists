@@ -1363,6 +1363,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/KRW.svg"
+    },
+    {
+      "name": "HeroFiEgg",
+      "symbol": "HERO",
+      "address": "0xcfbb1bfa710cb2eba070cc3bec0c35226fea4baf",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HEROEGG.svg"
     }
   ]
 }
