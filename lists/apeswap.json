@@ -1363,6 +1363,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/KRW.svg"
+    },
+    {
+      "name": "Copycat Token",
+      "symbol": "COPYCAT",
+      "address": "0xd635B32688F36ee4a7FE117b4C91DD811277ACB6",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/COPYCAT.svg"
     }
   ]
 }
