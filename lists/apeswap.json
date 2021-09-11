@@ -845,14 +845,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WHEAT.svg"
     },
     {
-      "name": "Hamaru",
-      "symbol": "MARU",
-      "address": "0x215f51990a0ca5aa360a177181f014e2da376e5e",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MARU.png"
-    },
-    {
       "name": "Pera",
       "symbol": "PERA",
       "address": "0xb9d8592e16a9c1a3ae6021cddb324eac1cbc70d6",
@@ -1403,6 +1395,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HEROEGG.svg"
+    },
+    {
+      "name": "RisingSun",
+      "symbol": "RSUN",
+      "address": "0x917841c010b3d86ed886f36f2c9807e07a2e3093",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RSUN.svg"
     }
   ]
 }
