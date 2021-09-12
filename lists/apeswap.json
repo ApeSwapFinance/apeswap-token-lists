@@ -1403,6 +1403,22 @@
       "chainId": 56,
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RSUN.svg"
+    },
+    {
+      "name": "Tixl Token",
+      "symbol": "TXL",
+      "address": "0x1ffd0b47127fdd4097e54521c9e2c7f0d66aafc5",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TXL.svg"
+    },
+    {
+      "name": "SeedifyFund",
+      "symbol": "SFUND",
+      "address": "0x477bc8d23c634c154061869478bce96be6045d12",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SFUND.svg"
     }
   ]
 }
