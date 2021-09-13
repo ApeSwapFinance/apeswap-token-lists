@@ -1005,6 +1005,14 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DEP.png"
     },
     {
+      "name": "Phoenix Token@BSC",
+      "symbol": "PHX",
+      "address": "0xac86e5f9bA48d680516df50C72928c2ec50F3025",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PHX.svg"
+    },
+    {
       "name": "Wrapped Matic",
       "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
       "symbol": "WMATIC",
