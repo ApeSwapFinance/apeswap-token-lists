@@ -1005,7 +1005,7 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DEP.png"
     },
     {
-      "name": "Phoenix Token@BSC",
+      "name": "Phoenix Token",
       "symbol": "PHX",
       "address": "0xac86e5f9bA48d680516df50C72928c2ec50F3025",
       "chainId": 56,
