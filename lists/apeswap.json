@@ -1005,6 +1005,22 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PHX.svg"
     },
     {
+      "name": "FRMx Token",
+      "symbol": "FRMX",
+      "address": "0x8523518001ad5d24b2A04e8729743C0643A316c0",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FRMX.svg"
+    },
+    {
+      "name": "Ferrum Network Token",
+      "symbol": "FRM",
+      "address": "0xa719b8ab7ea7af0ddb4358719a34631bb79d15dc",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FRM.svg"
+    },
+    {
       "name": "Wrapped Matic",
       "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
       "symbol": "WMATIC",
