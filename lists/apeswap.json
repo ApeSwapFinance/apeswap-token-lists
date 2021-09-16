@@ -963,6 +963,14 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FRM.svg"
     },
     {
+      "name": "Game X Change",
+      "symbol": "EXP",
+      "address": "0x639d4C62F58a4048AD0F69B8CE675dB1A3e8e00e",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/EXP.svg"
+    },
+    {
       "name": "Wrapped Matic",
       "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
       "symbol": "WMATIC",
