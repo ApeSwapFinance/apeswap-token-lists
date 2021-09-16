@@ -110,15 +110,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BAKE.svg"
     },
     {
-      "name": "SOUL Token",
-      "symbol": "SOUL",
-      "address": "0x67d012F731c23F0313CEA1186d0121779c77fcFE",
-      "chainId": 56,
-      "decimals": 8,
-      "type": "deflationary",
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SOUL.svg"
-    },
-    {
       "name": "USD Coin",
       "symbol": "USDC",
       "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
@@ -149,15 +140,6 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CRX.svg"
-    },
-    {
-      "name": "Jetfuel GFORCE Token",
-      "symbol": "GFORCE",
-      "address": "0x94BaBBE728D9411612Ee41b20241a6FA251b26Ce",
-      "chainId": 56,
-      "decimals": 9,
-      "type": "deflationary",
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GFORCE.png"
     },
     {
       "name": "Binance-Peg SushiToken",
@@ -199,14 +181,6 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HPS.png"
-    },
-    {
-      "name": "Rupee Token",
-      "symbol": "RUPEE",
-      "address": "0x7b0409a3a3f79baa284035d48e1dfd581d7d7654",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RUPEE.svg"
     },
     {
       "name": "bMXX Token",
@@ -297,14 +271,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/KEYFI.png"
     },
     {
-      "name": "NFTL Token",
-      "symbol": "NFTL",
-      "address": "0xe5904e9816b309d3ed4d061c922f5aa8f3b24c92",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NFTL.jpg"
-    },
-    {
       "name": "Binance-Peg ChainLink Token",
       "symbol": "LINK",
       "address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
@@ -391,22 +357,6 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/AUTO.svg"
-    },
-    {
-      "name": "Golden Rupee",
-      "symbol": "gRUPEE",
-      "address": "0x8efa59bf5f47c6fe0e97c15cad12f2be6bb899a1",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/gRUPEE.svg"
-    },
-    {
-      "name": "bxBTC",
-      "symbol": "bxBTC",
-      "address": "0xab111d5948470ba73d98d66bbdf2798fbe093546",
-      "chainId": 56,
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/XBTC.svg"
     },
     {
       "name": "WATCH",
@@ -528,14 +478,6 @@
       "decimals": 9,
       "type": "deflationary",
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MOONLIGHT.svg"
-    },
-    {
-      "name": "DefyCoin",
-      "symbol": "DEFY",
-      "address": "0x0acbb2c3d3826b82b17c09e2dfa605b5279e0c63",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DEFY.svg"
     },
     {
       "name": "ToolApe",
@@ -1165,14 +1107,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DAI.svg"
     },
     {
-      "name": "ToolApe",
-      "symbol": "TAPE",
-      "address": "0xf98f70c265093a3b3adbef84ddc29eace900685b",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TAPE.svg"
-    },
-    {
       "name": "Poly Roll",
       "symbol": "ROLL",
       "address": "0xc68e83a305b0fad69e264a1769a0a070f190d2d6",
@@ -1333,14 +1267,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TAKO.svg"
     },
     {
-      "name": "Candela Coin",
-      "symbol": "CLA",
-      "address": "0xf6663f46ecd7ae8ee8b6cc54681a42eba0ef52b4",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CLA.svg"
-    },
-    {
       "name": "PearZap Token",
       "symbol": "PEAR",
       "address": "0xc8bcb58caEf1bE972C0B638B1dD8B0748Fdc8A44",
@@ -1435,6 +1361,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SFUND.svg"
+    },
+    {
+      "name": "Binemon",
+      "symbol": "BIN",
+      "address": "0xe56842ed550ff2794f010738554db45e60730371",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BIN.svg"
     }
   ]
 }

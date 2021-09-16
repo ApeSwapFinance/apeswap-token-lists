@@ -21,22 +21,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/VOXb.svg"
     },
     {
-      "name": "CROW",
-      "symbol": "CROW",
-      "address": "0xcc2e12a9b5b75360c6fbf23b584c275d52cddb0e",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CROW.svg"
-    },
-    {
-      "name": "Purple Monster Token",
-      "symbol": "PMOT",
-      "address": "0xC46889ec6d0DeAffbfF6545621F82a3e6e0D73A5",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PMOT.png"
-    },
-    {
       "name": "Twinci",
       "symbol": "TWIN",
       "address": "0xaf83f292fced83032f52ced45ef7dbddb586441a",
