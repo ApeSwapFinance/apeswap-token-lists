@@ -1377,6 +1377,22 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BIN.svg"
+    },
+    {
+      "name": "DefyCoin",
+      "symbol": "DEFY",
+      "address": "0x0acbb2c3d3826b82b17c09e2dfa605b5279e0c63",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DEFY.svg"
+    },
+    {
+      "name": "CyberFi Token",
+      "symbol": "CFi",
+      "address": "0x6a545f9c64d8f7b957d8d2e6410b52095a9e6c29",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CFi.svg"
     }
   ]
 }
