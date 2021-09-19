@@ -1299,6 +1299,14 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SX.svg"
     },
     {
+      "name": "SportX",
+      "symbol": "SX",
+      "address": "0x6f26e8a40c8daae8c4358ce557c10226527cebce",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SX.svg"
+    },
+    {
       "name": "Sing Token",
       "symbol": "SING",
       "address": "0x23894c0ce2d79b79ea33a4d02e67ae843ef6e563",
