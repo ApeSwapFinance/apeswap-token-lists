@@ -1409,6 +1409,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CFi.svg"
+    },
+    {
+      "name": "Gummy Bull Token",
+      "symbol": "GUMMY",
+      "address": "0x10d3e0c38c286a04aee44d9b01cac916b56ee05a",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GUMMY.svg"
     }
   ]
 }
