@@ -971,12 +971,12 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/EXP.svg"
     },
     {
-      "name": "ROCKS",
-      "symbol": "ROCKS",
+      "name": "Rocki.app",
+      "symbol": "ROCKI",
       "address": "0xA01000C52b234a92563BA61e5649b7C76E1ba0f3",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ROCKS.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ROCKI.svg"
     },
     {
       "name": "Wrapped Matic",
@@ -1417,6 +1417,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GUMMY.svg"
+    },
+    {
+      "name": "Grand Banks",
+      "symbol": "GRAND",
+      "address": "0xbcf339df10d78f2b44aa760ead0f715a7a7d7269",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GRAND.png"
     }
   ]
 }
