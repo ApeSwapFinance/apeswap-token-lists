@@ -771,6 +771,38 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BIRB.svg"
     },
     {
+      "name": "FRAX (AnySwap)",
+      "symbol": "anyFRAX",
+      "address": "0x29cED01C447166958605519F10DcF8b0255fB379",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/anyFRAX.png"
+    },
+    {
+      "name": "FRAX",
+      "symbol": "FRAX",
+      "address": "0x90C97F71E18723b0Cf0dfa30ee176Ab653E89F40",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FRAX.png"
+    },
+    {
+      "name": "FXS (Binance Bridge)",
+      "symbol": "binFXS",
+      "address": "0xe48A3d7d0Bc88d552f730B62c006bC925eadB9eE",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/binFXS.png"
+    },
+    {
+      "name": "FXS",
+      "symbol": "FXS",
+      "address": "0xDE2F075f6F14EB9D96755b24E416A53E736Ca363",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FXS.png"
+    },
+    {
       "name": "Growth-Peg Token",
       "symbol": "GRO",
       "address": "0x336ed56d8615271b38ecee6f4786b55d0ee91b96",
