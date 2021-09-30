@@ -1433,6 +1433,14 @@
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GRAND.png"
+    },
+    {
+      "name": "NFTY Token",
+      "symbol": "NFTY",
+      "address": "0x5774b2fc3e91af89f89141eacf76545e74265982",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NFTY.png"
     }
   ]
 }
