@@ -1171,14 +1171,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PIRATEP.png"
     },
     {
-      "name": "BabyMatic",
-      "symbol": "BABYMATIC",
-      "address": "0x63df542b6468e2f94006a2815c9bee9f6dd9b83a",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BABYMATIC.svg"
-    },
-    {
       "name": "Phoenix Token (PoS)",
       "symbol": "PHX",
       "address": "0x9c6bfedc14b5c23e3900889436edca7805170f01",
@@ -1441,6 +1433,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NFTY.png"
+    },
+    {
+      "name": "Aurum",
+      "symbol": "AUR",
+      "address": "0x1dEb45C74E0192D9272ADF54e9a7519C48C2bd81",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/AUR.svg"
     }
   ]
 }
