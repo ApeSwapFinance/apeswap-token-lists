@@ -987,6 +987,14 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DCB.png"
     },
     {
+      "name": "Secret Finance",
+      "symbol": "SEFI",
+      "address": "0xcd95350c69F229E72e57A44e8C05C436E65E4bEb",
+      "chainId": 56,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SEFI.svg"
+    },
+    {
       "name": "Wrapped Matic",
       "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
       "symbol": "WMATIC",
