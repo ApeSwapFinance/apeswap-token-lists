@@ -1473,6 +1473,14 @@
       "chainId": 137,
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DOGIRA.svg"
+    },
+    {
+      "name": "Prosper",
+      "symbol": "PROS",
+      "address": "0xed8c8aa8299c10f067496bb66f8cc7fb338a3405",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PROS.svg"
     }
   ]
 }
