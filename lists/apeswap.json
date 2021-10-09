@@ -1465,6 +1465,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/AUR.svg"
+    },
+    {
+      "name": "Dogira",
+      "symbol": "DOGIRA",
+      "address": "0xdda40cdfe4a0090f42ff49f264a831402adb801a",
+      "chainId": 137,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DOGIRA.svg"
     }
   ]
 }
