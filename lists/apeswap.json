@@ -1481,6 +1481,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PROS.svg"
+    },
+    {
+      "name": "AirNFT Token",
+      "symbol": "AIRT",
+      "address": "0x016CF83732f1468150D87dCC5BdF67730B3934D3",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/AIRT.svg"
     }
   ]
 }
