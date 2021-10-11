@@ -1489,6 +1489,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/AIRT.svg"
+    },
+    {
+      "name": "Kommunitas",
+      "symbol": "KOM",
+      "address": "0xc004e2318722ea2b15499d6375905d75ee5390b8",
+      "chainId": 137,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/KOM.svg"
     }
   ]
 }
