@@ -1505,6 +1505,14 @@
       "chainId": 137,
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/KOM.svg"
+    },
+    {
+      "name": "pQBERT",
+      "symbol": "pQBERT",
+      "address": "0x40038c83e459937a988b669f1159cc78d8fdad68",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/pQBERT.svg"
     }
   ]
 }
