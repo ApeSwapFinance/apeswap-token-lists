@@ -1513,6 +1513,14 @@
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PQBERT.svg"
+    },
+    {
+      "name": "OASIS",
+      "symbol": "OASIS",
+      "address": "0xb19289b436b2f7a92891ac391d8f52580d3087e4",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/OASIS.svg"
     }
   ]
 }
