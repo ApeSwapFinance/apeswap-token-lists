@@ -1537,6 +1537,14 @@
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SKILL.svg"
+    },    
+    {
+      "name": "FOMO Chronicles Manga",
+      "symbol": "OTAKU",
+      "address": "0x484215873a674f9af73367a8f94c2c591e997521",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/OTAKU.png"
     }
   ]
 }
