@@ -1529,6 +1529,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/OASIS.svg"
+    },
+    {
+      "name": "CryptoBlades Skill Token",
+      "symbol": "SKILL",
+      "address": "0x863D6074aFaF02D9D41A5f8Ea83278DF7089aA86",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SKILL.svg"
     }
   ]
 }
