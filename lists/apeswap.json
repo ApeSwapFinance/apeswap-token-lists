@@ -1545,6 +1545,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/OTAKU.png"
+    },    
+    {
+      "name": "TNNS",
+      "symbol": "TNNS",
+      "address": "0x6C7C87D9868b1dB5a0F62d867bAa90e0AdFA7Cfd",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TNNS.png"
     }
   ]
 }
