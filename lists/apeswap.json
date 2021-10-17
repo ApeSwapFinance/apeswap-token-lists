@@ -1553,6 +1553,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TNNS.png"
+    },    
+    {
+      "name": "CryptoBlades KING Token",
+      "symbol": "KING",
+      "address": "0x0ccd575bf9378c06f6dca82f8122f570769f00c2",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/KING.png"
     }
   ]
 }
