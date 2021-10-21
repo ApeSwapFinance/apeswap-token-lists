@@ -1577,6 +1577,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FIL.png"
+    },    
+    {
+      "name": "TrueUSD Token",
+      "symbol": "TUSD",
+      "address": "0x14016e85a25aeb13065688cafb43044c2ef86784",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TUSD.png"
     }
   ]
 }
