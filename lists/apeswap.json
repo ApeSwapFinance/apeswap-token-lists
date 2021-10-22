@@ -1593,6 +1593,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TOWER.svg"
+    },    
+    {
+      "name": "BabyBanana",
+      "symbol": "BBNANA",
+      "address": "0xa3be3b30fa5302dad5c9874cdb50e220eaadf092",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BBNANA.svg"
     }
   ]
 }
