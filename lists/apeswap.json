@@ -1601,6 +1601,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BBNANA.svg"
+    },
+    {
+      "name": "IDEX Token",
+      "symbol": "IDEX",
+      "address": "0x0856978f7ffff0a2471b4520e3521c4b3343e36f",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/IDEX.svg"
     }
   ]
 }
