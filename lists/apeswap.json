@@ -1609,6 +1609,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/IDEX.svg"
+    },
+    {
+      "name": "Wazirx Token",
+      "symbol": "WRX",
+      "address": "0x8e17ed70334c87ece574c9d537bc153d8609e2a3",
+      "chainId": 56,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WRX.png"
     }
   ]
 }
