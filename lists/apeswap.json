@@ -683,14 +683,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FRUIT.svg"
     },
     {
-      "name": "Hepa Token",
-      "symbol": "HEPA",
-      "address": "0x9159f30f1c3f0317b0a2d6bc176f29266be790ee",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HEPA.svg"
-    },
-    {
       "name": "GreenTrust Token",
       "symbol": "GNT",
       "address": "0xf750a26eb0acf95556e8529e72ed530f3b60f348",
@@ -801,14 +793,6 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SACT.svg"
-    },
-    {
-      "name": "BabyMatic",
-      "symbol": "BABYMATIC",
-      "address": "0xb2ce41b71d93d7f5878f985c3e1a87a6229019be",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BABYMATIC.svg"
     },
     {
       "name": "BIGFOOT",
