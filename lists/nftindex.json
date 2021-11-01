@@ -1,0 +1,25 @@
+{
+  "name": "LICO Index List",
+  "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LICO.svg",
+  "timestamp": "2021-10-30T15:41:29.665Z",
+  "keywords": [
+    "nft",
+    "index",
+    "lico"
+  ],
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 1
+  },
+  "tokens": [
+    {
+      "name": "Liquid Monsters",
+      "symbol": "LIMO",
+      "address": "0x79534dedae71b7b672fc997b4a77748ae5fdf5ad",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LIMO.svg"
+    }
+  ]
+}

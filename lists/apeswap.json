@@ -1315,6 +1315,14 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TAKO.svg"
     },
     {
+      "name": "Liquid Collectibles Token",
+      "symbol": "LICO",
+      "address": "0x4f3266a56589357b4f8082918b14b923693e57f0",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LICO.svg"
+    },
+    {
       "name": "PearZap Token",
       "symbol": "PEAR",
       "address": "0xc8bcb58caEf1bE972C0B638B1dD8B0748Fdc8A44",
@@ -1617,6 +1625,25 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FXS.png"
+<<<<<<< HEAD
+=======
+    },
+    {
+      "name": "Pontoon Token",
+      "symbol": "TOON",
+      "address": "0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TOON.svg"
+    },
+    {
+      "name": "Allbridge",
+      "symbol": "ABR",
+      "address": "0x04429fbb948bbd09327763214b45e505a5293346",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ABR.svg"
+>>>>>>> 4c2b60d79aba5ea64236a489c7b2ae8a99cbb5de
     }
   ]
 }
