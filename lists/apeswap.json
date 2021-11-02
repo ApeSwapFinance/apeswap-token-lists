@@ -1649,6 +1649,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LIQ.svg"
+    },
+    {
+      "name": "Lemonn Token",
+      "symbol": "LMN",
+      "address": "0x7251C7A2155d8FEDb42a1DC4333aDe589e4d6919",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LMN.svg"
     }
   ]
 }
