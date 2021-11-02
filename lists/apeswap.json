@@ -1641,6 +1641,14 @@
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ABR.svg"
+    },
+    {
+      "name": "Liquidus",
+      "symbol": "LIQ",
+      "address": "0xc7981767f644C7F8e483DAbDc413e8a371b83079",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LIQ.svg"
     }
   ]
 }
