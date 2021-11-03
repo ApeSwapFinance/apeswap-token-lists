@@ -1663,7 +1663,7 @@
       "symbol": "WING",
       "address": "0x3cb7378565718c64ab86970802140cc48ef1f969",
       "chainId": 56,
-      "decimals": 18,
+      "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WING.svg"
     }
   ]
