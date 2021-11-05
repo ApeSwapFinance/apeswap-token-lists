@@ -1665,6 +1665,14 @@
       "chainId": 56,
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WING.svg"
+    },
+    {
+      "name": "Galatic Arena Token",
+      "symbol": "GAN",
+      "address": "0x8f1408171eae06aec4549fd0a5808a42cee6dd84",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GAN.svg"
     }
   ]
 }
