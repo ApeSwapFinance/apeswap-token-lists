@@ -1673,6 +1673,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GAN.svg"
+    },
+    {
+      "name": "BCPAY Fintech",
+      "symbol": "BCPAY",
+      "address": "0x21f1ce0FCf1E9E39F8e79B7762801E8096d9f6CD",
+      "chainId": 56,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BCPAY.svg"
     }
   ]
 }
