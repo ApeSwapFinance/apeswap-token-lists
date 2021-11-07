@@ -14,12 +14,20 @@
   },
   "tokens": [
     {
-      "name": "Liquid Monsters",
-      "symbol": "LIMO",
+      "name": "Liquid Monsters Index",
+      "symbol": "LIMOi",
       "address": "0x79534dedae71b7b672fc997b4a77748ae5fdf5ad",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LIMO.svg"
+    },
+    {
+      "name": "Non Fungible Apes Index",
+      "symbol": "NFAi",
+      "address": "0x4c48a4d089d13cb24a8a250c7051e8a3f8687460",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NFA.svg"
     }
   ]
 }
