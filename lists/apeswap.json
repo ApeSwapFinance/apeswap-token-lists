@@ -1705,6 +1705,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SATA.svg"
+    },
+    {
+      "name": "Gold Coin",
+      "symbol": "GOLDCOIN",
+      "address": "0xf2f02f60fd1a376270e777aa2a4667329e3984ed",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GOLDCOIN.svg"
     }
   ]
 }
