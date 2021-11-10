@@ -947,6 +947,14 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FRM.svg"
     },
     {
+      "name": "FRMx Token",
+      "symbol": "FRMX",
+      "address": "0x00e197ac4735f1d6a0a2f0df3947e6ed86d09260",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FRMx.svg"
+    },
+    {
       "name": "Game X Change",
       "symbol": "EXP",
       "address": "0x639d4C62F58a4048AD0F69B8CE675dB1A3e8e00e",
@@ -1681,6 +1689,38 @@
       "chainId": 56,
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BCPAY.svg"
+    },
+    {
+      "name": "iBuffer Token",
+      "symbol": "iBFR",
+      "address": "0xa296ad1c47fe6bdc133f39555c1d1177bd51fbc5",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/iBFR.svg"
+    },
+    {
+      "name": "Signata",
+      "symbol": "SATA",
+      "address": "0x6b1c8765c7eff0b60706b0ae489eb9bb9667465a",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SATA.svg"
+    },
+    {
+      "name": "Gold Coin",
+      "symbol": "GOLDCOIN",
+      "address": "0xf2f02f60fd1a376270e777aa2a4667329e3984ed",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GOLDCOIN.svg"
+    },
+    {
+      "name": "Shill",
+      "symbol": "SHILL",
+      "address": "0xfb9C339b4BacE4Fe63ccc1dd9a3c3C531441D5fE",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SHILL.svg"
     }
   ]
 }
