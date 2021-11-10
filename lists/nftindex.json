@@ -1,7 +1,7 @@
 {
   "name": "LICO Index List",
   "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LICO.svg",
-  "timestamp": "2021-10-30T15:41:29.665Z",
+  "timestamp": "2021-11-10T15:41:29.665Z",
   "keywords": [
     "nft",
     "index",
@@ -9,7 +9,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 1
   },
   "tokens": [
@@ -28,6 +28,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NFA.png"
+    },
+    {
+      "name": "The Bull Society Index",
+      "symbol": "BULLi",
+      "address": "0xe6449798ad79B23DF2244af1A0032dc845a84892",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BULLi.png"
     }
   ]
 }
