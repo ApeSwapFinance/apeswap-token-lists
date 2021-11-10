@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 316 300" style="enable-background:new 0 0 316 300;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#33CC99;}
+</style>
+<g>
+	<path class="st0" d="M245,34.5h-89c-62.3,0-113,50.7-113,113v75v14c0,13.3,10.7,24,24,24h89c62.3,0,113-50.7,113-113v-75v-14
+		C269,45.3,258.3,34.5,245,34.5z"/>
+	<g>
+		<g>
+			<circle class="st1" cx="157" cy="147.3" r="10.8"/>
+			<g>
+				<path class="st1" d="M156,174.9v14c22.8,0,41.4-18.6,41.4-41.4h-14C183.4,162.6,171.1,174.9,156,174.9z"/>
+				<path class="st1" d="M156,120.1v-14c-22.8,0-41.4,18.6-41.4,41.4h14C128.6,132.4,140.9,120.1,156,120.1z"/>
+				<path class="st1" d="M156,96.5v-14c-35.8,0-65,29.1-65,65h14C105.1,119.4,127.9,96.5,156,96.5z"/>
+				<path class="st1" d="M156,198.5v14c35.8,0,65-29.1,65-65h-14C207,175.6,184.1,198.5,156,198.5z"/>
+			</g>
+		</g>
+		<g>
+			<circle class="st1" cx="157" cy="147.3" r="10.8"/>
+			<g>
+				<path class="st1" d="M156,174.9v14c22.8,0,41.4-18.6,41.4-41.4h-14C183.4,162.6,171.1,174.9,156,174.9z"/>
+				<path class="st1" d="M156,120.1v-14c-22.8,0-41.4,18.6-41.4,41.4h14C128.6,132.4,140.9,120.1,156,120.1z"/>
+				<path class="st1" d="M156,96.5v-14c-35.8,0-65,29.1-65,65h14C105.1,119.4,127.9,96.5,156,96.5z"/>
+				<path class="st1" d="M156,198.5v14c35.8,0,65-29.1,65-65h-14C207,175.6,184.1,198.5,156,198.5z"/>
+			</g>
+		</g>
+	</g>
+	<rect x="156" y="106.1" class="st1" width="89" height="14"/>
+	<rect x="156" y="82.5" class="st1" width="89" height="14"/>
+	<g>
+		<path class="st1" d="M156,222.5H67v14h89c49.1,0,89-39.9,89-89h-14C231,188.9,197.4,222.5,156,222.5z"/>
+		<path class="st1" d="M156,58.5c-49.1,0-89,39.9-89,89h14c0-41.4,33.6-75,75-75h89v-14H156z"/>
+	</g>
+	<rect x="67" y="174.9" class="st1" width="89" height="14"/>
+	<rect x="67" y="198.5" class="st1" width="89" height="14"/>
+</g>
+</svg>

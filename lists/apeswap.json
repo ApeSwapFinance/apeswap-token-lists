@@ -1713,6 +1713,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GOLDCOIN.svg"
+    },
+    {
+      "name": "Shill",
+      "symbol": "SHILL",
+      "address": "0xfb9C339b4BacE4Fe63ccc1dd9a3c3C531441D5fE",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SHILL.svg"
     }
   ]
 }
