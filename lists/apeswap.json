@@ -1729,6 +1729,14 @@
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FOUR.svg"
+    },
+    {
+      "name": "Mimir Token",
+      "symbol": "MIMIR",
+      "address": "0xd1790c5435b9fB7C9444c749ceFE53D40D751eaC",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MIMIR.svg"
     }
   ]
 }
