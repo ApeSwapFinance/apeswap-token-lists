@@ -36,6 +36,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BULLi.png"
+    },
+    {
+      "name": "Neural Pepe v2 Index",
+      "symbol": "NPi",
+      "address": "0x2a5dBc90DBcabd67D3dE0C13Dd04E554A76b000B",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NPi.png"
     }
   ]
 }
