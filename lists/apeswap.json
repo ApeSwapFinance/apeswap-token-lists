@@ -1737,6 +1737,14 @@
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MIMIR.svg"
+    },
+    {
+      "name": "iMe Lab",
+      "symbol": "LIME",
+      "address": "0x7bc75e291e656e8658d66be1cc8154a3769a35dd",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LIME.svg"
     }
   ]
 }
