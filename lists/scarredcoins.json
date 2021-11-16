@@ -1,0 +1,25 @@
+{
+  "name": "Scarred Gaming Coins",
+  "logoURI": "https://storageapi.fleek.co/65e6b0cc-f813-422c-8ac3-327d800ffbc5-bucket/scarred-assets/logo2.png",
+  "timestamp": "2021-06-30T15:41:29.665Z",
+  "keywords": [
+    "gaming",
+    "defi",
+    "gambling"
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "tokens": [
+    {
+      "name": "Scarred Entertainment",
+      "symbol": "SCARG",
+      "address": "0x67ed879bf30fed6e1a935970de1b5850d56f8f46",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://storageapi.fleek.co/65e6b0cc-f813-422c-8ac3-327d800ffbc5-bucket/scarred-assets/logo2.png"
+    }
+  ]
+}
