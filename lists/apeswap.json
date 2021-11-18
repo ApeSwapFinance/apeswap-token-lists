@@ -1745,6 +1745,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LIME.svg"
+    },
+    {
+      "name": "QUIDD",
+      "symbol": "QUIDD",
+      "address": "0x7961Ade0a767c0E5B67Dd1a1F78ba44F727642Ed",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/QUIDD.svg"
     }
   ]
 }
