@@ -1753,6 +1753,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/QUIDD.svg"
+    },
+    {
+      "name": "Relay Token",
+      "symbol": "RELAY",
+      "address": "0xE338D4250A4d959F88Ff8789EaaE8c32700BD175",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RELAY.svg"
     }
   ]
 }
