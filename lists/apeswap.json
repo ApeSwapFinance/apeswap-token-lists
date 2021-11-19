@@ -99,7 +99,7 @@
       "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CAKE.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CAKE.png"
     },
     {
       "name": "Bakery Token",
@@ -164,7 +164,7 @@
       "chainId": 56,
       "decimals": 8,
       "type": "deflationary",
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NAUT.png"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NAUT.svg"
     },
     {
       "name": "Binance-Peg Cardano Token",
@@ -292,7 +292,7 @@
       "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/XRP.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/XRP.png"
     },
     {
       "name": "Swipe",
@@ -316,7 +316,7 @@
       "address": "0xa4f93159ce0a4b533b443c74b89967c60a5969f8",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BFT.png"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BFT.svg"
     },
     {
       "name": "SafePal Token",
@@ -380,7 +380,7 @@
       "address": "0x935a544bf5816e3a7c13db2efe3009ffda0acda2",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/blz.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BLZ.svg"
     },
     {
       "name": "Snx Token",
@@ -388,7 +388,7 @@
       "address": "0x9ac983826058b8a9c7aa1c9171441191232e8404",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/snx.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SNX.svg"
     },
     {
       "name": "Near Token",
@@ -404,7 +404,7 @@
       "address": "0xadbaf88b39d37dc68775ed1541f1bf83a5a45feb",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/coti.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/COTI.svg"
     },
     {
       "name": "Avax Token",
@@ -412,7 +412,7 @@
       "address": "0x1ce0c2827e2ef14d5c4f29a091d735a204794041",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/avax.png"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/AVAX.png"
     },
     {
       "name": "Matic Token",
@@ -517,7 +517,7 @@
       "address": "0x2859e4544c4bb03966803b044a93563bd2d0dd4d",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/shib.png"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SHIB.png"
     },
     {
       "name": "Bitcrush Token",
@@ -567,7 +567,7 @@
       "chainId": 56,
       "decimals": 9,
       "type": "deflationary",
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/feg.png"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FEG.png"
     },
     {
       "name": "Automata",
@@ -615,7 +615,7 @@
       "address": "0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/mobox.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MOBOX.svg"
     },
     {
       "name": "Wyvern",
@@ -736,7 +736,7 @@
       "address": "0x19a6da6e382b85f827088092a3dbe864d9ccba73",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BISON.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BISON.png"
     },
     {
       "name": "Mogul Stars",
@@ -864,7 +864,7 @@
       "address": "0xb37cad62441ef8b866f3e36f12fd42062b6c0f33",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/INKU.png"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/INKU.svg"
     },
     {
       "name": "Mor Stablecoin",
@@ -1248,7 +1248,7 @@
       "address": "0xf606bd19b1e61574ed625d9ea96c841d4e247a32",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GUARD.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GUARD.png"
     },
     {
       "name": "Landshare Token",
