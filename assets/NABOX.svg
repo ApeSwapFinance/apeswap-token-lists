@@ -1,1 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200.17 228.32"><defs><style>.cls-1{fill:#2ac98b;fill-rule:evenodd;}</style></defs><title>Nabox</title><g id="图层_2" data-name="图层 2"><g id="图层_1-2" data-name="图层 1"><polygon class="cls-1" points="0 64.12 0 170.46 30.79 188.21 30.79 112.14 61.47 129.86 61.47 205.88 92.27 223.63 92.27 117.28 0 64.12"/><path class="cls-1" d="M69.94,54.39l30.85-18.08,38.33,22.43-30.83,18ZM100.83,0l-93,54.41,100.29,58.8,0,115.11,30.42-17.72V94.15l30.74-18V192.5l30.87-18.17V58.11Z"/></g></g></svg>
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 207 207" width="207" height="207">
+	<title>NABOX-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M37.77 70L99 70L99 176L37.77 176L37.77 70Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="M42 28.5L169.02 28.5L169.02 178.5L42 178.5L42 28.5Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #d9d9d9 } 
+		.shp1 { fill: #2ac98b } 
+	</style>
+	<path id="Layer" class="shp0" d="M103.5 0.38C46.55 0.38 0.38 46.55 0.38 103.5C0.38 160.45 46.55 206.63 103.5 206.63C160.45 206.63 206.63 160.45 206.63 103.5C206.63 46.55 160.45 0.38 103.5 0.38Z" />
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<path id="Layer" fill-rule="evenodd" class="shp1" d="M37.77 70.64L37.77 140.47L57.96 152.13L57.96 102.17L78.08 113.81L78.08 163.73L98.27 175.39L98.27 105.55L37.77 70.64Z" />
+		</g>
+	</g>
+	<g id="Clip-Path" clip-path="url(#cp2)">
+		<g id="Layer">
+			<path id="Layer" fill-rule="evenodd" class="shp1" d="M169.01 66.69L169.01 143.01L148.77 154.95L148.77 78.54L128.61 90.36L128.61 166.83L108.67 178.47L108.67 102.88L42.91 64.26L103.89 28.53L169.01 66.69ZM108.78 78.93L128.99 67.11L103.86 52.38L83.63 64.25L108.78 78.93Z" />
+		</g>
+	</g>
+</svg>

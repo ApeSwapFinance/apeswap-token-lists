@@ -1,15 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:none;stroke:#48A3FF;stroke-width:17.3478;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-</style>
-<g>
-	<g>
-		<path class="st0" d="M367.2,331.9l-235.5-238v119 M131.8,212.9c0,30.5,11.5,60.9,34.5,84.2c46,46.5,120.5,46.5,166.5,0
-			L166.3,128.7 M131.8,93.9l235.5,238v-119 M367.2,212.9c0-30.5-11.5-60.9-34.5-84.2c-46-46.5-120.5-46.5-166.5,0L332.8,297
-			 M131.8,316.5v44.8 M250,361.3v44.8 M368.2,357.9v29.9"/>
-	</g>
-</g>
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 207 207" width="207" height="207">
+	<title>ONG-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #d9d9d9 } 
+		.shp1 { fill: none;stroke: #48a3ff;stroke-linecap:round;stroke-linejoin:round;stroke-width: 7.182 } 
+	</style>
+	<path id="Layer" class="shp0" d="M103.5 0.38C46.55 0.38 0.38 46.55 0.38 103.5C0.38 160.45 46.55 206.63 103.5 206.63C160.45 206.63 206.63 160.45 206.63 103.5C206.63 46.55 160.45 0.38 103.5 0.38Z" />
+	<path id="Layer" class="shp1" d="M151.85 143.3L54.36 44.77L54.36 94.04M54.39 94.04C54.39 106.67 59.16 119.25 68.68 128.9C87.72 148.15 118.57 148.15 137.61 128.9L68.68 59.18M54.39 44.77L151.89 143.3L151.89 94.04M151.85 94.04C151.85 81.41 147.09 68.83 137.57 59.18C118.52 39.93 87.68 39.93 68.64 59.18L137.61 128.86M54.39 136.93L54.39 155.48M103.33 155.48L103.33 174.02M152.27 154.07L152.27 166.45" />
 </svg>
