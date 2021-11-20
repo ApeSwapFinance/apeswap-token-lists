@@ -396,7 +396,7 @@
       "address": "0x1fa4a73a3f0133f0025378af00236f3abdee5d63",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/near.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NEAR.svg"
     },
     {
       "name": "Coti Token",
@@ -517,7 +517,7 @@
       "address": "0x2859e4544c4bb03966803b044a93563bd2d0dd4d",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/shib.png"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SHIB.png"
     },
     {
       "name": "Bitcrush Token",
@@ -525,7 +525,7 @@
       "address": "0x0Ef0626736c2d484A792508e99949736D0AF807e",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BCA.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CRUSH.svg"
     },
     {
       "name": "PolyCrowns",
@@ -615,7 +615,7 @@
       "address": "0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/mobox.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MBOX.svg"
     },
     {
       "name": "Wyvern",
@@ -776,7 +776,7 @@
       "address": "0x3ab63309f85df5d4c3351ff8eacb87980e05da4e",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WHEAT.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WHEAT.png"
     },
     {
       "name": "Pera",
@@ -1248,7 +1248,7 @@
       "address": "0xf606bd19b1e61574ed625d9ea96c841d4e247a32",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GUARD.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GUARD.png"
     },
     {
       "name": "Landshare Token",
