@@ -1128,7 +1128,7 @@
       "address": "0x340fe1d898eccaad394e2ba0fc1f93d27c7b717a",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/JDI.png"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/JDI.svg"
     },
     {
       "name": "Fish",
