@@ -1769,6 +1769,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MONI.svg"
+    },
+    {
+      "name": "Wagerr Token",
+      "symbol": "WGR",
+      "address": "0xdbf8265b1d5244a13424f13977723acf5395eab2",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WGR.svg"
     }
   ]
 }
