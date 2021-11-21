@@ -1777,6 +1777,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WGR.svg"
+    },
+    {
+      "name": "Infomatix",
+      "symbol": "INFO",
+      "address": "0xdF727040d3997b5D95deE8c661fA96E3c13eE0C9",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/INFO.svg"
     }
   ]
 }
