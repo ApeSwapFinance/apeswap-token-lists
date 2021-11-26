@@ -44,6 +44,22 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NPi.png"
+    },
+    {
+      "name": "CyberBearz Army Index",
+      "symbol": "BEARZi",
+      "address": "0xe794cf0b41ed375319276b5da2dc8551993e41f9",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BEARZi.png"
+    },
+    {
+      "name": "Non-Fungible Banana Index",
+      "symbol": "NFBi",
+      "address": "0x45d957a094c73a0d12bccab279f78c1d253d8f56",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NFBi.png"
     }
   ]
 }
