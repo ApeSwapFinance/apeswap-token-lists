@@ -1801,6 +1801,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MOWA.svg"
+    },
+    {
+      "name": "King",
+      "symbol": "KING",
+      "address": "0xcf2D2CE89AeD0073540C497fcF894Ea22d37C7aF",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/KING.svg"
     }
   ]
 }
