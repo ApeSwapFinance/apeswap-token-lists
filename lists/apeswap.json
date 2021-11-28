@@ -1787,12 +1787,20 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/INFO.svg"
     },
     {
-      "name": "King",
-      "symbol": "KING",
-      "address": "0xcf2D2CE89AeD0073540C497fcF894Ea22d37C7aF",
+      "name": "Revolve Games",
+      "symbol": "RPG",
+      "address": "0x01e0d17a533e5930a349c2bb71304f04f20ab12b",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/KING.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/.svg"
+    },
+    {
+      "name": "Moniwar",
+      "symbol": "MOWA",
+      "address": "0x411ec510c85c9e56271bf4e10364ffa909e685d9",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MOWA.svg"
     }
   ]
 }
