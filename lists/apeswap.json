@@ -1809,6 +1809,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/KING.svg"
+    },
+    {
+      "name": "HERA TOKEN",
+      "symbol": "HERA",
+      "address": "0x49C7295ff86EaBf5bf58C6eBC858DB4805738c01",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HERA.png"
     }
   ]
 }
