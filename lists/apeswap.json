@@ -1817,6 +1817,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HERA.png"
+    },
+    {
+      "name": "GAMEE",
+      "symbol": "GMEE",
+      "address": "0x84e9a6F9D240FdD33801f7135908BfA16866939A",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GMEE.svg"
     }
   ]
 }
