@@ -1825,6 +1825,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GMEE.svg"
+    },
+    {
+      "name": "Super Launcher",
+      "symbol": "LAUNCH",
+      "address": "0xb5389a679151c4b8621b1098c6e0961a3cfee8d4",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LAUNCH.svg"
     }
   ]
 }
