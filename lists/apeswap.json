@@ -1833,6 +1833,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LAUNCH.svg"
+    },
+    {
+      "name": "CBK",
+      "symbol": "CBK",
+      "address": "0x4f60a160d8c2dddaafe16fcc57566db84d674bd6",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CBK.svg"
     }
   ]
 }
