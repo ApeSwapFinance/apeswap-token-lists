@@ -1841,6 +1841,22 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CBK.svg"
+    },
+    {
+      "name": "ARIVA",
+      "symbol": "ARV",
+      "address": "0x6679eb24f59dfe111864aec72b443d1da666b360",
+      "chainId": 56,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ARV.svg"
+    },
+    {
+      "name": "rASKO",
+      "symbol": "rASKO",
+      "address": "0xd118f42edbc839f7e1e85d5269a25288792c141b",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/rASKO.svg"
     }
   ]
 }
