@@ -1857,6 +1857,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/rASKO.svg"
+    },
+    {
+      "name": "Waterfall Governance Token",
+      "symbol": "WTF",
+      "address": "0x2fa0cac2c75efb50382b5091c6494194eacf65b0",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WTF.svg"
     }
   ]
 }
