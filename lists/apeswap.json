@@ -1865,6 +1865,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WTF.svg"
+    },
+    {
+      "name": "CryptoMines Eternal",
+      "symbol": "ETERNAL",
+      "address": "0xd44fd09d74cd13838f137b590497595d6b3feea4",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ETERNAL.svg"
     }
   ]
 }
