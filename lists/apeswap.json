@@ -1864,6 +1864,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ETERNAL.svg"
+    },
+    {
+      "name": "GAMER",
+      "symbol": "GMR",
+      "address": "0xadca52302e0a6c2d5d68edcdb4ac75deb5466884",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GMR.svg"
     }
   ]
 }
