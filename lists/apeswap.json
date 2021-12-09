@@ -1872,6 +1872,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GMR.svg"
+    },
+    {
+      "name": "Propel Token",
+      "symbol": "PEL",
+      "address": "0xA75E7928d3de682e3F44dA60C26F33117c4E6C5c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PEL.svg"
     }
   ]
 }
