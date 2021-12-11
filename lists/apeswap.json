@@ -1314,22 +1314,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LICO.svg"
     },
     {
-      "name": "PearZap Token",
-      "symbol": "PEAR",
-      "address": "0xc8bcb58caEf1bE972C0B638B1dD8B0748Fdc8A44",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PEAR.svg"
-    },
-    {
-      "name": "PearZap Token",
-      "symbol": "PEAR",
-      "address": "0xdf7C18ED59EA738070E665Ac3F5c258dcc2FBad8",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PEAR.svg"
-    },
-    {
       "name": "SportX",
       "symbol": "SX",
       "address": "0x840195888db4d6a99ed9f73fcd3b225bb3cb1a79",
@@ -1928,6 +1912,14 @@
       "chainId": 56,
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SeaChain.png"
+    },
+    {
+      "name": "99Starz",
+      "symbol": "STZ",
+      "address": "0x7FE378c5e0B5C32AF2ecc8829beDF02245A0E4eF",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/STZ.svg"
     }
   ]
 }
