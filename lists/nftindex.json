@@ -9,8 +9,8 @@
   ],
   "version": {
     "major": 1,
-    "minor": 4,
-    "patch": 1
+    "minor": 5,
+    "patch": 2
   },
   "tokens": [
     {
@@ -60,6 +60,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NFBi.png"
+    },
+    {
+      "name": "WolfAngers Index",
+      "symbol": "WOFAi",
+      "address": "0x9d176dee855e27ab5ad1541ae212030c4995af50",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WOFAi.png"
     }
   ]
 }
