@@ -1186,14 +1186,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/YEL.png"
     },
     {
-      "name": "Treasure Key Polygon",
-      "symbol": "PIRATEP",
-      "address": "0x3750144AcD56CC1d3e8dAFD8a187Ad10d174d462",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PIRATEP.png"
-    },
-    {
       "name": "Phoenix Token (PoS)",
       "symbol": "PHX",
       "address": "0x9c6bfedc14b5c23e3900889436edca7805170f01",
