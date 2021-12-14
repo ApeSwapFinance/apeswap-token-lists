@@ -1912,6 +1912,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/STZ.svg"
+    },
+    {
+      "name": "KardiaChain Token",
+      "symbol": "KAI",
+      "address": "0x39ae8eefb05138f418bb27659c21632dc1ddab10",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/KAI.svg"
     }
   ]
 }
