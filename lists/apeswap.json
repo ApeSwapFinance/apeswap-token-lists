@@ -1936,6 +1936,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LOA.svg"
+    },
+    {
+      "name": "CryptoBird Token",
+      "symbol": "XCB",
+      "address": "0x9dCD6ab0511b2e72Af3d088538D678bae9bBF552",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/XCB.svg"
     }
   ]
 }
