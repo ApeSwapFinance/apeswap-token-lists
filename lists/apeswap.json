@@ -1928,6 +1928,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/QA.svg"
+    },
+    {
+      "name": "League Of Ancients",
+      "symbol": "LOA",
+      "address": "0x94b69263FCA20119Ae817b6f783Fc0F13B02ad50",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LOA.svg"
     }
   ]
 }
