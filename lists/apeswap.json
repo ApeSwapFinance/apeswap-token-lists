@@ -1944,6 +1944,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/XCB.svg"
+    },
+    {
+      "name": "DOSE",
+      "symbol": "DOSE",
+      "address": "0x7837fd820bA38f95c54D6dAC4ca3751b81511357",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DOSE.svg"
     }
   ]
 }
