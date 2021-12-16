@@ -1952,6 +1952,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DOSE.svg"
+    },
+    {
+      "name": "Adshares",
+      "symbol": "ADS",
+      "address": "0xcfcEcFe2bD2FED07A9145222E8a7ad9Cf1Ccd22A",
+      "chainId": 56,
+      "decimals": 11,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ADS.svg"
     }
   ]
 }
