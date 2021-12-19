@@ -1984,6 +1984,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SHIBA.svg"
+    },
+    {
+      "name": "OUTRACE",
+      "symbol": "ORE",
+      "address": "0x91F006ee672F8f39C6E63cA75B1cA14067b3c366",
+      "chainId": 56,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ORE.svg"
     }
   ]
 }
