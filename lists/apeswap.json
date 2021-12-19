@@ -1976,6 +1976,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CRUX.svg"
+    },
+    {
+      "name": "BitShiba",
+      "symbol": "SHIBA",
+      "address": "0xB84cBbF09b3Ed388a45cD875ebba41a20365e6e7",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SHIBA.svg"
     }
   ]
 }
