@@ -1992,6 +1992,14 @@
       "chainId": 56,
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ORE.png"
+    },
+    {
+      "name": "Mytheria",
+      "symbol": "MYRA",
+      "address": "0x6ef238E9E8CD2A96740897761C18894Fc086B9d0",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MYRA.svg"
     }
   ]
 }
