@@ -2000,6 +2000,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MYRA.svg"
+    },
+    {
+      "name": "CryptoGodz",
+      "symbol": "GODZ",
+      "address": "0xF0A8EcBCE8caADB7A07d1FcD0f87Ae1Bd688dF43",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GODZ.png"
     }
   ]
 }
