@@ -68,6 +68,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WOFAi.png"
+    },
+    {
+      "name": "ExtensionPunks Index",
+      "symbol": "EXTPUNKi",
+      "address": "0xe63a2163aDD5E8D950d952158bFF06334e340344",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/EXTPUNKi.png"
     }
   ]
 }
