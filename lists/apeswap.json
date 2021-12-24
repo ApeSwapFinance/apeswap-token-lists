@@ -2008,6 +2008,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GODZ.png"
+    },
+    {
+      "name": "Multichain",
+      "symbol": "MULTI",
+      "address": "0x9fb9a33956351cf4fa040f65a13b835a3c8764e3",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MULTI.png"
     }
   ]
 }
