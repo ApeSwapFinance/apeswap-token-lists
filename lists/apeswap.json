@@ -2024,6 +2024,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ARI.svg"
+    },
+    {
+      "name": "Light Coin",
+      "symbol": "LC",
+      "address": "0x39BD64E5b9e025b0C8D91ee2CFec9125A388894B",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LC.png"
     }
   ]
 }
