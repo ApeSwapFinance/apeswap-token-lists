@@ -666,14 +666,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SKILL.svg"
     },
     {
-      "name": "Fruit Token",
-      "symbol": "FRUIT",
-      "address": "0x4ecfb95896660aa7f54003e967e7b283441a2b0a",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FRUIT.svg"
-    },
-    {
       "name": "GreenTrust Token",
       "symbol": "GNT",
       "address": "0xf750a26eb0acf95556e8529e72ed530f3b60f348",
