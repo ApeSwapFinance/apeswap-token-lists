@@ -2024,6 +2024,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LC.png"
+    },
+    {
+      "name": "Stay In Destiny World",
+      "symbol": "SIW",
+      "address": "0xc1ec13469d3f9bda35c5e7cdcbfbb390756767b6",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SIW.png"
     }
   ]
 }
