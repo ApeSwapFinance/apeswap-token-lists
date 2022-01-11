@@ -1879,6 +1879,14 @@
       "chainId": 56,
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BINGUS.svg"
-    }
+    },
+    {
+      "name": "Blockchain Monster Coin",
+      "symbol": "BCMC",
+      "address": "0xc10358f062663448a3489fC258139944534592ac",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BCMC.png"
+      }
   ]
 }
