@@ -1887,6 +1887,15 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BCMC.png"
-      }
+    },
+    {
+      "name": "Binopoly",
+      "symbol": "BINO",
+      "address": "0xa2df7a11baf8bb555e93b99684a2de0f105eb592",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BINO.svg"
+    }
+      
   ]
 }
