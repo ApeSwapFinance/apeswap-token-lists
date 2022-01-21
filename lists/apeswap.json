@@ -1903,6 +1903,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/COLOS.svg"
+    },
+    {
+      "name": "Request",
+      "symbol": "REQ",
+      "address": "0xb25e20de2f2ebb4cffd4d16a55c7b395e8a94762",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/REQ.svg"
     }
       
   ]
