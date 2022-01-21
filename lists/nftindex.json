@@ -9,7 +9,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 6,
+    "minor": 7,
     "patch": 2
   },
   "tokens": [
@@ -76,6 +76,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/EXTPUNKi.png"
+    },
+    {
+      "name": "Into the HIFI-Verse Index",
+      "symbol": "HIFIi",
+      "address": "0xf949e738d1ed7cf33aa8d2dd3117f52ed6c34a83",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HIFIi.png"
     }
   ]
 }
