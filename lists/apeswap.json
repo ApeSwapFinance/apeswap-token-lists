@@ -1927,7 +1927,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NFTY2.svg"
-    }
-      
+    },
+    {
+      "name": "Eterland",
+      "symbol": "ETER",
+      "address": "0xa7d2e49c1777d294fc6346edc25ca0ecb3577f39",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ETER.png"
+    } 
   ]
 }
