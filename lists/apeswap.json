@@ -934,7 +934,7 @@
       "symbol": "WBTC",
       "decimals": 8,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WBTC.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BTCB.svg"
     },
     {
       "name": "Wrapped Ether",
