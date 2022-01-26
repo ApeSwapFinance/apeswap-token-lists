@@ -737,14 +737,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/biAPE.png"
     },
     {
-      "name": "WIZARD",
-      "symbol": "WIZARD",
-      "address": "0x5066c68cae3b9bdacd6a1a37c90f2d1723559d18",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WIZARD.svg"
-    },
-    {
       "name": "ZigCoin",
       "symbol": "ZIG",
       "address": "0x8C907e0a72C3d55627E853f4ec6a96b0C8771145",
@@ -926,7 +918,7 @@
       "symbol": "USDT",
       "decimals": 6,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xc2132D05D31c914a87C6611C10748AEb04B58e8F/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/USDT.svg"
     },
     {
       "name": "Dai Stablecoin",
@@ -942,7 +934,7 @@
       "symbol": "WBTC",
       "decimals": 8,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BTCB.svg"
     },
     {
       "name": "Wrapped Ether",
@@ -1935,6 +1927,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ETER.png"
-    } 
+    },
+    {
+      "name": "DOGEWHALE",
+      "symbol": "DOGEWHALE",
+      "address": "0x43adc41cf63666ebb1938b11256f0ea3f16e6932",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DOGEWHALE.png"
+    }
   ]
 }
