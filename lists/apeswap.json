@@ -1935,6 +1935,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DOGEWHALE.png"
+    },
+    {
+      "name": "Lunar Token",
+      "symbol": "LUNR",
+      "address": "0x37807d4fbeb84124347b8899dd99616090d3e304",
+      "chainId": 56,
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LUNR.png"
     }
   ]
 }
