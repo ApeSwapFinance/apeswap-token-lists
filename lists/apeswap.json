@@ -3,7 +3,7 @@
   "timestamp": "2021-06-20T15:41:29.665Z",
   "version": {
     "major": 2,
-    "minor": 3,
+    "minor": 4,
     "patch": 2
   },
   "tags": {},
@@ -1831,6 +1831,14 @@
       "chainId": 56,
       "decimals": 4,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LUNR.svg"
+    },
+    {
+      "name": "TrustNFT",
+      "symbol": "TRUSTNFT",
+      "address": "0x08F725D2809FdA409Bc23493F3615a4c85a22d7d",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TRUSTNFT.svg"
     }
   ]
 }
