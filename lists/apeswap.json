@@ -1839,6 +1839,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TRUSTNFT.svg"
+    },
+    {
+      "name": "GeStone",
+      "symbol": "GES",
+      "address": "0x01ad5c8ca6b2470cbc81c398336f83aae22e4471",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GES.svg"
     }
   ]
 }
