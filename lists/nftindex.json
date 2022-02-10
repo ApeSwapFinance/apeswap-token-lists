@@ -10,7 +10,7 @@
   "version": {
     "major": 1,
     "minor": 7,
-    "patch": 2
+    "patch": 3
   },
   "tokens": [
     {
@@ -84,6 +84,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HIFIi.png"
+    },
+    {
+      "name": "Cross Bosses Index",
+      "symbol": "CBi",
+      "address": "0x6ae448ec22f1507be2243fe51e36fdadd2b3ed8a",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CBi.png"
     }
   ]
 }
