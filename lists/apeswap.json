@@ -1847,6 +1847,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GES.svg"
+    },
+    {
+      "name": "NFT11",
+      "symbol": "NFT11",
+      "address": "0x73F67AE7f934FF15beaBf55A28C2Da1eEb9B56Ec",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NFT11.png"
     }
   ]
 }
