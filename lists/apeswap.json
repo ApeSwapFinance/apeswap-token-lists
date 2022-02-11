@@ -657,14 +657,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PERA.png"
     },
     {
-      "name": "srnArtGallery",
-      "symbol": "SACT",
-      "address": "0x1ba8c21c623c843cd4c60438d70e7ad50f363fbb",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SACT.svg"
-    },
-    {
       "name": "BIGFOOT",
       "symbol": "FOOT",
       "address": "0x1c64fd4f55e1a3c1f737dfa47ee5f97eaf413cf0",
