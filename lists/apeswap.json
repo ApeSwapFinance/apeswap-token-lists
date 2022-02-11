@@ -1847,6 +1847,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NFT11.png"
+    },
+    {
+      "name": "Wrapped SYS",
+      "symbol": "wSYS",
+      "address": "0x747b1223b23e53070c54df355fac2e198aa54708",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/wSYS.svg"
     }
   ]
 }
