@@ -19,7 +19,7 @@
       "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
       "chainId": 97,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/wbnb.png"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WBNB.svg"
     },
     {
       "name": "WBNB Token",
@@ -27,7 +27,7 @@
       "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WBNB.svg"
     },
     {
       "name": "BANANA Token",
@@ -197,14 +197,6 @@
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NALIS.svg"
-    },
-    {
-      "name": "JDIToken",
-      "symbol": "JDI",
-      "address": "0x0491648c910ad2c1afaab733faf71d30313df7fc",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/JDI.png"
     },
     {
       "name": "MIOTAC",
@@ -470,14 +462,6 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SHIB.png"
-    },
-    {
-      "name": "Bitcrush Token",
-      "symbol": "CRUSH",
-      "address": "0x0Ef0626736c2d484A792508e99949736D0AF807e",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CRUSH.svg"
     },
     {
       "name": "Typhoon Network",
@@ -902,7 +886,7 @@
       "symbol": "BNB",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/wbnb.png"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WBNB.svg"
     },
     {
       "name": "Aave (PoS)",
