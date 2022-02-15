@@ -1855,6 +1855,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/wSYS.png"
+    },
+    {
+      "name": "GICTRADE",
+      "symbol": "WGICT",
+      "address": "0x27b2d695ef01d10ee96582a23db201b0aa338639",
+      "chainId": 56,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WGICT.svg"
     }
   ]
 }
