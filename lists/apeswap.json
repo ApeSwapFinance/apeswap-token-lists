@@ -1847,6 +1847,15 @@
       "chainId": 56,
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WGICT.svg"
+    },
+    {
+      "name": "Cosmosium BUZZ",
+      "symbol": "BUZZ",
+      "address": "0xa73c15620bfa79646e9a11d0d638d66588456462",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BUZZ.svg"
     }
+    
   ]
 }
