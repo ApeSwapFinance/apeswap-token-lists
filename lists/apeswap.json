@@ -1855,6 +1855,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BUZZ.svg"
+    },
+    {
+      "name": "Singularity Dao",
+      "symbol": "SDAO",
+      "address": "0x90Ed8F1dc86388f14b64ba8fb4bbd23099f18240",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SDAO.svg"
     }
     
   ]
