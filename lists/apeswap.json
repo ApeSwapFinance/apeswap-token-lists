@@ -1863,6 +1863,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SDAO.svg"
+    },
+    {
+      "name": "RankerDAO",
+      "symbol": "RANKER",
+      "address": "0xdE4512Db1a7a7519818dA38DB86eC1363d70A711",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RANKER.svg"
     }
     
   ]
