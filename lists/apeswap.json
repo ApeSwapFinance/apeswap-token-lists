@@ -1729,14 +1729,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SIW.png"
     },
     {
-      "name": "Bingus Network",
-      "symbol": "BINGUS",
-      "address": "0x12AdaDddC8d86081561a3ff107A2Cb347779e717",
-      "chainId": 56,
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BINGUS.svg"
-    },
-    {
       "name": "Blockchain Monster Coin",
       "symbol": "BCMC",
       "address": "0xc10358f062663448a3489fC258139944534592ac",
