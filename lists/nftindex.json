@@ -9,7 +9,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 7,
+    "minor": 8,
     "patch": 3
   },
   "tokens": [
@@ -92,6 +92,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CBi.png"
+    },
+    {
+      "name": "Non-Fungible Moonbird Index",
+      "symbol": "NFMi",
+      "address": "0x05b1b1ae4e27aa79f07a78451c523241d26a7bdb",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NFMi.png"
     }
   ]
 }
