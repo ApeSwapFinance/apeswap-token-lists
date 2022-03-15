@@ -601,14 +601,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/STARS.svg"
     },
     {
-      "name": "srnArtGallery Tokenized Arts",
-      "symbol": "SISTA",
-      "address": "0xca6d25c10dad43ae8be0bc2af4d3cd1114583c08",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SISTA.svg"
-    },
-    {
       "name": "Birb",
       "symbol": "BIRB",
       "address": "0x82A479264B36104be4FDb91618a59A4fC0F50650",
