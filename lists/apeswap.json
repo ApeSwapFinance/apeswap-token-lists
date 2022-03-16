@@ -1847,7 +1847,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FRONT.svg"
+    },
+    {
+      "name": "Ruby Token",
+      "symbol": "RUBY",
+      "address": "0xf7722aa0714096f1fb5ef83e6041cebb4d58a08e",
+      "chainId": 56,
+      "decimals": 12,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RUBY.svg"
     }
-    
   ]
 }
