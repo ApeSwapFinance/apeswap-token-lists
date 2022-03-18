@@ -1855,6 +1855,14 @@
       "chainId": 56,
       "decimals": 12,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RUBY.svg"
+    },
+    {
+      "name": "ApeCoin",
+      "symbol": "APE",
+      "address": "0x0b079b33b6e72311c6be245f9f660cc385029fc3",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/APE.svg"
     }
   ]
 }
