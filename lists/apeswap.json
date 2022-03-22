@@ -340,7 +340,7 @@
       "address": "0x9ac983826058b8a9c7aa1c9171441191232e8404",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/snx.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SNX.svg"
     },
     {
       "name": "Near Token",
@@ -356,7 +356,7 @@
       "address": "0xadbaf88b39d37dc68775ed1541f1bf83a5a45feb",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/coti.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/COTI.svg"
     },
     {
       "name": "Avax Token",
@@ -364,7 +364,7 @@
       "address": "0x1ce0c2827e2ef14d5c4f29a091d735a204794041",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/avax.png"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/AVAX.svg"
     },
     {
       "name": "Matic Token",
@@ -453,7 +453,7 @@
       "address": "0x1f9f6a696c6fd109cd3956f45dc709d2b3902163",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/Celer.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CELR.svg"
     },
     {
       "name": "Shiba Token",
@@ -1510,7 +1510,7 @@
       "address": "0xd118f42edbc839f7e1e85d5269a25288792c141b",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/rASKO.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/rASKO.png"
     },
     {
       "name": "Waterfall Governance Token",
