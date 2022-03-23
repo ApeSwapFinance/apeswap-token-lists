@@ -99,7 +99,7 @@
       "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CAKE.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CAKE.png"
     },
     {
       "name": "Bakery Token",
@@ -332,7 +332,7 @@
       "address": "0x935a544bf5816e3a7c13db2efe3009ffda0acda2",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/blz.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BLZ.svg"
     },
     {
       "name": "Snx Token",
@@ -1126,7 +1126,7 @@
       "address": "0x6a545f9c64d8f7b957d8d2e6410b52095a9e6c29",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CFi.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CFI.svg"
     },
     {
       "name": "Gummy Bull Token",
@@ -1318,7 +1318,7 @@
       "address": "0x7251C7A2155d8FEDb42a1DC4333aDe589e4d6919",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LMN.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LMN.png"
     },
     {
       "name": "Wing Token",
