@@ -1350,7 +1350,7 @@
       "address": "0xa296ad1c47fe6bdc133f39555c1d1177bd51fbc5",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/iBFR.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/IBFR.svg"
     },
     {
       "name": "Signata",
@@ -1510,7 +1510,7 @@
       "address": "0xd118f42edbc839f7e1e85d5269a25288792c141b",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/rASKO.png"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RASKO.png"
     },
     {
       "name": "Waterfall Governance Token",
