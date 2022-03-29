@@ -1871,6 +1871,14 @@
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NFTY.png"
+    },
+    {
+      "name": "Animal Concerts",
+      "symbol": "ANML",
+      "address": "0x06fda0758c17416726f77cb11305eac94c074ec0",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ANML.svg"
     }
   ]
 }
