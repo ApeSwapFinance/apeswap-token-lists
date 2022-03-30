@@ -1879,6 +1879,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ANML.svg"
+    },
+    {
+      "name": "Anonverse",
+      "symbol": "ANON",
+      "address": "0x9a980a084D8D72B219e1C79d91faf06Bec874D51",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ANON.png"
     }
   ]
 }
