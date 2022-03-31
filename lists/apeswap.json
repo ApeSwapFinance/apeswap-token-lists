@@ -1887,6 +1887,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ANON.png"
+    },
+    {
+      "name": "Yoshi.exchange",
+      "symbol": "YOSHI",
+      "address": "0x4374F26F0148a6331905eDf4cD33B89d8Eed78d1",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/YOSHI.svg"
     }
   ]
 }
