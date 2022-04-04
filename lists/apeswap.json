@@ -1895,6 +1895,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/YOSHI.svg"
+    },
+    {
+      "name": "Derify Protocol Token",
+      "symbol": "DRF",
+      "address": "0x89C1Af791d7B4cf046Dca8Fa10a41Dd2298A6a3F",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DRF.svg"
     }
   ]
 }
