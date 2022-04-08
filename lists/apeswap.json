@@ -1903,6 +1903,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DRF.svg"
+    },
+    {
+      "name": "BOUNTIE",
+      "symbol": "BOUNTIE",
+      "address": "0x00f80a8f39bb4D04a3038C497E3642bf1B0A304e",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BOUNTIE.png"
     }
   ]
 }
