@@ -1911,6 +1911,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BOUNTIE.png"
+    },
+    {
+      "name": "WIDI",
+      "symbol": "WIDI",
+      "address": "0xA361C79783833524dc7838399a4862B5f47038b8",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WIDI.png"
     }
   ]
 }
