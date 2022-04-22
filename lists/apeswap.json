@@ -1943,6 +1943,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/KTE.svg"
+    },
+    {
+      "name": "Galactic Quadrant",
+      "symbol": "GQ",
+      "address": "0xF700D4c708C2be1463E355F337603183D20E0808",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GQ.png"
     }
   ]
 }
