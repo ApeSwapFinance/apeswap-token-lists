@@ -1249,14 +1249,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TOWER.svg"
     },    
     {
-      "name": "BabyBanana",
-      "symbol": "BBNANA",
-      "address": "0xa3be3b30fa5302dad5c9874cdb50e220eaadf092",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BBNANA.svg"
-    },
-    {
       "name": "Wazirx Token",
       "symbol": "WRX",
       "address": "0x8e17ed70334c87ece574c9d537bc153d8609e2a3",
@@ -1807,14 +1799,6 @@
       "chainId": 56,
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WGICT.svg"
-    },
-    {
-      "name": "Cosmosium BUZZ",
-      "symbol": "BUZZ",
-      "address": "0xa73c15620bfa79646e9a11d0d638d66588456462",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BUZZ.svg"
     },
     {
       "name": "Singularity Dao",
