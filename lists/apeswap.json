@@ -1943,6 +1943,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ASPO.png"
+    },
+    {
+      "name": "Biconomy Token",
+      "symbol": "BICO",
+      "address": "0x06250a4962558F0F3E69FC07F4c67BB9c9eAc739",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BICO.svg"
     }
   ]
 }
