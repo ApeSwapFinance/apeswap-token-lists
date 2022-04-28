@@ -1951,6 +1951,22 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BICO.svg"
+    },
+    {
+      "name": "Cryptopolis",
+      "symbol": "CPO",
+      "address": "0xea395DFaFEd39924988b475f2Ca7f4C72655203A",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CPO.svg"
+    },
+    {
+      "name": "Coin of the champions",
+      "symbol": "COC",
+      "address": "0xbDC3b3639f7AA19e623A4d603A3Fb7Ab20115A91",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/COC.svg"
     }
   ]
 }
