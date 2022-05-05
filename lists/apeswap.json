@@ -1975,20 +1975,30 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FROYO.png"
-    },{
+    },
+    {
       "name": "PRIMATE",
       "symbol": "PRIMATE",
       "address": "0xA19863E302FD1B41276fCe5A48D9C511DBeEf34c",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PRIMATE.png"
-    },{
+    },
+    {
       "name": "Victory Gem",
       "symbol": "VTG",
       "address": "0x8de5aA37a7C40A53062EAD382b8EEAD3B08a7A46",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/VTG.svg"
+    },
+    {
+      "name": "RichQUACK.com",
+      "symbol": "QUACK",
+      "address": "0xD74b782E05AA25c50e7330Af541d46E18f36661C",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/QUACK.png"
     }
   ]
 }
