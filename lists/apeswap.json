@@ -46,6 +46,14 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BANANA.svg"
     },
     {
+      "name": "BANANA Token",
+      "symbol": "BANANA",
+      "address": "0x92df60c51c710a1b1c20e42d85e221f3a1bfc7f2",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BANANA.svg"
+    },
+    {
       "name": "BUSD Token",
       "symbol": "BUSD",
       "address": "0xed24fc36d5ee211ea25a80239fb8c4cfd80f12ee",
@@ -66,6 +74,14 @@
       "symbol": "WETH",
       "address": "0xd66c6b4f0be8ce5b39d52e0fd1344c389929b378",
       "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ETH.svg"
+    },
+    {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "chainId": 1,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ETH.svg"
     },
