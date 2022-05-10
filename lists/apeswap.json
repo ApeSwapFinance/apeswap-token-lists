@@ -1289,14 +1289,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FXS.png"
     },
     {
-      "name": "Pontoon Token",
-      "symbol": "TOON",
-      "address": "0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TOON.svg"
-    },
-    {
       "name": "Allbridge",
       "symbol": "ABR",
       "address": "0x04429fbb948bbd09327763214b45e505a5293346",
@@ -1327,14 +1319,6 @@
       "chainId": 56,
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WING.svg"
-    },
-    {
-      "name": "Galatic Arena Token",
-      "symbol": "GAN",
-      "address": "0x8f1408171eae06aec4549fd0a5808a42cee6dd84",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GAN.svg"
     },
     {
       "name": "BCPAY Fintech",
