@@ -1999,6 +1999,14 @@
       "chainId": 56,
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/QUACK.png"
+    },
+    {
+      "name": "Lucky Chip",
+      "symbol": "LC",
+      "address": "0x6012C3a742f92103d238F1c8306cF8fbcDEca8B3",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LC2.png"
     }
   ]
 }
