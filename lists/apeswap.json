@@ -2015,6 +2015,14 @@
       "chainId": 1,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/USDC.svg"
+    },
+    {
+      "name": "Gravis Finance Token",
+      "symbol": "GRVS",
+      "address": "0x190CEC0657a02E9eAB1C1DF5d59f9139131cf539",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GRVS.svg"
     }
   ]
 }
