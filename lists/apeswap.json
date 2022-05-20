@@ -2023,6 +2023,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GRVS.svg"
+    },
+    {
+      "name": "Legion Token",
+      "symbol": "LGX",
+      "address": "0x9096B4309224d751FCB43d7eB178dcFFc122aD15",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LGX.svg"
     }
   ]
 }
