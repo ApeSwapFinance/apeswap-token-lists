@@ -2031,6 +2031,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LGX.svg"
+    },
+    {
+      "name": "ROOBEE",
+      "symbol": "ROOBEE",
+      "address": "0xF77351D8f4eE853135961A936BB8d2e4fFa75f9D",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ROOBEE.svg"
     }
   ]
 }
