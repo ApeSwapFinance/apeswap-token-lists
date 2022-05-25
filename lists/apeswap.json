@@ -2039,6 +2039,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ROOBEE.svg"
+    },
+    {
+      "name": "TLOS",
+      "symbol": "TLOS",
+      "address": "0xb6C53431608E626AC81a9776ac3e999c5556717c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TLOS.svg"
     }
   ]
 }
