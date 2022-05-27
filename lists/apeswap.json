@@ -2047,6 +2047,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TLOS.svg"
+    },
+    {
+      "name": "Moonshots Farm",
+      "symbol": "BONES",
+      "address": "0x08426874d46f90e5E527604fA5E3e30486770Eb3",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BONES.png"
     }
   ]
 }
