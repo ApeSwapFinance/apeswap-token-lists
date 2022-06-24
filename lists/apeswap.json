@@ -2055,6 +2055,22 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BONES.png"
+    },
+    {
+      "name": "TOR",
+      "symbol": "TOR",
+      "address": "0x1d6Cbdc6b29C6afBae65444a1f65bA9252b8CA83",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TOR.svg"
+    },
+    {
+      "name": "Hector",
+      "symbol": "HEC",
+      "address": "0x638EEBe886B0e9e7C6929E69490064a6C94d204d",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HEC.svg"
     }
   ]
 }
