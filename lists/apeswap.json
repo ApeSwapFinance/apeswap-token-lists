@@ -279,14 +279,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/USDT.svg"
     },
     {
-      "name": "BitfreshToken",
-      "symbol": "BFT",
-      "address": "0xa4f93159ce0a4b533b443c74b89967c60a5969f8",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BFT.png"
-    },
-    {
       "name": "SafePal Token",
       "symbol": "SFP",
       "address": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",

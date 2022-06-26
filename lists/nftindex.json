@@ -10,7 +10,7 @@
   "version": {
     "major": 1,
     "minor": 8,
-    "patch": 3
+    "patch": 4
   },
   "tokens": [
     {
@@ -100,6 +100,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NFMi.png"
+    },
+    {
+      "name": "Trippy Trunkz Ivory Club Index",
+      "symbol": "TTICi",
+      "address": "0xD012b16AA348933DA02cea26e60DAc4d722D7BD8",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TTICi.png"
     }
   ]
 }
