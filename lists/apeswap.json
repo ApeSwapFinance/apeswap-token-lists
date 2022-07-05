@@ -585,14 +585,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/YFI.svg"
     },
     {
-      "name": "Bison",
-      "symbol": "BISON",
-      "address": "0x19a6da6e382b85f827088092a3dbe864d9ccba73",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BISON.svg"
-    },
-    {
       "name": "Mogul Stars",
       "symbol": "STARS",
       "address": "0xbd83010eb60f12112908774998f65761cf9f6f9a",
@@ -671,14 +663,6 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/REVV.svg"
-    },
-    {
-      "name": "ApeSwap Fund",
-      "symbol": "biAPE",
-      "address": "0xF19B6746769132926Ee82F47137aEB7A8702c4b9",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/biAPE.png"
     },
     {
       "name": "ZigCoin",
