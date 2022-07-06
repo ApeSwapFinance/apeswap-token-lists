@@ -2055,6 +2055,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RADAR.png"
+    },
+    {
+      "name": "H2O Network Token",
+      "symbol": "H2ON",
+      "address": "0xE0E81c29A68bFDd7c48072fD94e7c58F1f0146C1",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/H2ON.svg"
     }
   ]
 }
