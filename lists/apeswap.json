@@ -2047,6 +2047,14 @@
       "chainId": 56,
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HEC.svg"
+    },
+    {
+      "name": "DappRadar",
+      "symbol": "RADAR",
+      "address": "0x489580eB70a50515296eF31E8179fF3e77E24965",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RADAR.png"
     }
   ]
 }
