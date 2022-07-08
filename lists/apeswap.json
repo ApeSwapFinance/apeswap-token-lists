@@ -175,36 +175,12 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ADA.svg"
     },
     {
-      "name": "HappinessToken",
-      "symbol": "HPS",
-      "address": "0xeda21b525ac789eab1a08ef2404dd8505ffb973d",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HPS.png"
-    },
-    {
       "name": "Binance-Peg Basic Attention Token",
       "symbol": "BAT",
       "address": "0x101d82428437127bf1608f699cd651e6abf9766e",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BAT.svg"
-    },
-    {
-      "name": "Lyptus Token",
-      "symbol": "LYPTUS",
-      "address": "0xba26397cdff25f0d26e815d218ef3c77609ae7f1",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LYPTUS.png"
-    },
-    {
-      "name": "Nalis Token",
-      "symbol": "NALIS",
-      "address": "0xb2ebaa0ad65e9c888008bf10646016f7fcdd73c3",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NALIS.svg"
     },
     {
       "name": "Nalis Token",
@@ -335,14 +311,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WATCH.png"
     },
     {
-      "name": "BLZ Token",
-      "symbol": "BLZ",
-      "address": "0x935a544bf5816e3a7c13db2efe3009ffda0acda2",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BLZ.svg"
-    },
-    {
       "name": "Snx Token",
       "symbol": "SNX",
       "address": "0x9ac983826058b8a9c7aa1c9171441191232e8404",
@@ -432,14 +400,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MOONLIGHT.svg"
     },
     {
-      "name": "DINOPARK TOKEN",
-      "symbol": "DINOP",
-      "address": "0xea90DC6F64d18771Ca1dac8098526a9082265B42",
-      "chainId": 56,
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DINOP.svg"
-    },
-    {
       "name": "Space Token",
       "symbol": "SPACE",
       "address": "0xe486a69e432fdc29622bf00315f6b34c99b45e80",
@@ -472,14 +432,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TYPH.svg"
     },
     {
-      "name": "Automata",
-      "symbol": "ATA",
-      "address": "0xa2120b9e674d3fc3875f415a7df52e382f141225",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ATA.png"
-    },
-    {
       "name": "HiFi",
       "symbol": "HIFI",
       "address": "0x0a38bc18022b0ccb043f7b730b354d554c6230f1",
@@ -496,45 +448,12 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MBOX.svg"
     },
     {
-      "name": "Wyvern",
-      "symbol": "WYVERN",
-      "address": "0x470862af0cf8d27ebfe0ff77b0649779c29186db",
-      "chainId": 56,
-      "decimals": 9,
-      "type": "deflationary",
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WYVERN.png"
-    },
-    {
-      "name": "Blockmine Gold Nugget",
-      "symbol": "GOLDNUGGET",
-      "address": "0xE0B58022487131eC9913C1F3AcFD8F74FC6A6C7E",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NUGGET.svg"
-    },
-    {
-      "name": "Bogged Finance",
-      "symbol": "BOG",
-      "address": "0xb09fe1613fe03e7361319d2a43edc17422f36b09",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BOG.svg"
-    },
-    {
       "name": "NEWB",
       "symbol": "NEWB",
       "address": "0x545f90dc35ca1e6129f1fed354b3e2df12034261",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NEWB.png"
-    },
-    {
-      "name": "Simple. Cool. Automatic. Money.",
-      "symbol": "SCAM",
-      "address": "0x00aa85e010204068b7cc2235800b2d8036bdbf2e",
-      "chainId": 56,
-      "decimals": 10,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SCAM.png"
     },
     {
       "name": "CryptoBlades Skill Token",
@@ -551,14 +470,6 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TWT.png"
-    },
-    {
-      "name": "Ellipsis",
-      "symbol": "EPS",
-      "address": "0xa7f552078dcc247c2684336020c03648500c6d9f",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ELLIPSIS.png"
     },
     {
       "name": "Venus",
@@ -593,14 +504,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/STARS.svg"
     },
     {
-      "name": "Birb",
-      "symbol": "BIRB",
-      "address": "0x82A479264B36104be4FDb91618a59A4fC0F50650",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BIRB.svg"
-    },
-    {
       "name": "Growth-Peg Token",
       "symbol": "GRO",
       "address": "0x336ed56d8615271b38ecee6f4786b55d0ee91b96",
@@ -615,14 +518,6 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WHEAT.png"
-    },
-    {
-      "name": "Pera",
-      "symbol": "PERA",
-      "address": "0xb9d8592e16a9c1a3ae6021cddb324eac1cbc70d6",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PERA.png"
     },
     {
       "name": "BIGFOOT",
@@ -689,14 +584,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CEEK.png"
     },
     {
-      "name": "YDragon",
-      "symbol": "YDR",
-      "address": "0x3757232B55E60da4A8793183aC030CfCE4c3865d",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/YDR.svg"
-    },
-    {
       "name": "Poly-Peg ONG",
       "symbol": "ONG",
       "address": "0x308bfaeAaC8BDab6e9Fc5Ead8EdCb5f95b0599d9",
@@ -719,14 +606,6 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DEP.png"
-    },
-    {
-      "name": "Phoenix Token",
-      "symbol": "PHX",
-      "address": "0xac86e5f9bA48d680516df50C72928c2ec50F3025",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PHX.svg"
     },
     {
       "name": "FRMx Token",
@@ -767,14 +646,6 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DCB.png"
-    },
-    {
-      "name": "Kalata",
-      "symbol": "Kala",
-      "address": "0x32299c93960bB583A43c2220Dc89152391A610c5",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/KALA.png"
     },
     {
       "name": "Inflation Hedging Coin",
@@ -977,14 +848,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/YEL.png"
     },
     {
-      "name": "Sing Token",
-      "symbol": "SING",
-      "address": "0xCB898b0eFb084Df14dd8E018dA37B4d0f06aB26D",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SING.svg"
-    },
-    {
       "name": "Wolf Den Guardian",
       "symbol": "GUARD",
       "address": "0xf606bd19b1e61574ed625d9ea96c841d4e247a32",
@@ -1009,14 +872,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/POTS.svg"
     },
     {
-      "name": "Billion Happiness Token",
-      "symbol": "BHC",
-      "address": "0x6fd7c98458a943f469e1cf4ea85b173f5cd342f4",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BHC.png"
-    },
-    {
       "name": "Coinary Token (Dragonary)",
       "symbol": "CYT",
       "address": "0xd9025e25bb6cf39f8c926a704039d2dd51088063",
@@ -1039,14 +894,6 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LICO.svg"
-    },
-    {
-      "name": "Sing Token",
-      "symbol": "SING",
-      "address": "0x23894c0ce2d79b79ea33a4d02e67ae843ef6e563",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SING.svg"
     },
     {
       "name": "Nerve Network",
@@ -1105,14 +952,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BIN.svg"
     },
     {
-      "name": "CyberFi Token",
-      "symbol": "CFi",
-      "address": "0x6a545f9c64d8f7b957d8d2e6410b52095a9e6c29",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CFI.svg"
-    },
-    {
       "name": "Gummy Bull Token",
       "symbol": "GUMMY",
       "address": "0x10d3e0c38c286a04aee44d9b01cac916b56ee05a",
@@ -1127,14 +966,6 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NFTY.png"
-    },
-    {
-      "name": "Aurum",
-      "symbol": "AUR",
-      "address": "0x1dEb45C74E0192D9272ADF54e9a7519C48C2bd81",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/AUR.svg"
     },
     {
       "name": "Dogira",
@@ -1239,14 +1070,6 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TOWER.svg"
-    },    
-    {
-      "name": "Wazirx Token",
-      "symbol": "WRX",
-      "address": "0x8e17ed70334c87ece574c9d537bc153d8609e2a3",
-      "chainId": 56,
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WRX.png"
     },
     {
       "name": "Frax",
@@ -1289,14 +1112,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LMN.png"
     },
     {
-      "name": "Wing Token",
-      "symbol": "WING",
-      "address": "0x3cb7378565718c64ab86970802140cc48ef1f969",
-      "chainId": 56,
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WING.svg"
-    },
-    {
       "name": "BCPAY Fintech",
       "symbol": "BCPAY",
       "address": "0x21f1ce0FCf1E9E39F8e79B7762801E8096d9f6CD",
@@ -1321,28 +1136,12 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SATA.svg"
     },
     {
-      "name": "Gold Coin",
-      "symbol": "GOLDCOIN",
-      "address": "0xf2f02f60fd1a376270e777aa2a4667329e3984ed",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GOLDCOIN.svg"
-    },
-    {
       "name": "Shill",
       "symbol": "SHILL",
       "address": "0xfb9C339b4BacE4Fe63ccc1dd9a3c3C531441D5fE",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SHILL.svg"
-    },
-    {
-      "name": "SOMBRA",
-      "symbol": "SMBR",
-      "address": "0x8ad8e9b85787ddd0d31b32ecf655e93bfc0747ef",
-      "chainId": 56,
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SMBR.svg"
     },
     {
       "name": "The 4th Pillar Token",
@@ -1449,14 +1248,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LAUNCH.svg"
     },
     {
-      "name": "CBK",
-      "symbol": "CBK",
-      "address": "0x4f60a160d8c2dddaafe16fcc57566db84d674bd6",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CBK.svg"
-    },
-    {
       "name": "ARIVA",
       "symbol": "ARV",
       "address": "0x6679eb24f59dfe111864aec72b443d1da666b360",
@@ -1471,22 +1262,6 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RASKO.png"
-    },
-    {
-      "name": "Waterfall Governance Token",
-      "symbol": "WTF",
-      "address": "0x2fa0cac2c75efb50382b5091c6494194eacf65b0",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WTF.svg"
-    },
-    {
-      "name": "CryptoMines Eternal",
-      "symbol": "ETERNAL",
-      "address": "0xd44fd09d74cd13838f137b590497595d6b3feea4",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ETERNAL.svg"
     },
     {
       "name": "GAMER",
@@ -1511,14 +1286,6 @@
       "chainId": 56,
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MAINST.png"
-    },    
-    {
-      "name": "YSL Token",
-      "symbol": "YSL",
-      "address": "0x95e7c70b58790a1cbd377bc403cd7e9be7e0afb1",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/YSL.svg"
     },
     {
       "name": "Zombie Token",
@@ -1585,14 +1352,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DOSE.svg"
     },
     {
-      "name": "Adshares",
-      "symbol": "ADS",
-      "address": "0xcfcEcFe2bD2FED07A9145222E8a7ad9Cf1Ccd22A",
-      "chainId": 56,
-      "decimals": 11,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ADS.svg"
-    },
-    {
       "name": "ManuFactory",
       "symbol": "MNFT",
       "address": "0x36953b5ec00a13edceceb3af258d034913d2a79d",
@@ -1615,14 +1374,6 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SHIBA.svg"
-    },
-    {
-      "name": "OUTRACE",
-      "symbol": "ORE",
-      "address": "0x91F006ee672F8f39C6E63cA75B1cA14067b3c366",
-      "chainId": 56,
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ORE.png"
     },
     {
       "name": "Mytheria",
@@ -1655,14 +1406,6 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LC.png"
-    },
-    {
-      "name": "Stay In Destiny World",
-      "symbol": "SIW",
-      "address": "0xc1ec13469d3f9bda35c5e7cdcbfbb390756767b6",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SIW.png"
     },
     {
       "name": "Blockchain Monster Coin",
@@ -1831,14 +1574,6 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ANML.png"
-    },
-    {
-      "name": "Anonverse",
-      "symbol": "ANON",
-      "address": "0x9a980a084D8D72B219e1C79d91faf06Bec874D51",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ANON.png"
     },
     {
       "name": "Yoshi.exchange",
