@@ -1806,6 +1806,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PXP.png"
+    },
+    {
+      "name": "Piston Token",
+      "symbol": "PSTN",
+      "address": "0xBfACD29427fF376FF3BC22dfFB29866277cA5Fb4",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PSTN.svg"
     }
   ]
 }
