@@ -1798,6 +1798,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/H2ON.svg"
+    },
+    {
+      "name": "Pirate X Pirate",
+      "symbol": "PXP",
+      "address": "0x93c27727e72EC7510a06ea450366C1418c4Ce547",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PXP.png"
     }
   ]
 }
