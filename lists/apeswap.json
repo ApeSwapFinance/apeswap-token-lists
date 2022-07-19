@@ -211,7 +211,7 @@
       "address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
       "chainId": 1,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/stETH.png"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/STETH.png"
     },
     {
       "name": "ShibaDoge",
@@ -2023,44 +2023,12 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/QI.png"
     },
     {
-      "name": "PlanetIX",
-      "symbol": "IXT",
-      "address": "0xE06Bd4F5aAc8D0aA337D13eC88dB6defC6eAEefE",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/IXT.png"
-    },
-    {
       "name": "Revolt 2 Earn",
       "symbol": "RVLT",
       "address": "0xf0f9D895aCa5c8678f706FB8216fa22957685A13",
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RVLT.png"
-    },
-    {
-      "name": "VOXEL Token",
-      "symbol": "VOXEL",
-      "address": "0xd0258a3fD00f38aa8090dfee343f10A9D4d30D3F",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/VOXEL.svg"
-    },
-    {
-      "name": "Telcoin",
-      "symbol": "TEL",
-      "address": "0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32",
-      "chainId": 137,
-      "decimals": 2,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TEL.png"
-    },
-    {
-      "name": "Decentral Games ICE",
-      "symbol": "ICE",
-      "address": "0xc6C855AD634dCDAd23e64DA71Ba85b8C51E5aD7c",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ICE.png"
     },
     {
       "name": "Request",
