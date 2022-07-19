@@ -101,6 +101,126 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MC.png"
     },
+    {
+      "name": "X2Y2",
+      "symbol": "X2Y2",
+      "address": "0x1E4EDE388cbc9F4b5c79681B7f94d36a11ABEBC9",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/X2Y2.png"
+    },
+    {
+      "name": "XMON",
+      "symbol": "XMON",
+      "address": "0x3aaDA3e213aBf8529606924d8D1c55CbDc70Bf74",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/XMON.png"
+    },
+    {
+      "name": "A Hunters Dream",
+      "symbol": "CAW",
+      "address": "0xf3b9569F82B18aEf890De263B84189bd33EBe452",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CAW.png"
+    },
+    {
+      "name": "Paxos Gold",
+      "symbol": "PAXG",
+      "address": "0x45804880De22913dAFE09f4980848ECE6EcbAf78",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PAXG.png"
+    },
+    {
+      "name": "Cult DAO",
+      "symbol": "CULT",
+      "address": "0xf0f9D895aCa5c8678f706FB8216fa22957685A13",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CULT.png"
+    },
+    {
+      "name": "THE TRUTH",
+      "symbol": "UFO",
+      "address": "0x249e38Ea4102D0cf8264d3701f1a0E39C4f2DC3B",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/UFO.png"
+    },
+    {
+      "name": "Wootrade Network",
+      "symbol": "WOO",
+      "address": "0x4691937a7508860F876c9c0a2a617E7d9E945D4B",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WOO.png"
+    },
+    {
+      "name": "Dogelon",
+      "symbol": "ELON",
+      "address": "0x761D38e5ddf6ccf6Cf7c55759d5210750B5D60F3",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ELON.png"
+    },
+    {
+      "name": "SAITAMA",
+      "symbol": "SAITAMA",
+      "address": "0xCE3f08e664693ca792caCE4af1364D5e220827B2",
+      "chainId": 1,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SAITAMA.png"
+    },
+    {
+      "name": "SAND",
+      "symbol": "SAND",
+      "address": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SAND.png"
+    },
+    {
+      "name": "StarLink",
+      "symbol": "STARL",
+      "address": "0x8E6cd950Ad6ba651F6DD608Dc70e5886B1AA6B24",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/STARL.png"
+    },
+    {
+      "name": "SuperFarm",
+      "symbol": "SUPER",
+      "address": "0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SUPER.png"
+    },
+    {
+      "name": "VOW",
+      "symbol": "VOW",
+      "address": "0x1BBf25e71EC48B84d773809B4bA55B6F4bE946Fb",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/VOW.png"
+    },
+    {
+      "name": "stETH",
+      "symbol": "stETH",
+      "address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/STETH.png"
+    },
+    {
+      "name": "ShibaDoge",
+      "symbol": "SHIBDOGE",
+      "address": "0x6ADb2E268de2aA1aBF6578E4a8119b960E02928F",
+      "chainId": 1,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SHIBDOGE.png"
+    },
 
 
 
@@ -1885,6 +2005,94 @@
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NFTY.png"
+    },
+    {
+      "name": "SAND",
+      "symbol": "SAND",
+      "address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SAND.png"
+    },
+    {
+      "name": "Qi Dao",
+      "symbol": "QI",
+      "address": "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/QI.png"
+    },
+    {
+      "name": "Revolt 2 Earn",
+      "symbol": "RVLT",
+      "address": "0xf0f9D895aCa5c8678f706FB8216fa22957685A13",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RVLT.png"
+    },
+    {
+      "name": "Request",
+      "symbol": "REQ",
+      "address": "0xB25e20De2F2eBb4CfFD4D16a55C7B395e8a94762",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/REQ.svg"
+    },
+    {
+      "name": "GAMEE",
+      "symbol": "GMEE",
+      "address": "0xcf32822ff397Ef82425153a9dcb726E5fF61DCA7",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GMEE.svg"
+    },
+    {
+      "name": "REVV",
+      "symbol": "REVV",
+      "address": "0x70c006878a5A50Ed185ac4C87d837633923De296",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/REVV.svg"
+    },
+    {
+      "name": "Quickswap",
+      "symbol": "QUICK",
+      "address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/QUICK.png"
+    },
+    {
+      "name": "Wrapped SOL (Wormhole)",
+      "symbol": "SOL",
+      "address": "0xd93f7E271cB87c23AaA73edC008A79646d1F9912",
+      "chainId": 137,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SOL.svg"
+    },
+    {
+      "name": "BLOK",
+      "symbol": "BLOK",
+      "address": "0x229b1b6C23ff8953D663C4cBB519717e323a0a84",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BLOK.png"
+    },
+    {
+      "name": "Orbs",
+      "symbol": "ORBS",
+      "address": "0x614389EaAE0A6821DC49062D56BDA3d9d45Fa2ff",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ORBS.svg"
+    },
+    {
+      "name": "Nitro (PoS)",
+      "symbol": "NITRO",
+      "address": "0x695FC8B80F344411F34bDbCb4E621aA69AdA384b",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NITRO.png"
     },
 
 
