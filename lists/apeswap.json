@@ -1848,6 +1848,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PSTN.svg"
     },
+    {
+      "name": "NUM Token",
+      "symbol": "NUM",
+      "address": "0xeceb87cf00dcbf2d4e2880223743ff087a995ad9",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NUM.svg"
+    },
 
 
 
