@@ -10,7 +10,7 @@
   "version": {
     "major": 1,
     "minor": 8,
-    "patch": 4
+    "patch": 5
   },
   "tokens": [
     {
@@ -108,6 +108,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TTICi.png"
+    },
+    {
+      "name": "HobosOnBSC Index",
+      "symbol": "HOBOi",
+      "address": "0xffc4e0b3443989a3983290306917923a30c38ae0",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HOBOi.png"
     }
   ]
 }
