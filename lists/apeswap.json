@@ -1872,6 +1872,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MHUNT.svg"
     },
+    {
+      "name": "Bolide",
+      "symbol": "BLID",
+      "address": "0x766AFcf83Fd5eaf884B3d529b432CA27A6d84617",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BLID.svg"
+    },
 
 
 
