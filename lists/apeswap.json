@@ -1880,6 +1880,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BLID.svg"
     },
+    {
+      "name": "Floki Inu",
+      "symbol": "FLOKI",
+      "address": "0xfb5b838b6cfeedc2873ab27866079ac55363d37e",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FLOKI.svg"
+    },
 
 
 
