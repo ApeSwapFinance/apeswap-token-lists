@@ -1888,6 +1888,14 @@
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FLOKI.svg"
     },
+    {
+      "name": "GemPad",
+      "symbol": "GEMS",
+      "address": "0x78Aae7e000Bf6FC98a6b717d5eC8Ef2bcd04F428",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GEMS.svg"
+    },
 
 
 
