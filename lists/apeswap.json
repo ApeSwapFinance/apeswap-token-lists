@@ -1896,6 +1896,14 @@
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GEMS.svg"
     },
+    {
+      "name": "xWIN Token",
+      "symbol": "xWIN",
+      "address": "0xd88ca08d8eec1E9E09562213Ae83A7853ebB5d28",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/XWIN.svg"
+    },
 
 
 
