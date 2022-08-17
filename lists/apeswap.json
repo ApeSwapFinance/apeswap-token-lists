@@ -1912,6 +1912,22 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BAPE.svg"
     },
+    {
+      "name": "Liquid Staking BNB",
+      "symbol": "BNBx",
+      "address": "0x1bdd3Cf7F79cfB8EdbB955f20ad99211551BA275",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BNBX.svg"
+    },
+    {
+      "name": "Stader (Wormhole)",
+      "symbol": "SD",
+      "address": "0x3BC5AC0dFdC871B365d159f728dd1B9A0B5481E8",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SD.svg"
+    },
 
 
 
