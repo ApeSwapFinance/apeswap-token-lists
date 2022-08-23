@@ -1928,6 +1928,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SD.svg"
     },
+    {
+      "name": "DAOLaunch",
+      "symbol": "DAL",
+      "address": "0x53e4b7Aa6cACcb9576548Be3259e62dE4Ddd4417",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DAL.png"
+    },
 
 
 
