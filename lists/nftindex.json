@@ -1,7 +1,7 @@
 {
   "name": "LICO Index List",
   "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LICO.svg",
-  "timestamp": "2021-11-10T15:41:29.665Z",
+  "timestamp": "2022-09-01T15:41:29.665Z",
   "keywords": [
     "nft",
     "index",
@@ -9,7 +9,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 8,
+    "minor": 9,
     "patch": 5
   },
   "tokens": [
@@ -116,6 +116,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HOBOi.png"
+    },
+    {
+      "name": "Ugliens Index",
+      "symbol": "UGLIENi",
+      "address": "0x740021f0cc204da61942f2705464698366500bb8",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/UGLIENi.png"
     }
   ]
 }
