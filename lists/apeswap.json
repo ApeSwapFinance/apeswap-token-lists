@@ -1941,7 +1941,14 @@
     },
 
 
-
+    {
+      "name": "TRAXX Token",
+      "symbol": "TRAXX",
+      "address": "0xD43Be54C1aedf7Ee4099104f2DaE4eA88B18A249",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TRAXX.svg"
+    },
     {
       "name": "Aavegotchi GHST Token",
       "symbol": "GHST",
