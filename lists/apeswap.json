@@ -1896,6 +1896,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RWX.svg"
     },
+    {
+      "name": "Chirpley Token",
+      "symbol": "CHRP",
+      "address": "0xeD00Fc7D48B57B81FE65D1cE71c0985e4CF442CB",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CHRP.svg"
+    },
 
 
 
