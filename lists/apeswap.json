@@ -2293,6 +2293,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NITRO.png"
     },
+    {
+      "name": "Axion",
+      "symbol": "AXN",
+      "address": "0x839F1a22A59eAAf26c85958712aB32F80FEA23d9",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/AXN.png"
+    },
 
 
 
