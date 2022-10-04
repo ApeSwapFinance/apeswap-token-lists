@@ -360,8 +360,8 @@
 
 
     {
-      "name": "WTLOS",
-      "symbol": "Wrapped Telos",
+      "name": "Wrapped Telos",
+      "symbol": "WTLOS",
       "address": "0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E",
       "chainId": 40,
       "decimals": 18,
