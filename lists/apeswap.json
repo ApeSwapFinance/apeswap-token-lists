@@ -681,14 +681,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SHIB.png"
     },
     {
-      "name": "HiFi",
-      "symbol": "HIFI",
-      "address": "0x0a38bc18022b0ccb043f7b730b354d554c6230f1",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HIFI.svg"
-    },
-    {
       "name": "Mobox",
       "symbol": "MBOX",
       "address": "0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377",
