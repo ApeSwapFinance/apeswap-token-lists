@@ -1,6 +1,6 @@
 {
   "name": "@apeswapfinance/token-lists",
-  "version": "1.0.315-alpha.3",
+  "version": "1.0.318",
   "description": "",
   "main": "index.js",
   "scripts": {
