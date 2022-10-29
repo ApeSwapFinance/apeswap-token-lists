@@ -1953,6 +1953,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SWT.svg"
     },
+    {
+      "name": "3air Token",
+      "symbol": "3AIR",
+      "address": "0x596834746B5b78F31A089EE7853fa595682824B7",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/3AIR.svg"
+    }
 
 
 
