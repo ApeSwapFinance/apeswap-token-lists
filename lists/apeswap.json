@@ -407,6 +407,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BANANA.svg"
     },
+    {
+      "name": "Staked Telos",
+      "symbol": "sTLOS",
+      "address": "0xb4b01216a5bc8f1c8a33cd990a1239030e60c905",
+      "chainId": 40,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/STLOS.png"
+    },
 
 
     {
