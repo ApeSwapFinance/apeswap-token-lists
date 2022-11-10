@@ -1969,6 +1969,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/3AIR.svg"
     },
+    {
+      "name": "Curate",
+      "symbol": "XCUR",
+      "address": "0xd52669712f253CD6b2Fe8A8638F66ed726cb770C",
+      "chainId": 56,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/XCUR.svg"
+    },
 
 
 
