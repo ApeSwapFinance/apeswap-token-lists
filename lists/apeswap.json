@@ -1977,6 +1977,14 @@
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/XCUR.svg"
     },
+    {
+      "name": "Amatik",
+      "symbol": "AMT",
+      "address": "0x970f855e0b383cf0b3224a16b856c0f2511ffc1e",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/AMT.png"
+    },
 
 
 
