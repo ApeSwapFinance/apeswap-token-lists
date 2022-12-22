@@ -1993,6 +1993,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MONSTA.svg"
     },
+    {
+      "name": "FRUIT",
+      "symbol": "FRUIT",
+      "address": "0xadd14ca8e026c4555933d12b568b1310968503a2",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FRUIT.svg"
+    },
 
 
 
