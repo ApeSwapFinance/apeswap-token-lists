@@ -2001,6 +2001,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FRUIT.svg"
     },
+    {
+      "name": "Leap Token",
+      "symbol": "LEAP",
+      "address": "0x6eed9140f80f9e989cb23aecbd20b97a29ffc80f",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LEAP.svg"
+    },
 
 
 
