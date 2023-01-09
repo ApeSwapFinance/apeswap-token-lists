@@ -2009,6 +2009,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LEAP.svg"
     },
+    {
+      "name": "Trivian Token",
+      "symbol": "TRIVIA",
+      "address": "0xb465f3cb6Aba6eE375E12918387DE1eaC2301B05",
+      "chainId": 56,
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TRIVIA.svg"
+    },
 
 
 
