@@ -2017,6 +2017,14 @@
       "decimals": 3,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TRIVIA.svg"
     },
+    {
+      "name": "Candela Coin",
+      "symbol": "CLA",
+      "address": "0xFa86225e0c7f51c30f0C3647bfd2B266c3e3B6F6",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CLA.svg"
+    },
 
 
 
