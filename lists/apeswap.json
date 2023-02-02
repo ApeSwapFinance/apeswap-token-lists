@@ -1587,7 +1587,7 @@
     },
     {
       "name": "ApeCoin (Multichain)",
-      "symbol": "APE",
+      "symbol": "APE (Multichain)",
       "address": "0x0b079b33b6e72311c6be245f9f660cc385029fc3",
       "chainId": 56,
       "decimals": 18,
