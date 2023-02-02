@@ -2033,6 +2033,14 @@
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ZBC.svg"
     },
+    {
+      "name": "AVANA",
+      "symbol": "AVAN",
+      "address": "0xf84C55e79858B448c3015c3a1A55efED9EdF69c7",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/AVAN.png"
+    },
 
 
 
