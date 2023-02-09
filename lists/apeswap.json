@@ -1586,6 +1586,14 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RUBY.svg"
     },
     {
+      "name": "XTALToken",
+      "symbol": "XTAL",
+      "address": "0xd23eae3926431c794e2a04e1622a9446d61174a4",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/XTAL.png"
+    },
+    {
       "name": "ApeCoin (Multichain)",
       "symbol": "APE (Multichain)",
       "address": "0x0b079b33b6e72311c6be245f9f660cc385029fc3",
