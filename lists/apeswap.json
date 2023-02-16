@@ -2050,12 +2050,20 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/AVAN.png"
     },
     {
-      "name": "Wrapped Coinflect ",
+      "name": "Wrapped Coinflect",
       "symbol": "WCFLT",
       "address": "0xC73d9b9616e855dF4a0b32C3f1ef2ed5DC9C1990",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WCFLT.svg"
+    },
+    {
+      "name": "Civilization",
+      "symbol": "CVL",
+      "address": "0x9Ae0290cD677dc69A5f2a1E435EF002400Da70F5",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CVL.svg"
     },
 
 
