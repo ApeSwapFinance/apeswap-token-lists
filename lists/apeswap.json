@@ -2462,6 +2462,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/AXN.png"
     },
+    {
+      "name": "ChainGuardians Governance Token",
+      "symbol": "CGG",
+      "address": "0x2Ab4f9aC80F33071211729e45Cfc346C1f8446d5",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CGG.svg"
+    },
 
 
 
