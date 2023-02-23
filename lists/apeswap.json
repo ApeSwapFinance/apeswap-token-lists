@@ -2065,6 +2065,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CVL.svg"
     },
+    {
+      "name": "Tokoin",
+      "symbol": "TOKO",
+      "address": "0x45f7967926e95FD161E56ED66B663c9114C5226f",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TOKO.png"
+    },
 
 
 
