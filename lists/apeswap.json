@@ -357,8 +357,6 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MKR.png"
     },
-
-
     {
       "name": "Wrapped Telos",
       "symbol": "WTLOS",
@@ -415,8 +413,6 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/STLOS.png"
     },
-
-
     {
       "name": "WBNB Token",
       "symbol": "WBNB",
@@ -2089,9 +2085,6 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LGC.svg"
     },
-
-
-
     {
       "name": "WBNB Token",
       "symbol": "WBNB",
@@ -2132,8 +2125,6 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ETH.svg"
     },
-
-
     {
       "name": "TRAXX Token",
       "symbol": "TRAXX",
@@ -2494,9 +2485,6 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CGG.svg"
     },
-
-
-
     {
       "name": "Test USD Coin",
       "symbol": "tUSDC",
@@ -2520,6 +2508,48 @@
       "chainId": 80001,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DAI.svg"
+    },
+    
+    
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+      "chainId": 42161,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/USDC.svg"
+    },
+    {
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+      "chainId": 42161,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BTCB.svg"
+    },
+    {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WETH.svg"
+    },
+    {
+      "name": "Tether",
+      "symbol": "USDT",
+      "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+      "chainId": 42161,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/USDT.svg"
+    },
+    {
+      "name": "Uniswap token",
+      "symbol": "UNI",
+      "address": "0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/UNI.svg"
     }
   ]
 }
