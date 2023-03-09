@@ -357,6 +357,8 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MKR.png"
     },
+
+
     {
       "name": "Wrapped Telos",
       "symbol": "WTLOS",
@@ -413,6 +415,8 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/STLOS.png"
     },
+
+
     {
       "name": "WBNB Token",
       "symbol": "WBNB",
@@ -2086,6 +2090,17 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LGC.svg"
     },
     {
+      "name": "ChainGuardians Governance Token",
+      "symbol": "CGG",
+      "address": "0x1613957159E9B0ac6c80e824F7Eea748a32a0AE2",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CGG.svg"
+    },
+
+
+
+    {
       "name": "WBNB Token",
       "symbol": "WBNB",
       "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
@@ -2125,6 +2140,8 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ETH.svg"
     },
+
+
     {
       "name": "TRAXX Token",
       "symbol": "TRAXX",
@@ -2485,6 +2502,9 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CGG.svg"
     },
+
+
+
     {
       "name": "Test USD Coin",
       "symbol": "tUSDC",
@@ -2509,8 +2529,8 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DAI.svg"
     },
-    
-    
+
+
     {
       "name": "USD Coin",
       "symbol": "USDC",
@@ -2550,6 +2570,14 @@
       "chainId": 42161,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/UNI.svg"
+    },
+    {
+      "name": "Dai Token",
+      "symbol": "DAI",
+      "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DAI.svg"
     }
   ]
 }
