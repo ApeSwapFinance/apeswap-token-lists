@@ -2695,6 +2695,62 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/yfi.jpg",
       "name": "yearn.finance",
       "symbol": "YFI"
+    },
+    {
+      "address": "0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55/logo.png",
+      "name": "Dopex Governance Token",
+      "symbol": "DPX"
+    },
+    {
+      "address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x539bdE0d7Dbd336b79148AA742883198BBF60342.jpg",
+      "name": "MAGIC",
+      "symbol": "MAGIC"
+    },
+    {
+      "name": "Aave",
+      "symbol": "AAVE",
+      "address": "0xba5ddd1f9d7f570dc94a51479a000e3bce967196",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/AAVE.svg"
+    },
+    {
+      "address": "0x0C4681e6C0235179ec3D4F4fc4DF3d14FDD96017",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x0C4681e6C0235179ec3D4F4fc4DF3d14FDD96017.jpg",
+      "name": "Radiant",
+      "symbol": "RDNT"
+    },
+    {
+      "name": "Polygon",
+      "symbol": "MATIC",
+      "address": "0x561877b6b3dd7651313794e5f2894b2f18be0766",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MATIC.svg"
+    },
+    {
+      "name": "Lido",
+      "symbol": "LDO",
+      "address": "0x13ad51ed4f1b7e9dc168d8a00cb3f4ddd85efa60",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LDO.svg"
+    },
+    {
+      "name": "Arcadeum",
+      "symbol": "ARC",
+      "address": "0x7f465507f058e17ad21623927a120ac05ca32741",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ARC.svg"
     }
   ]
 }
