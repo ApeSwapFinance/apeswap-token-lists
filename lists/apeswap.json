@@ -2494,6 +2494,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CGG.svg"
     },
+    {
+      "name": "Leap Token",
+      "symbol": "LEAP",
+      "address": "0xa47150F5c615dcf4f2e47aad1862a0f2b54C3973",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LEAP.svg"
+    },
 
     {
       "name": "Test USD Coin",
