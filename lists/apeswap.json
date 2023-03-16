@@ -1645,7 +1645,7 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GENV3.svg"
     },
     {
-      "name": "Ankr BNB Reward Bearing Certificate",
+      "name": "Ankr Staked BNB",
       "symbol": "ankrBNB",
       "address": "0xE85aFCcDaFBE7F2B096f268e31ccE3da8dA2990A",
       "chainId": 56,
@@ -2091,6 +2091,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CGG.svg"
+    },
+    {
+      "name": "CREDI [via ChainPort.io]",
+      "symbol": "CREDI",
+      "address": "0x2235e79086dd23135119366da45851c741874e5B",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CREDI.png"
     },
 
     {
