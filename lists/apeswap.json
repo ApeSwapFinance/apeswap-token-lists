@@ -2767,6 +2767,14 @@
       "chainId": 42161,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ARC.svg"
+    },
+    {
+      "name": "OnyxDAO Token",
+      "symbol": "ONYX",
+      "address": "0xb7cd6c8c4600aed9985d2c0eb174e0bee56e8854",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ONYX.svg"
     }
   ]
 }
