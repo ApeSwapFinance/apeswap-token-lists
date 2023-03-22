@@ -2775,6 +2775,14 @@
       "chainId": 42161,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ONYX.svg"
+    },
+    {
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ARB.svg"
     }
   ]
 }
