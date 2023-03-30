@@ -1,10 +1,10 @@
 {
   "name": "ApeSwap Default List",
-  "timestamp": "2021-06-20T15:41:29.665Z",
+  "timestamp": "2023-03-30T20:00:00Z",
   "version": {
-    "major": 2,
-    "minor": 4,
-    "patch": 2
+    "major": 3,
+    "minor": 0,
+    "patch": 0
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/apeswap-ape.svg",
