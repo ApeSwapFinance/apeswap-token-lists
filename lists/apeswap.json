@@ -2100,6 +2100,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CREDI.png"
     },
+    {
+      "name": "Orbs",
+      "symbol": "ORBS",
+      "address": "0xeBd49b26169e1b52c04cFd19FCf289405dF55F80",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ORBS.svg"
+    },
 
     {
       "name": "WBNB Token",
