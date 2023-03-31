@@ -4,7 +4,7 @@
   "version": {
     "major": 3,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/apeswap-ape.svg",
@@ -1322,7 +1322,7 @@
       "address": "0xd118f42edbc839f7e1e85d5269a25288792c141b",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RASKO.png"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RASKO.svg"
     },
     {
       "name": "GAMER",
