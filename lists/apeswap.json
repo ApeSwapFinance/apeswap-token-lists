@@ -1,10 +1,10 @@
 {
   "name": "ApeSwap Default List",
-  "timestamp": "2023-03-30T20:00:00Z",
+  "timestamp": "2023-04-11T18:00:00Z",
   "version": {
     "major": 3,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/apeswap-ape.svg",
@@ -2791,6 +2791,14 @@
       "chainId": 42161,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ARB.svg"
+    },
+    {
+      "name": "DibYield",
+      "symbol": "DIB",
+      "address": "0x99a8A7a45f1435aa6bfE099320a0EbDeC2BEAc03",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DIB.svg"
     }
   ]
 }
