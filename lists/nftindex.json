@@ -9,7 +9,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 9,
+    "minor": 10,
     "patch": 5
   },
   "tokens": [
@@ -28,6 +28,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NFA.png"
+    },
+    {
+      "name": "Monsta Party Index",
+      "symbol": "MPNFTi",
+      "address": "0x4169a012c9620ed6c8c491d75f174a5cd94e1e47",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MPNFTi.png"
     },
     {
       "name": "The Bull Society Index",
