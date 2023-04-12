@@ -3,7 +3,7 @@
   "timestamp": "2023-04-11T18:00:00Z",
   "version": {
     "major": 3,
-    "minor": 0,
+    "minor": 1,
     "patch": 2
   },
   "tags": {},
@@ -2107,6 +2107,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ORBS.svg"
+    },
+    {
+      "name": "UBXS Token",
+      "symbol": "UBXS",
+      "address": "0x4f1960E29b2cA581a38c5c474e123f420F8092db",
+      "chainId": 56,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/UBXS.svg"
     },
 
     {
