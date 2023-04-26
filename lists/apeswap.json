@@ -354,6 +354,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MKR.png"
     },
+    {
+      "name": "Binance USD",
+      "symbol": "BUSD",
+      "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BUSD.svg"
+    },
 
     {
       "name": "Wrapped Telos",
@@ -2525,6 +2533,14 @@
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LEAP.svg"
+    },
+    {
+      "name": "cAPEX",
+      "symbol": "cAPEX",
+      "address": "0xbbe6CEFBDe3CcA47b52dacD5D218E7A6939452e9",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/cAPEX.png"
     },
 
     {
