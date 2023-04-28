@@ -1,10 +1,10 @@
 {
   "name": "ApeSwap Default List",
-  "timestamp": "2023-04-27T18:00:00Z",
+  "timestamp": "2023-04-28T18:00:00Z",
   "version": {
     "major": 3,
     "minor": 1,
-    "patch": 3
+    "patch": 4
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/apeswap-ape.svg",
@@ -2131,6 +2131,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/AVG.png"
+    },
+    {
+      "name": "Knoknok",
+      "symbol": "KKC",
+      "address": "0x2e1a87C9a9b121c0A72aE64d99138f586ffb8929",
+      "chainId": 56,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/KKC.png"
     },
 
     {
