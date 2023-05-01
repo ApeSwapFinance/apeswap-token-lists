@@ -1,9 +1,9 @@
 {
   "name": "ApeSwap Default List",
-  "timestamp": "2023-04-28T19:00:00Z",
+  "timestamp": "2023-05-01T22:00:00Z",
   "version": {
     "major": 3,
-    "minor": 1,
+    "minor": 2,
     "patch": 5
   },
   "tags": {},
@@ -1333,14 +1333,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RASKO.svg"
     },
     {
-      "name": "GAMER",
-      "symbol": "GMR",
-      "address": "0xadca52302e0a6c2d5d68edcdb4ac75deb5466884",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GMR.svg"
-    },
-    {
       "name": "Propel Token",
       "symbol": "PEL",
       "address": "0xA75E7928d3de682e3F44dA60C26F33117c4E6C5c",
@@ -2027,14 +2019,6 @@
       "chainId": 56,
       "decimals": 3,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TRIVIA.svg"
-    },
-    {
-      "name": "Candela Coin",
-      "symbol": "CLA",
-      "address": "0xFa86225e0c7f51c30f0C3647bfd2B266c3e3B6F6",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CLA.svg"
     },
     {
       "name": "ZEBEC",
