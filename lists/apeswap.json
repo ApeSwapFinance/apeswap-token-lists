@@ -3,7 +3,7 @@
   "timestamp": "2023-04-28T19:00:00Z",
   "version": {
     "major": 3,
-    "minor": 1,
+    "minor": 2,
     "patch": 5
   },
   "tags": {},
@@ -1331,14 +1331,6 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RASKO.svg"
-    },
-    {
-      "name": "GAMER",
-      "symbol": "GMR",
-      "address": "0xadca52302e0a6c2d5d68edcdb4ac75deb5466884",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GMR.svg"
     },
     {
       "name": "Propel Token",
