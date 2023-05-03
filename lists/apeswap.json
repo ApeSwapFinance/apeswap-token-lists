@@ -3,7 +3,7 @@
   "timestamp": "2023-05-03T22:00:00Z",
   "version": {
     "major": 3,
-    "minor": 3,
+    "minor": 4,
     "patch": 5
   },
   "tags": {},
@@ -2839,6 +2839,14 @@
       "chainId": 42161,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DIB.svg"
+    },
+    {
+      "name": "OpenWorld",
+      "symbol": "OPEN",
+      "address": "0x58CB98A966F62aA6F2190eB3AA03132A0c3de3D5",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/OPEN.svg"
     }
   ]
 }
