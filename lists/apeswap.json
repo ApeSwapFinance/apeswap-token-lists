@@ -1,9 +1,9 @@
 {
   "name": "ApeSwap Default List",
-  "timestamp": "2023-05-01T22:00:00Z",
+  "timestamp": "2023-05-03T22:00:00Z",
   "version": {
     "major": 3,
-    "minor": 2,
+    "minor": 3,
     "patch": 5
   },
   "tags": {},
@@ -2123,6 +2123,22 @@
       "chainId": 56,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/KKC.png"
+    },
+    {
+      "name": "OpenWorld",
+      "symbol": "OPEN",
+      "address": "0x27a339d9B59b21390d7209b78a839868E319301B",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/OPEN.svg"
+    },
+    {
+      "name": "kiwi",
+      "symbol": "KIWI",
+      "address": "0xBA625FDcc8d35e43e9B9E337779d4e4794a80Dac",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/KIWI.svg"
     },
 
     {
