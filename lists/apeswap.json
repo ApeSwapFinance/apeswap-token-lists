@@ -1,9 +1,9 @@
 {
   "name": "ApeSwap Default List",
-  "timestamp": "2023-05-03T22:00:00Z",
+  "timestamp": "2023-05-04T22:00:00Z",
   "version": {
     "major": 3,
-    "minor": 4,
+    "minor": 5,
     "patch": 5
   },
   "tags": {},
@@ -2139,6 +2139,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/KIWI.svg"
+    },
+    {
+      "name": "Bedrock",
+      "symbol": "ROCK",
+      "address": "0xC3387E4285e9F80A7cFDf02B4ac6cdF2476A528A",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ROCK.svg"
     },
 
     {
