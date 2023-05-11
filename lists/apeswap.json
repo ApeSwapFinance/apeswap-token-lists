@@ -1,9 +1,9 @@
 {
   "name": "ApeSwap Default List",
-  "timestamp": "2023-05-04T22:00:00Z",
+  "timestamp": "2023-05-11T16:00:00Z",
   "version": {
     "major": 3,
-    "minor": 5,
+    "minor": 6,
     "patch": 5
   },
   "tags": {},
@@ -2566,7 +2566,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/cAPEX.png"
     },
-
+    {
+      "name": "Wombat",
+      "symbol": "WOMBAT",
+      "address": "0x0C9c7712C83B3C70e7c5E11100D33D9401BdF9dd",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WOMBAT.svg"
+    },
     {
       "name": "Test USD Coin",
       "symbol": "tUSDC",
