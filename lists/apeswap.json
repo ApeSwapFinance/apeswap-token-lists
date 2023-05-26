@@ -2870,6 +2870,14 @@
       "chainId": 42161,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/OPEN.svg"
+    },
+    {
+      "name": "BigBullMetaverse",
+      "symbol": "BIGM",
+      "address": "0xF9B995a92031DE24EC70a1448F65aAAA9e6e65E7",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://drive.google.com/file/d/1Xv9EokhPN1lM53kfBNHr1_6NXphjzKbz/view"
     }
   ]
 }
