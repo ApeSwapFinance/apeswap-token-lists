@@ -2876,7 +2876,7 @@
       "symbol": "KOM",
       "address": "0xA58663FAEF461761e44066ea26c1FCddF2927B80",
       "chainId": 42161,
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/KOM.svg"
     }
   ]
