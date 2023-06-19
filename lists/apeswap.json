@@ -1,9 +1,9 @@
 {
   "name": "ApeSwap Default List",
-  "timestamp": "2023-05-31T20:30:00Z",
+  "timestamp": "2023-06-19T16:30:00Z",
   "version": {
     "major": 3,
-    "minor": 8,
+    "minor": 9,
     "patch": 5
   },
   "tags": {},
@@ -2870,6 +2870,14 @@
       "chainId": 42161,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/OPEN.svg"
+    },
+    {
+      "name": "Kommunitas",
+      "symbol": "KOM",
+      "address": "0xA58663FAEF461761e44066ea26c1FCddF2927B80",
+      "chainId": 42161,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/KOM.svg"
     }
   ]
 }
