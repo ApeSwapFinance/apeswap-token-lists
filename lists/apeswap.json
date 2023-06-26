@@ -1,10 +1,10 @@
 {
   "name": "ApeSwap Default List",
-  "timestamp": "2023-06-19T16:30:00Z",
+  "timestamp": "2023-06-26T16:30:00Z",
   "version": {
     "major": 3,
     "minor": 9,
-    "patch": 5
+    "patch": 6
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/apeswap-ape.svg",
@@ -2155,6 +2155,22 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NOOT.svg"
+    },
+    {
+      "name": "Non Fungible Apes Index",
+      "symbol": "NFAi",
+      "address": "0x4c48a4d089d13cb24a8a250c7051e8a3f8687460",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NFAI.png"
+    },
+    {
+      "name": "Non-Fungible Banana Index",
+      "symbol": "NFBi",
+      "address": "0x45d957a094c73a0d12bccab279f78c1d253d8f56",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NFBI.png"
     },
 
     {
