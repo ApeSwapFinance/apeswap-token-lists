@@ -1,16 +1,12 @@
 {
   "name": "LICO Index List",
   "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LICO.svg",
-  "timestamp": "2022-09-01T15:41:29.665Z",
-  "keywords": [
-    "nft",
-    "index",
-    "lico"
-  ],
+  "timestamp": "2023-06-26T10:00:00",
+  "keywords": ["nft", "index", "lico"],
   "version": {
     "major": 1,
-    "minor": 10,
-    "patch": 5
+    "minor": 11,
+    "patch": 0
   },
   "tokens": [
     {
@@ -27,7 +23,7 @@
       "address": "0x4c48a4d089d13cb24a8a250c7051e8a3f8687460",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NFA.png"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NFAI.png"
     },
     {
       "name": "Monsta Party Index",
@@ -67,7 +63,7 @@
       "address": "0x45d957a094c73a0d12bccab279f78c1d253d8f56",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NFBi.png"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NFBI.png"
     },
     {
       "name": "WolfAngers Index",
