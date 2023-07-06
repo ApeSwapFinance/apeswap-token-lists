@@ -1,9 +1,9 @@
 {
   "name": "ApeSwap Default List",
-  "timestamp": "2023-07-03T14:00:00Z",
+  "timestamp": "2023-07-06T17:00:00Z",
   "version": {
     "major": 3,
-    "minor": 10,
+    "minor": 11,
     "patch": 6
   },
   "tags": {},
@@ -2187,6 +2187,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CGPT.png"
+    },
+    {
+      "name": "USDy",
+      "symbol": "USDy",
+      "address": "0x45d486479ed1db8b164d1386b3c89c05cee8ca86",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/USDY.svg"
     },
 
     {
