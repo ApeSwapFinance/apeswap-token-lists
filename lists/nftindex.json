@@ -1,12 +1,12 @@
 {
   "name": "LICO Index List",
   "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LICO.svg",
-  "timestamp": "2023-06-26T10:00:00",
+  "timestamp": "2023-06-26T10:00:00Z",
   "keywords": ["nft", "index", "lico"],
   "version": {
     "major": 1,
     "minor": 11,
-    "patch": 0
+    "patch": 1
   },
   "tokens": [
     {
