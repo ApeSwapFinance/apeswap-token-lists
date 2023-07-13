@@ -1,9 +1,9 @@
 {
   "name": "ApeSwap Default List",
-  "timestamp": "2023-07-06T17:00:00Z",
+  "timestamp": "2023-07-13T19:00:00Z",
   "version": {
     "major": 3,
-    "minor": 11,
+    "minor": 12,
     "patch": 6
   },
   "tags": {},
@@ -1707,6 +1707,14 @@
       "chainId": 56,
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ZBC.svg"
+    },
+    {
+      "name": "AVANA",
+      "symbol": "AVAN",
+      "address": "0xf84C55e79858B448c3015c3a1A55efED9EdF69c7",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/AVAN.png"
     },
     {
       "name": "Wrapped Coinflect",
