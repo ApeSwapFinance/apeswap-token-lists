@@ -1,6 +1,6 @@
 {
   "name": "ApeSwap Default List",
-  "timestamp": "2023-07-13T19:00:00Z",
+  "timestamp": "2023-07-17T19:00:00Z",
   "version": {
     "major": 3,
     "minor": 12,
@@ -675,6 +675,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/AUTO.svg"
+    },
+    {
+      "name": "SweetToken",
+      "symbol": "SWT",
+      "address": "0xE8EbCf4Fd1faa9B77c0ec0B26e7Cc32a251Cd799",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SWT.svg"
     },
     {
       "name": "BetSwirl",
