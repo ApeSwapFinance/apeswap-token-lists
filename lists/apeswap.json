@@ -1,10 +1,10 @@
 {
   "name": "ApeSwap Default List",
-  "timestamp": "2023-07-17T19:00:00Z",
+  "timestamp": "2023-07-20T19:00:00Z",
   "version": {
     "major": 3,
-    "minor": 12,
-    "patch": 6
+    "minor": 13,
+    "patch": 0
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/apeswap-ape.svg",
@@ -2526,6 +2526,14 @@
       "chainId": 42161,
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/KOM.svg"
+    },
+    {
+      "name": "CruizeToken",
+      "symbol": "CRUIZE",
+      "address": "0x232baf8cfc14520140c3686fbab53fa596a50552",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CRUIZE.png"
     }
   ]
 }
