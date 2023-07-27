@@ -1682,7 +1682,8 @@
       "address": "0x8A5d7FCD4c90421d21d30fCC4435948aC3618B2f",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MONSTA.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MONSTA.svg",
+      "isReflect": true
     },
     {
       "name": "FRUIT",
@@ -1834,7 +1835,8 @@
       "address": "0x98A2500A2C3B8877B0eD5ac3ACC300C50Bf7064b",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NOOT.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NOOT.svg",
+      "isReflect": true
     },
     {
       "name": "Non Fungible Apes Index",
