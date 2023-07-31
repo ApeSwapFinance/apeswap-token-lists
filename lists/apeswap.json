@@ -1,9 +1,9 @@
 {
   "name": "ApeSwap Default List",
-  "timestamp": "2023-07-20T19:00:00Z",
+  "timestamp": "2023-07-31T16:00:00Z",
   "version": {
     "major": 3,
-    "minor": 13,
+    "minor": 14,
     "patch": 0
   },
   "tags": {},
@@ -2275,8 +2275,8 @@
     },
     {
       "name": "USD Coin",
-      "symbol": "USDC",
-      "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+      "symbol": "USDC.e",
+      "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
       "chainId": 42161,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/USDC.svg"
