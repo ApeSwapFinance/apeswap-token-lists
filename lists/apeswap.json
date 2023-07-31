@@ -2274,8 +2274,16 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BANANA.svg"
     },
     {
-      "name": "USD Coin",
+      "name": "Bridged USDC",
       "symbol": "USDC.e",
+      "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+      "chainId": 42161,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/USDC.svg"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
       "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
       "chainId": 42161,
       "decimals": 6,
