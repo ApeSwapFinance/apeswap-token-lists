@@ -1,6 +1,6 @@
 {
   "name": "@ape.swap/token-lists",
-  "version": "1.0.57",
+  "version": "1.0.58",
   "publishConfig": {
     "access": "public"
   },
