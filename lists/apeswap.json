@@ -1,9 +1,9 @@
 {
   "name": "ApeSwap Default List",
-  "timestamp": "2023-08-03T19:30:00Z",
+  "timestamp": "2023-08-03T19:31:00Z",
   "version": {
     "major": 3,
-    "minor": 16,
+    "minor": 17,
     "patch": 0
   },
   "tags": {},
@@ -1869,6 +1869,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/USDY.svg"
+    },
+    {
+      "name": "Furio Finance",
+      "symbol": "FURFI",
+      "address": "0x6CFf19F714E9f0Ac62412555aa08f313fc343aE4",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FURFI.svg"
     },
 
     {
