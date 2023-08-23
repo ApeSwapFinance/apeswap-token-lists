@@ -1886,6 +1886,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BRG.svg"
     },
+    {
+      "name": "Poollotto Finance",
+      "symbol": "PLT",
+      "address": "0x631C2f0EdABaC799f07550aEE4fF0Bf7fd35212B",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PLT.png"
+    },
     
 
     {
