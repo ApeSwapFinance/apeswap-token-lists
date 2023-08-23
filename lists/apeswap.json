@@ -1,9 +1,9 @@
 {
   "name": "ApeSwap Default List",
-  "timestamp": "2023-08-15T15:01:00Z",
+  "timestamp": "2023-08-23T19:00:00Z",
   "version": {
     "major": 3,
-    "minor": 19,
+    "minor": 20,
     "patch": 0
   },
   "tags": {},
@@ -1885,6 +1885,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BRG.svg"
+    },
+    {
+      "name": "Poollotto Finance",
+      "symbol": "PLT",
+      "address": "0x631C2f0EdABaC799f07550aEE4fF0Bf7fd35212B",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PLT.png"
     },
     
 
