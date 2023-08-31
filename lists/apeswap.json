@@ -1,9 +1,9 @@
 {
   "name": "ApeSwap Default List",
-  "timestamp": "2023-08-31T15:00:00Z",
+  "timestamp": "2023-08-31T22:00:00Z",
   "version": {
     "major": 3,
-    "minor": 22,
+    "minor": 23,
     "patch": 0
   },
   "tags": {},
@@ -1909,6 +1909,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DCK.png"
+    },
+    {
+      "name": "AITECH",
+      "symbol": "AITECH",
+      "address": "0x2D060Ef4d6BF7f9e5edDe373Ab735513c0e4F944",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/AITECH.png"
     },
     
 
