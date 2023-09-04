@@ -1,9 +1,9 @@
 {
   "name": "ApeSwap Default List",
-  "timestamp": "2023-09-04T15:00:00Z",
+  "timestamp": "2023-09-04T18:00:00Z",
   "version": {
     "major": 3,
-    "minor": 25,
+    "minor": 26,
     "patch": 0
   },
   "tags": {},
@@ -1784,7 +1784,7 @@
     {
       "name": "Orbs",
       "symbol": "ORBS",
-      "address": "0xeBd49b26169e1b52c04cFd19FCf289405dF55F80",
+      "address": "0x43a8cab15D06d3a5fE5854D714C37E7E9246F170",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ORBS.svg"
