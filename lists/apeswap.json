@@ -1,9 +1,9 @@
 {
   "name": "ApeSwap Default List",
-  "timestamp": "2023-09-04T18:00:00Z",
+  "timestamp": "2023-09-08T15:00:00Z",
   "version": {
     "major": 3,
-    "minor": 26,
+    "minor": 27,
     "patch": 0
   },
   "tags": {},
@@ -1933,6 +1933,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MFPS.svg"
+    },
+    {
+      "name": "GYM NETWORK",
+      "symbol": "GYMNET",
+      "address": "0x0012365F0a1E5F30a5046c680DCB21D07b15FcF7",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GYMNET.png"
     },
 
     {
