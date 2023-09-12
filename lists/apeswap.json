@@ -2616,6 +2616,14 @@
       "chainId": 42161,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CRUIZE.png"
+    },
+    {
+      "name": "Winston",
+      "symbol": "WIN",
+      "address": "0x75578ebbefe274f240b8e1b5859ca34f342157d9",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WINSTON.png"
     }
   ]
 }
