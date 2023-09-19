@@ -629,6 +629,14 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SXP.svg"
     },
     {
+      "name": "Bidenia",
+      "symbol": "BIE",
+      "address": "0x55818Be03e5103e74f96dF7343Dd1862A6d215f2",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://i.ibb.co/9GP6X1R/bidenia-Token.png"
+    },
+    {
       "name": "Binance-Peg BUSD-T",
       "symbol": "USDT",
       "address": "0x55d398326f99059ff775485246999027b3197955",
