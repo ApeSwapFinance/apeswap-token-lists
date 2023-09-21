@@ -1942,6 +1942,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GYMNET.png"
     },
+    {
+      "name": "HERMIONE",
+      "symbol": "GRNGR",
+      "address": "0xf4cd3a31Ab4718e08a77C2E9E3f4Ba0372806DFe",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GRNGR.png"
+    },
 
     {
       "name": "WBNB Token",
