@@ -1958,6 +1958,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HGPT.png"
     },
+    {
+      "name": "Arcas",
+      "symbol": "ARCAS",
+      "address": "0xAd0926eCf31719263DC86426024794332d9dD9A3",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ARCAS.png"
+    },
 
     {
       "name": "WBNB Token",
