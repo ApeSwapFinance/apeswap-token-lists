@@ -2337,6 +2337,14 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WOMBAT.svg"
     },
     {
+      "name": "BOOM!",
+      "symbol": "BOOM",
+      "address": "0xe88Ac56C4dedc973a0a26C062F0F07568dfb23FA",
+      "chainId": 137,
+      "decimals": 18,
+      "logoUri": "https://boom.trading/icon.png"
+    },
+    {
       "name": "Test USD Coin",
       "symbol": "tUSDC",
       "address": "0x5E061239f6Dd8D8035bb341AA8ef8Be6026e80fa",
