@@ -1758,14 +1758,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/OATH.svg"
     },
     {
-      "name": "LiveGreen Coin",
-      "symbol": "LGC",
-      "address": "0x3496212eC43Cc49F5151ec4405efD4975e036f89",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LGC.svg"
-    },
-    {
       "name": "ChainGuardians Governance Token",
       "symbol": "CGG",
       "address": "0x1613957159E9B0ac6c80e824F7Eea748a32a0AE2",
