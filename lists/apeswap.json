@@ -1974,6 +1974,14 @@
       "decimals": 10,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CHAPZ.png"
     },
+    {
+      "name": "AbondCexFund",
+      "symbol": "ACF",
+      "address": "0x5C2047b2Ca5A2F561e06804ead73AF116845C235",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ACF.png"
+    },
     
 
     {
