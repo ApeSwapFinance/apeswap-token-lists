@@ -2354,6 +2354,70 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WOMBAT.svg"
     },
     {
+      "name": "MetaTrace",
+      "symbol": "TRC",
+      "address": "0x40d9fc77027A281d85de1fa660C887E645AE26C3",
+      "chainId": 137,
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TRC.png"
+    },
+    {
+      "name": "Veloce",
+      "symbol": "VEXT",
+      "address": "0x27842334C55c01DDFE81Bf687425F906816c5141",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/VEXT.png"
+    },
+    {
+      "name": "BitCone",
+      "symbol": "CONE",
+      "address": "0xbA777aE3a3C91fCD83EF85bfe65410592Bdd0f7c",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CONE.png"
+    },
+    {
+      "name": "Forest Knight",
+      "symbol": "KNIGHT",
+      "address": "0x4455eF8B4B4A007a93DaA12DE63a47EEAC700D9D",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/KNIGHT.png"
+    },
+    {
+      "name": "Borderless Money",
+      "symbol": "BOM",
+      "address": "0xc59132FBdF8dE8fbE510F568a5D831C991B4fC38",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BOM.png"
+    },
+    {
+      "name": "GoBlank",
+      "symbol": "BLANK",
+      "address": "0xf4C83080E80AE530d6f8180572cBbf1Ac9D5d435",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BLANK.png"
+    },
+    {
+      "name": "Dogelon",
+      "symbol": "ELON",
+      "address": "0xE0339c80fFDE91F3e20494Df88d4206D86024cdF",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ELON.png"
+    },
+    {
+      "name": "Metaverse",
+      "symbol": "MV",
+      "address": "0xA3c322Ad15218fBFAEd26bA7f616249f7705D945",
+      "chainId": 137,
+      "decimals":18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MV.png"
+    },
+    {
       "name": "Test USD Coin",
       "symbol": "tUSDC",
       "address": "0x5E061239f6Dd8D8035bb341AA8ef8Be6026e80fa",
