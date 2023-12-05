@@ -2442,6 +2442,14 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FBX.png"
     },
     {
+      "name": "IXT-USDT",
+      "symbol": "IXT-USDT",
+      "address": "0x304e57c752E854E9A233Ae82fcC42F7568b81180",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/IXT.png"
+    },
+    {
       "name": "Test USD Coin",
       "symbol": "tUSDC",
       "address": "0x5E061239f6Dd8D8035bb341AA8ef8Be6026e80fa",
