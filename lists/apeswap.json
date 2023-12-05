@@ -2442,12 +2442,51 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FBX.png"
     },
     {
-      "name": "IXT-USDT",
+      "name": "IXT-USDT QuickSwap LP",
       "symbol": "IXT-USDT",
       "address": "0x304e57c752E854E9A233Ae82fcC42F7568b81180",
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/IXT.png"
+    },{
+      "name": "ORBS-USDC QuickSwap LP",
+      "symbol": "ORBS-USDC",
+      "address": "0xB2b6D423e535b57aaD06E9866803B95fB66152EA",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ORBS.png"
+    },
+    {
+      "name": "ETH-KNIGHT QuickSwap LP",
+      "symbol": "ETH-KNIGHT",
+      "address": "0x7F7C12acec546CDCeb028Cc5b57F7aA2d91F0887",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/KNIGHT.png"
+    },
+    {
+      "name": "BOM-USDC QuickSwap LP",
+      "symbol": "BOM-USDC",
+      "address": "0x9fF7EF52f423E06EdB23859006372974A9692f9c",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BOM.png"
+    },
+    {
+      "name": "BLANK-USDC QuickSwap LP",
+      "symbol": "BLANK-USDC",
+      "address": "0x3B480d50b9ed88B4891e066681467a73F78d8c22",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BOM.png"
+    },
+    {
+      "name": "MV-USDT QuickSwap LP",
+      "symbol": "MV-USDT",
+      "address": "0x690a87Ed8972e451e755b8F2dC1fc2B28e3c6566",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BOM.png"
     },
     {
       "name": "Test USD Coin",
