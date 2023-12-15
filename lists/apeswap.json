@@ -3,7 +3,7 @@
   "timestamp": "2023-09-08T15:00:00Z",
   "version": {
     "major": 3,
-    "minor": 28,
+    "minor": 29,
     "patch": 0
   },
   "tags": {},
@@ -1996,6 +1996,14 @@
       "address": "0x7B56748A3Ef9970A5bAe99c58aD8bC67b26c525F",
       "chainId": 56,
       "decimals": 10,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CHAPZ.png"
+    },
+    {
+      "name": "CHAPZ-USDT PCS LP",
+      "symbol": "CHAPZ-USDT",
+      "address": "0x33F675E6802Bb5aA15Dd797D716436Df0D8Cd372",
+      "chainId": 56,
+      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CHAPZ.png"
     },
     {
