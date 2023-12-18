@@ -2014,6 +2014,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ACF.png"
     },
+    {
+      "name": "xCREDI",
+      "symbol": "xCREDI",
+      "address": "0x1265DAdE08e13F1c6f9706287FBE39083dC5a4b4",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/xCREDI.png"
+    },
     
 
     {
