@@ -2024,7 +2024,7 @@
     },
     {
       "name": "xCREDI-BNB APE LP",
-      "symbol": "xCREDI-BNB",
+      "symbol": "APE-LP",
       "address": "0x79d6f5D3cDE38b51DABA455F710B92441123feca",
       "chainId": 56,
       "decimals": 18,
