@@ -2526,7 +2526,7 @@
       "address": "0x3B480d50b9ed88B4891e066681467a73F78d8c22",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BOM.png"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BLANK.png"
     },
     {
       "name": "MV-USDT QuickSwap LP",
@@ -2534,7 +2534,7 @@
       "address": "0x690a87Ed8972e451e755b8F2dC1fc2B28e3c6566",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BOM.png"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MV.png"
     },
     {
       "name": "Test USD Coin",
