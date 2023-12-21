@@ -2490,6 +2490,14 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FBX.png"
     },
     {
+      "name": "Saiyan PEPE",
+      "symbol": "SPEPE",
+      "address": "0xfcA466F2fA8E667a517C9C6cfa99Cf985be5d9B1",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SPEPE.png"
+    },
+    {
       "name": "IXT-USDT QuickSwap LP",
       "symbol": "IXT-USDT",
       "address": "0x304e57c752E854E9A233Ae82fcC42F7568b81180",
