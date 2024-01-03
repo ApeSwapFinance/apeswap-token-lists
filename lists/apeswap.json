@@ -11,7 +11,7 @@
   "keywords": ["apeswap", "default"],
   "tokens": [
     {
-      "name": "ABOND Token",
+      "name": "ApeBond",
       "symbol": "ABOND",
       "address": "0x34294AfABCbaFfc616ac6614F6d2e17260b78BEd",
       "chainId": 56,
@@ -19,7 +19,7 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ABOND.svg"
     },
     {
-      "name": "ABOND Token",
+      "name": "ApeBond",
       "symbol": "ABOND",
       "address": "0xe6828D65bf5023AE1851D90D8783Cc821ba7eeE1",
       "chainId": 137,
@@ -27,7 +27,7 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ABOND.svg"
     },
     {
-      "name": "ABOND Token",
+      "name": "ApeBond",
       "symbol": "ABOND",
       "address": "0xe6828D65bf5023AE1851D90D8783Cc821ba7eeE1",
       "chainId": 1,
