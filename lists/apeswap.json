@@ -2030,6 +2030,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/xCREDI.png"
     },
+    {
+      "name": "Hunter Token",
+      "symbol": "HNTR",
+      "address": "0x83451A4E3585FdA74FEb348Ad929f2C4cA189660",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HNTR.png"
+    },
     
 
     {
