@@ -2038,6 +2038,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HNTR.png"
     },
+    {
+      "name": "HNTR-USDT PCS LP",
+      "symbol": "HNTR-USDT",
+      "address": "0x4a593b44C505fe4C68b8d3fe81E46C158a6A2010",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HNTR.png"
+    },
     
 
     {
