@@ -2030,6 +2030,22 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/xCREDI.png"
     },
+    {
+      "name": "Hunter Token",
+      "symbol": "HNTR",
+      "address": "0x83451A4E3585FdA74FEb348Ad929f2C4cA189660",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HNTR.png"
+    },
+    {
+      "name": "HNTR-USDT PCS LP",
+      "symbol": "HNTR-USDT",
+      "address": "0x4a593b44C505fe4C68b8d3fe81E46C158a6A2010",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HNTR.png"
+    },
     
 
     {
