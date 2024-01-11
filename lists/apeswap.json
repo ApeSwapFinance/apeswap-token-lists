@@ -2046,6 +2046,22 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HNTR.png"
     },
+    {
+      "name": "TiFi Token",
+      "symbol": "TIFI",
+      "address": "0x17E65E6b9B166Fb8e7c59432F0db126711246BC0",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TIFI.png"
+    },
+    {
+      "name": "TIFI-USDT PCS LP",
+      "symbol": "TIFI-USDT",
+      "address": "0x3a29DD4Ab216E296A483df77c46AE4DED213D0FD",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TIFI.png"
+    },
     
 
     {
