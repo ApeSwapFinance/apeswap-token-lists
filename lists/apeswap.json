@@ -2577,6 +2577,14 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MV.png"
     },
     {
+      "name": "A51 Finance",
+      "symbol": "A51",
+      "address": "0xe9E7c09e82328c3107d367f6c617cF9977e63ED0",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/A51.png"
+    },
+    {
       "name": "Test USD Coin",
       "symbol": "tUSDC",
       "address": "0x5E061239f6Dd8D8035bb341AA8ef8Be6026e80fa",
