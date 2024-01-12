@@ -2062,6 +2062,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TIFI.png"
     },
+    {
+      "name": "A51 Finance",
+      "symbol": "A51",
+      "address": "0xe9E7c09e82328c3107d367f6c617cF9977e63ED0",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/A51.png"
+    },
     
 
     {
