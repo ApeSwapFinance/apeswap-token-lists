@@ -1706,7 +1706,7 @@
       "address": "0x8A5d7FCD4c90421d21d30fCC4435948aC3618B2f",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MONSTA.svg",
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MONSTA.png",
       "isReflect": true
     },
     {
@@ -2061,6 +2061,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TIFI.png"
+    },
+    {
+      "name": "MONSTA-BNB PCS LP",
+      "symbol": "MONTA-BNB",
+      "address": "0x55C49d1cd54126C69F22C2e9eEBd1EFeF5e620FA",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MONSTA.png"
     },
     
 
