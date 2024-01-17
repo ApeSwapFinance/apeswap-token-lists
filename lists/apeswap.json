@@ -2070,6 +2070,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MONSTA.png"
     },
+    {
+      "name": "GrapeCoin",
+      "symbol": "GRAPE",
+      "address": "0x555296de6A86E72752e5C5DC091FE49713Aa145C",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GRAPE.png"
+    },
     
 
     {
