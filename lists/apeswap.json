@@ -2624,6 +2624,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BULL.png"
     },
+    {
+      "name": "WeFi",
+      "symbol": "WEFI",
+      "address": "0xfFA188493C15DfAf2C206c97D8633377847b6a52",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WEFI.png"
+    },
 
     {
       "name": "Test USD Coin",
