@@ -2078,6 +2078,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GRAPE.png"
     },
+    {
+      "name": "Cakebot Token",
+      "symbol": "CAKEBOT",
+      "address": "0x2947C22608D742AF4e8C16D86f90a93969f13F8D",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CAKEBOT.png"
+    },
     
 
     {
@@ -2600,6 +2608,31 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/A51.png"
     },
+    {
+      "name": "3A Utility Token",
+      "symbol": "fxA3A",
+      "address": "0x58c7B2828e7F2B2CaA0cC7fEef242fA3196d03df",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FXA3A.png"
+    },
+    {
+      "name": "Bullieverse",
+      "symbol": "BULL",
+      "address": "0x9f95e17b2668AFE01F8fbD157068b0a4405Cc08D",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BULL.png"
+    },
+    {
+      "name": "WeFi",
+      "symbol": "WEFI",
+      "address": "0xfFA188493C15DfAf2C206c97D8633377847b6a52",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WEFI.png"
+    },
+
     {
       "name": "Test USD Coin",
       "symbol": "tUSDC",
