@@ -2617,6 +2617,14 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FXA3A.png"
     },
     {
+      "name": "fxA3A-USDC QuickSwap LP",
+      "symbol": "fxA3A-USDC",
+      "address": "0x89470e8D8bB8655a94678d801e0089c4646f5E84",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FXA3A.png"
+    },
+    {
       "name": "Bullieverse",
       "symbol": "BULL",
       "address": "0x9f95e17b2668AFE01F8fbD157068b0a4405Cc08D",
