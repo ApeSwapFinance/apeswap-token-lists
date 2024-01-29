@@ -2086,6 +2086,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CAKEBOT.png"
     },
+    {
+      "name": "Football at AlphaVerse",
+      "symbol": "FAV",
+      "address": "0x1A076E4633FA139D7B908b88326de603Fbe8c199",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FAV.png"
+    },
     
 
     {
