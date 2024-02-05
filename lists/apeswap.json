@@ -2094,6 +2094,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FAV.png"
     },
+    {
+      "name": "CodeX",
+      "symbol": "CDX",
+      "address": "0x1c3ba6cF2676cc795db02a3b2093E5076f5F330E",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CDX.png"
+    },
     
 
     {
