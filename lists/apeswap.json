@@ -2102,6 +2102,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CDX.png"
     },
+    {
+      "name": "First Digital USD",
+      "symbol": "FDUSD",
+      "address": "0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FDUSD.png"
+    },
     
 
     {
