@@ -2110,6 +2110,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FDUSD.png"
     },
+    {
+      "name": "XOX Labs",
+      "symbol": "XOX",
+      "address": "0x0f5C78f152152dDA52a2ea45B0a8C10733010748",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/XOX.png"
+    },
     
 
     {
