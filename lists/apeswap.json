@@ -2219,8 +2219,16 @@
     },
     {
       "name": "USD Coin",
-      "symbol": "USDC",
+      "symbol": "USDC.e",
       "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "chainId": 137,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
       "chainId": 137,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png"
