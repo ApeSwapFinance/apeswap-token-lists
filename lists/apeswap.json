@@ -19,10 +19,18 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ABOND.svg"
     },
     {
-      "name": "TABOND",
-      "symbol": "TABOND",
-      "address": "0x765FAE7497559175A73aa223894047c213CA5c82",
-      "chainId": 2424,
+      "name": "mockUSDT",
+      "symbol": "mockUSDT",
+      "address": "0xA4259F9A8EB2E88ccc9C78bE1BeB27faF54bcc7D",
+      "chainId": 2525,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ABOND.svg"
+    },
+    {
+      "name": "mockINJ",
+      "symbol": "mockINJ",
+      "address": "0x4569348D39cc38F4d6a1180573Df73B7b03251d9",
+      "chainId": 2525,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ABOND.svg"
     },
