@@ -2118,6 +2118,22 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/XOX.png"
     },
+    {
+      "name": "Winkies",
+      "symbol": "WNK",
+      "address": "0xb160A5F19ebccd8E0549549327e43DDd1D023526",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WNK.png"
+    },
+    {
+      "name": "WNK-USDC PCS LP",
+      "symbol": "WNK",
+      "address": "0xbEc630483E02f058DFC6E9997d00c19a05D99E18",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WNK.png"
+    },
     
 
     {
