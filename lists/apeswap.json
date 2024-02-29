@@ -2680,6 +2680,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WEFI.png"
     },
+    {
+      "name": "NFTBOOKS",
+      "symbol": "NFTBS",
+      "address": "0x6396252377F54ad33cFF9131708Da075b21d9B88",
+      "chainId": 137,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NFTBS.png"
+    },
 
     {
       "name": "Test USD Coin",
