@@ -2142,6 +2142,22 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/XOX.png"
     },
+    {
+      "name": "Winkies",
+      "symbol": "WNK",
+      "address": "0xb160A5F19ebccd8E0549549327e43DDd1D023526",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WNK.png"
+    },
+    {
+      "name": "WNK-USDC PCS LP",
+      "symbol": "WNK",
+      "address": "0xbEc630483E02f058DFC6E9997d00c19a05D99E18",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WNK.png"
+    },
     
 
     {
@@ -2243,8 +2259,16 @@
     },
     {
       "name": "USD Coin",
-      "symbol": "USDC",
+      "symbol": "USDC.e",
       "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "chainId": 137,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
       "chainId": 137,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png"
@@ -2695,6 +2719,14 @@
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WEFI.png"
+    },
+    {
+      "name": "NFTBOOKS",
+      "symbol": "NFTBS",
+      "address": "0x6396252377F54ad33cFF9131708Da075b21d9B88",
+      "chainId": 137,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NFTBS.png"
     },
 
     {
