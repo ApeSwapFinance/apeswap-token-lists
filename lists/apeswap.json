@@ -2144,7 +2144,7 @@
     },
     {
       "name": "WNK-USDC PCS LP",
-      "symbol": "WNK",
+      "symbol": "WNK-USDC",
       "address": "0xbEc630483E02f058DFC6E9997d00c19a05D99E18",
       "chainId": 56,
       "decimals": 18,
@@ -2154,6 +2154,14 @@
       "name": "GT Protocol",
       "symbol": "GTAI",
       "address": "0x003d87d02A2A01E9E8a20f507C83E15DD83A33d1",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GTAI.png"
+    },
+    {
+      "name": "GTAI-USDT PCS LP",
+      "symbol": "GTAI-USDT",
+      "address": "0xAB1E062Ab03b11fF7Dd943C50b9aa2bF9933C1F3",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GTAI.png"
