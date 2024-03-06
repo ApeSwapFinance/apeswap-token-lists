@@ -11,6 +11,22 @@
   "keywords": ["apeswap", "default"],
   "tokens": [
     {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x97423A68BAe94b5De52d767a17aBCc54c157c0E5",
+      "chainId": 2525,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/USDT.svg"
+    },
+    {
+      "name": "Injective token",
+      "symbol": "WINJ",
+      "address": "0x69011706b3f6C6eaeD7D2Bc13801558B4fd94CBF",
+      "chainId": 2525,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/INJ.svg"
+    },
+    {
       "name": "ApeBond",
       "symbol": "ABOND",
       "address": "0x34294AfABCbaFfc616ac6614F6d2e17260b78BEd",
