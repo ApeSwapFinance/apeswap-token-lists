@@ -11,28 +11,20 @@
   "keywords": ["apeswap", "default"],
   "tokens": [
     {
-      "name": "TABOND",
-      "symbol": "TABOND",
-      "address": "0x7039F6DDB900762c33842e406fB908EB8a03fB84",
-      "chainId": 11155111,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ABOND.svg"
-    },
-    {
-      "name": "mockUSDT",
-      "symbol": "mockUSDT",
-      "address": "0xA4259F9A8EB2E88ccc9C78bE1BeB27faF54bcc7D",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x97423A68BAe94b5De52d767a17aBCc54c157c0E5",
       "chainId": 2525,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ABOND.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/USDT.svg"
     },
     {
-      "name": "mockINJ",
-      "symbol": "mockINJ",
-      "address": "0x4569348D39cc38F4d6a1180573Df73B7b03251d9",
+      "name": "Injective token",
+      "symbol": "WINJ",
+      "address": "0x69011706b3f6C6eaeD7D2Bc13801558B4fd94CBF",
       "chainId": 2525,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ABOND.svg"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/INJ.svg"
     },
     {
       "name": "ApeBond",
