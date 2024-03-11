@@ -2166,7 +2166,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GTAI.png"
     },
-    
+    {
+      "name": "NFE",
+      "symbol": "NFE",
+      "address": "0xf03Ca04Dd56D695a410f46F14feF4028B22FB79A",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NFE.png"
+    },
 
     {
       "name": "WBNB Token",
@@ -2648,7 +2655,8 @@
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/IXT.png"
-    },{
+    },
+    {
       "name": "ORBS-USDC QuickSwap LP",
       "symbol": "ORBS-USDC",
       "address": "0xB2b6D423e535b57aaD06E9866803B95fB66152EA",
@@ -2735,6 +2743,14 @@
       "chainId": 137,
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NFTBS.png"
+    },
+    {
+      "name": "THX Network",
+      "symbol": "THX",
+      "address": "0x2934b36ca9A4B31E633C5BE670C8C8b28b6aA015",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/THX.png"
     },
 
     {
