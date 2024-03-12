@@ -402,6 +402,86 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BUSD.svg"
     },
+    {
+      "name": "Cogito Governance Token",
+      "symbol": "CGV",
+      "address": "0xaeF420fd77477d9Dc8B46D704D44dD09d6c27866",
+      "chainId": 1,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CGV.svg"
+    },
+    {
+      "name": "xPlanetIX",
+      "symbol": "xIXT",
+      "address": "0x8b04bf3358B88e3630aa64C1c76FF3B6C699C6a7",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/IXT.png"
+    },
+    {
+      "name": "Forward",
+      "symbol": "FORWARD",
+      "address": "0x01824357D7D7EAF4677Bc17786aBd26CBdEc9Ad7",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FORWARD.png"
+    },
+    {
+      "name": "Cirus",
+      "symbol": "CIRUS",
+      "address": "0xA01199c61841Fce3b3daFB83FeFC1899715c8756",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CIRUS.png"
+    },
+    {
+      "name": "GPT Protocol",
+      "symbol": "GPT",
+      "address": "0xCdb4A8742ed7D0259b51E3454C46C9D6C48d5e88",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GPT.png"
+    },
+    {
+      "name": "ETH Monsta",
+      "symbol": "METH",
+      "address": "0x0345173a92742e9dAF55d44Ac65e0D987b22379e",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/METH.png"
+    },
+    {
+      "name": "Strike Token",
+      "symbol": "STRK",
+      "address": "0x74232704659ef37c08995e386A2E26cc27a8d7B1",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/STRK.png"
+    },
+    {
+      "name": "GPTPlus",
+      "symbol": "GPTPlus",
+      "address": "0xeD9F6Aa6532869576211fD6367E3c328810fBeb3",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GPTPLUS.png"
+    },
+    {
+      "name": "Launch Block",
+      "symbol": "LBP",
+      "address": "0xa23C1194d421F252b4e6D5edcc3205F7650a4eBE",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LBP.png"
+    },
+    {
+      "name": "Chirpley Token",
+      "symbol": "CHRP",
+      "address": "0x70Bc0DC6414EB8974BC70685F798838a87d8CCe4",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CHRP.svg"
+    },
 
     {
       "name": "Wrapped Telos",
@@ -2173,6 +2253,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NFE.png"
+    },
+    {
+      "name": "Forward",
+      "symbol": "FORWARD",
+      "address": "0x886640149E31E1430FA74Cc39725431eb82ddFB2",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FORWARD.png"
     },
 
     {
