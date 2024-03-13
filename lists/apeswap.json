@@ -2262,6 +2262,22 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FORWARD.png"
     },
+    {
+      "name": "Friend3 Token",
+      "symbol": "F3",
+      "address": "0x9e57E83Ad79Ac5312Ba82940bA037ED30600e167",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/F3.png"
+    },
+    {
+      "name": "F3-USDT PCS LP",
+      "symbol": "F3-USDT",
+      "address": "0x4Ea053cDc6C47e4dB91Aa6d34be93777fF18C642",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/F3.png"
+    },
 
     {
       "name": "WBNB Token",
