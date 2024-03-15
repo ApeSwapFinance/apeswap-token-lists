@@ -402,6 +402,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BUSD.svg"
     },
+    {
+      "name": "Injective token",
+      "symbol": "INJ",
+      "address": "0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/INJ.svg"
+    },
 
     {
       "name": "Wrapped Telos",
@@ -2173,6 +2181,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NFE.png"
+    },
+    {
+      "name": "Injective token",
+      "symbol": "INJ",
+      "address": "0xa2B726B1145A4773F68593CF171187d8EBe4d495",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI":"https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/INJ.svg"
     },
 
     {
