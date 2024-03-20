@@ -2302,6 +2302,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CARAT.png"
     },
+    {
+      "name": "CARAT-USDT PCS LP",
+      "symbol": "CARAT-USDT",
+      "address": "0x498873319D02d025F2DBFda586AdA222BD9DE11C",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CARAT.png"
+    },
 
     {
       "name": "WBNB Token",
