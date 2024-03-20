@@ -2294,6 +2294,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/F3.png"
     },
+    {
+      "name": "AlaskaGoldRush",
+      "symbol": "CARAT",
+      "address": "0x426C1C971fb00CAaf1883bd801323a8bEcb0C919",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CARAT.png"
+    },
 
     {
       "name": "WBNB Token",
