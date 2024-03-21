@@ -19,7 +19,7 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/USDT.svg"
     },
     {
-      "name": "Injective token",
+      "name": "Injective Token",
       "symbol": "WINJ",
       "address": "0x69011706b3f6C6eaeD7D2Bc13801558B4fd94CBF",
       "chainId": 2525,
@@ -401,6 +401,14 @@
       "chainId": 1,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BUSD.svg"
+    },
+    {
+      "name": "Injective Token",
+      "symbol": "INJ",
+      "address": "0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/INJ.svg"
     },
     {
       "name": "Cogito Governance Token",
@@ -2255,6 +2263,14 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NFE.png"
     },
     {
+      "name": "Injective Token",
+      "symbol": "INJ",
+      "address": "0xa2B726B1145A4773F68593CF171187d8EBe4d495",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/INJ.svg"
+    },
+    {
       "name": "Forward",
       "symbol": "FORWARD",
       "address": "0x886640149E31E1430FA74Cc39725431eb82ddFB2",
@@ -2277,6 +2293,22 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/F3.png"
+    },
+    {
+      "name": "AlaskaGoldRush",
+      "symbol": "CARAT",
+      "address": "0x426C1C971fb00CAaf1883bd801323a8bEcb0C919",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CARAT.png"
+    },
+    {
+      "name": "CARAT-USDT PCS LP",
+      "symbol": "CARAT-USDT",
+      "address": "0x498873319D02d025F2DBFda586AdA222BD9DE11C",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CARAT.png"
     },
 
     {
