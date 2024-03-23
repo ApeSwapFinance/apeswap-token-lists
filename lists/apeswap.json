@@ -2310,6 +2310,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CARAT.png"
     },
+    {
+      "name": "Octavia",
+      "symbol": "VIA",
+      "address": "0x21ac3bB914f90A2Bb1a16088E673a9fdDa641434",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/VIA.png"
+    },
 
     {
       "name": "WBNB Token",
