@@ -2318,6 +2318,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/VIA.png"
     },
+    {
+      "name": "Sugar Kingdom Odyssey",
+      "symbol": "SKO",
+      "address": "0x9Bf543D8460583Ff8a669Aae01d9cDbeE4dEfE3c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SKO.png"
+    },
 
     {
       "name": "WBNB Token",
