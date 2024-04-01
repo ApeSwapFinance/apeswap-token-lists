@@ -2326,6 +2326,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SKO.png"
     },
+    {
+      "name": "AiMalls",
+      "symbol": "AIT",
+      "address": "0x5F113F7ef20Ff111FD130e83D8e97Fd1E0E2518F",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/AIT.png"
+    },
 
     {
       "name": "WBNB Token",
