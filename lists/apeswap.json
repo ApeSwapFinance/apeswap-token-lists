@@ -490,6 +490,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CHRP.svg"
     },
+    {
+      "name": "PUMLx",
+      "symbol": "PUMLx",
+      "address": "0x8c088775e4139af116Ac1FA6f281Bbf71E8c1c73",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PUMLx.png"
+    },
 
     {
       "name": "Wrapped Telos",
