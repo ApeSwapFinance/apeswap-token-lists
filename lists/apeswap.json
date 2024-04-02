@@ -2342,6 +2342,22 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/AIT.png"
     },
+    {
+      "name": "Devomon",
+      "symbol": "EVO",
+      "address": "0xF2B688b2201979d44FdF18d1d8C641305Cf560Ba",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/EVO.png"
+    },
+    {
+      "name": "MeMusic",
+      "symbol": "MMT",
+      "address": "0xB34966A2A66cb116ebe87b9554c020DcC950E917",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MMT.png"
+    },
 
     {
       "name": "WBNB Token",
