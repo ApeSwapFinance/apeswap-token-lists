@@ -2590,7 +2590,7 @@
       "address": "0x48cbc913de09317df2365e6827df50da083701d5",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://github.com/ApeSwapFinance/apeswap-token-lists/blob/c8ae9fbbb3b72d8eaef2333c09003eb7f9deed48/assets/FOUR.png"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FOUR.png"
     },
     {
       "name": "NFTY Token",
