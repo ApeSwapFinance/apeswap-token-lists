@@ -2358,6 +2358,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MMT.png"
     },
+    {
+      "name": "Wizarre Scroll",
+      "symbol": "SCRL",
+      "address": "0x52c1751C89fc913ed274d72e8d56DcE4Ee44A5cf",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SCRL.png"
+    },
 
     {
       "name": "WBNB Token",
