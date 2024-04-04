@@ -2366,6 +2366,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SCRL.png"
     },
+    {
+      "name": "SCRL-USDT PCS LP",
+      "symbol": "SCRL-USDT",
+      "address": "0x485766b9eD7c28A45b8e070382bf3308ED0e2d98",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SCRL.png"
+    },
 
     {
       "name": "WBNB Token",
