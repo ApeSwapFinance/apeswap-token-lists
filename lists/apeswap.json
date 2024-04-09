@@ -2374,6 +2374,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SCRL.png"
     },
+    {
+      "name": "WAM",
+      "symbol": "WAM",
+      "address": "0xebbaeff6217d22e7744394061d874015709b8141",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WAM.png"
+    },
 
     {
       "name": "WBNB Token",
