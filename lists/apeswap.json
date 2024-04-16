@@ -2382,6 +2382,15 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WAM.png"
     },
+    {
+      "name": "CATAMOTO",
+      "symbol":"CATA",
+      "address":"0x4B360c05860C3d0040eBA90F00870FbfE9Bc61B8",
+      "chainId":56,
+      "decimals":18,
+      "logoURI":"https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CATA.png"
+
+    },
 
     {
       "name": "WBNB Token",
