@@ -2977,6 +2977,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/UBU.png"
     },
+    {
+      "name": "UBU-USDC QuickSwap LP",
+      "symbol": "UBU-USDC",
+      "address":"0x19ed9003513fD3a3Eb3856b31831Dd8f19f9454A",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI":"https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/UBU.png"
+    },
 
     {
       "name": "Test USD Coin",
