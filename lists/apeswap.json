@@ -2970,14 +2970,14 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/THX.png"
     },
     {
-      "name": "Africarare",
+      "name": "Ubuntu",
       "symbol": "UBU",
       "address": "0x78445485A8d5b3BE765e3027bc336e3c272a23c9",
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/UBU.png"
     },
-    
+
     {
       "name": "Test USD Coin",
       "symbol": "tUSDC",
