@@ -2389,7 +2389,14 @@
       "chainId":56,
       "decimals":18,
       "logoURI":"https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CATA.png"
-
+    },
+    {
+      "name": "AITECH-USDT PCS LP",
+      "symbol": "AITECH-USDT",
+      "address": "0x87ACDD212404150Fd814565d591a24B0312C9E23",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/AITECH.png"
     },
 
     {
