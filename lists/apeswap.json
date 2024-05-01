@@ -2992,6 +2992,23 @@
       "decimals": 18,
       "logoURI":"https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/UBU.png"
     },
+    {
+      "name":"Ethernity Cloud",
+      "symbol":"ECLD",
+      "address":"0xc6920888988cAcEeA7ACCA0c96f2D65b05eE22Ba",
+      "chainId":137,
+      "decimals":18,
+      "logoURI":"https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ECLD.png"
+    },
+    {
+      "name":"NASDEX",
+      "symbol":"NSDX",
+      "address":"0xE8d17b127BA8b9899a160D9a07b69bCa8E08bfc6",
+      "chainId":137,
+      "decimals":18,
+      "logoURI":"https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NSDX.png"
+
+    },
 
     {
       "name": "Test USD Coin",
