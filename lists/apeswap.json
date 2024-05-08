@@ -2398,6 +2398,15 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/AITECH.png"
     },
+    {
+      "name": "Trex20",
+      "symbol": "TX20",
+      "address": "0x29838b8c8b7cd6f0698c2fd6feaf0363d2cb6da1",
+      "chainId":  56,
+      "decimals": 18,
+      "logoURI":"https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/.png"
+
+    },
 
     {
       "name": "WBNB Token",
