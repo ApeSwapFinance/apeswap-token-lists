@@ -3025,6 +3025,14 @@
       "decimals":18,
       "logoURI":"https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NSDX.png"
     },
+    {
+      "name": "Backstage Pass Notes",
+      "symbol": "NOTES",
+      "address": "0x2d66953fc2eb650f0fd992dbe1e71d743a4e9fee",
+      "chainId": 137,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NOTES.png"
+    },
 
     {
       "name": "Test USD Coin",
@@ -3330,6 +3338,14 @@
       "chainId": 42161,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CRUIZE.png"
+    },
+    {
+      "name": "Codyfight Token",
+      "symbol": "CTOK",
+      "address": "0xA586B3B80D7e3e8d439e25fBC16Bc5bcEE3E2c85",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CTOK.png"
     }
   ]
 }
