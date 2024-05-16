@@ -3033,6 +3033,14 @@
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NOTES.png"
     },
+    {
+      "name": "Sheertopia",
+      "symbol": "AMBO",
+      "address": "0x9B8B6A1298d34B3c4bBDDce8a7fF0149121592C1",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/AMBO.png"
+    },
 
     {
       "name": "Test USD Coin",
