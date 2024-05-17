@@ -2415,6 +2415,14 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TX20.png"
 
     },
+    {
+      "name": "GPTVerse",
+      "symbol": "GPTV",
+      "address": "0x1F56eFffEe38EEeAE36cD38225b66c56E4D095a7",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GPTV.png"
+    },
 
     {
       "name": "WBNB Token",
