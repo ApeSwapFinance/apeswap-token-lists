@@ -2431,6 +2431,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GPTV.png"
     },
+    {
+      "name": "Wrapped Enjinstarter",
+      "symbol": "EJS",
+      "address": "0x09f423aC3C9baBBfF6F94D372b16E4206e71439f",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/EJS.png"
+    },
 
     {
       "name": "WBNB Token",
