@@ -11,6 +11,78 @@
   "keywords": ["apeswap", "default"],
   "tokens": [
     {
+      "name": "MVX",
+      "symbol": "MVX",
+      "address": "0x0018D96C579121a94307249d47F053E2D687b5e7",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MVX.png"
+    },
+    {
+      "name": "LYNX",
+      "symbol": "LYNX",
+      "address": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LYNX.png"
+    },
+    {
+      "name": "LVC",
+      "symbol": "LVC",
+      "address": "0xcc22F6AA610D1b2a0e89EF228079cB3e1831b1D1",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LVC.png"
+    },
+    {
+      "name": "NILE",
+      "symbol": "NILE",
+      "address": "0xAAAac83751090C6ea42379626435f805DDF54DC8",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NILE.png"
+    },
+    {
+      "name": "XFIT",
+      "symbol": "XFIT",
+      "address": "0x8C56017B172226fE024dEa197748FC1eaccC82B1",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/XFIT.png"
+    },
+    {
+      "name": "MATIC",
+      "symbol": "MATIC",
+      "address": "0x265B25e22bcd7f10a5bD6E6410F10537Cc7567e8",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MATIC.svg"
+    },
+    {
+      "name": "DAI",
+      "symbol": "DAI",
+      "address": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DAI.svg"
+    },
+    {
+      "name": "BTC",
+      "symbol": "BTC",
+      "address": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+      "chainId": 59144,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BTC.svg"
+    },
+    {
+      "name": "ETH",
+      "symbol": "ETH",
+      "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WETH.svg"
+    },
+    {
       "name": "USDC",
       "symbol": "USDC",
       "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
