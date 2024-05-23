@@ -11,6 +11,22 @@
   "keywords": ["apeswap", "default"],
   "tokens": [
     {
+      "name": "USDC",
+      "symbol": "USDC",
+      "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+      "chainId": 59144,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/USDC.svg"
+    },
+    {
+      "name": "USDT",
+      "symbol": "USDT",
+      "address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+      "chainId": 59144,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/USDT.svg"
+    },
+    {
       "name": "USDC AMBO Ichi LP",
       "symbol": "USDC-AMBO",
       "address": "0x2ff07791f125bf6ce120d938f862d0385cf4c835",
