@@ -2527,6 +2527,15 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/EJS.png"
     },
+    {
+      "name": "SmarDEX Token",
+      "symbol": "SDEX",
+      "address": "0xFdc66A08B0d0Dc44c17bbd471B88f49F50CdD20F",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SDEX.png" 
+
+    },
 
     {
       "name": "WBNB Token",
