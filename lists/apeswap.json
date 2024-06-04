@@ -11,6 +11,22 @@
   "keywords": ["apeswap", "default"],
   "tokens": [
     {
+      "name": "ICHI-USDC",
+      "symbol": "ICHI-USDC",
+      "address": "0x0477e37B8ACA55C133e05403a30b554498c451b4",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ICHI-USDC.svg"
+    },
+    {
+      "name": "ICHI-BNB",
+      "symbol": "ICHI-BNB",
+      "address": "0x6fD323Bdf290Eba58EaaA8E02e70a2a6f1DE0CfC",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ICHI-BNB.svg"
+    },
+    {
       "name": "MVX",
       "symbol": "MVX",
       "address": "0x0018D96C579121a94307249d47F053E2D687b5e7",
