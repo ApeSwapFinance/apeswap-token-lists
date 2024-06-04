@@ -2535,6 +2535,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SDEX.png" 
     },
+    {
+      "name": "ICHI",
+      "symbol": "ICHI",
+      "address": "0x0EF4A107b48163ab4b57FCa36e1352151a587Be4",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ICHI.png"
+    },
 
     {
       "name": "WBNB Token",
