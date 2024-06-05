@@ -618,6 +618,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ORBS.svg"
     },
+    {
+      "name": "Metahorse Unity",
+      "symbol": "MUNITY",
+      "address": "0xe97F6dDE78b11B58cB3e394F15ab592Cb2ACd290",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MUNITY.png"
+    },
 
     {
       "name": "Wrapped Telos",
