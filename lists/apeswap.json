@@ -2567,6 +2567,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ICHI.png"
     },
+    {
+      "name": "StoryFire",
+      "symbol": "BLAZE",
+      "address": "0xef7a4dd703d074974b7240c74b5ce938aa8983d3",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BLAZE.png"
+    },
 
     {
       "name": "WBNB Token",
