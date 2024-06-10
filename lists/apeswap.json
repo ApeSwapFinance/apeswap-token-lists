@@ -2575,6 +2575,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BLAZE.png"
     },
+    {
+      "name": "KicksPad",
+      "symbol": "KICKS",
+      "address": "0xfEB4e9B932eF708c498Cc997ABe51D0EE39300cf",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/KICKS.png"
+    },
 
     {
       "name": "WBNB Token",
