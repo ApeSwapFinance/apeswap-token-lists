@@ -3516,6 +3516,14 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CRUIZE.png"
     },
     {
+      "name": "Codyfight Token",
+      "symbol": "CTOK",
+      "address": "0xA586B3B80D7e3e8d439e25fBC16Bc5bcEE3E2c85",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CTOK.png"
+    },
+    {
       "name": "IOTA",
       "symbol": "IOTA",
       "address": "0x6e47f8d48a01b44DF3fFF35d258A10A3AEdC114c",
