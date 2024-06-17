@@ -11,6 +11,14 @@
   "keywords": ["apeswap", "default"],
   "tokens": [
     {
+      "name": "USDC",
+      "symbol": "USDC",
+      "address": "0x18fB38404DADeE1727Be4b805c5b242B5413Fa40",
+      "chainId": 1890,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/USDC.svg"
+    },
+    {
       "name": "ICHI-USDC",
       "symbol": "ICHI-USDC",
       "address": "0x0477e37B8ACA55C133e05403a30b554498c451b4",
