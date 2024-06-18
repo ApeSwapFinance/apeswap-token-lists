@@ -11,6 +11,14 @@
   "keywords": ["apeswap", "default"],
   "tokens": [
     {
+      "name": "LL.e",
+      "symbol": "LL.e",
+      "address": "0xd9d7123552fa2bedb2348bb562576d67f6e8e96e",
+      "chainId": 1890,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LLE.png"
+    },
+    {
       "name": "USDC",
       "symbol": "USDC",
       "address": "0x18fB38404DADeE1727Be4b805c5b242B5413Fa40",
