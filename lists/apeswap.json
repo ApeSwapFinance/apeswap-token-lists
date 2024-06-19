@@ -2599,6 +2599,22 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/KICKS.png"
     },
+    {
+      "name": "Script Network",
+      "symbol": "SCPT",
+      "address": "0x0669538FcdeF9A73CD37938eBa8c79E652BB93AA",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SCPT.png"
+    },
+    {
+      "name": "RetroCraft",
+      "symbol": "RETRO",
+      "address": "0xd6ef2222cc850fdc7ee30f2b2d5384e0167700a3",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RETRO.png"
+    },
 
     {
       "name": "WBNB Token",
