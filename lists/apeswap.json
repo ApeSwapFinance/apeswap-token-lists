@@ -642,6 +642,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MUNITY.png"
     },
+    {
+      "name": "K9 Finance",
+      "symbol": "KNINE",
+      "address": "0x91fbb2503ac69702061f1ac6885759fc853e6eae",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/KNINE.png"
+    },
 
     {
       "name": "Wrapped Telos",
