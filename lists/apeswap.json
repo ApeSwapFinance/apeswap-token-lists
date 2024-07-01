@@ -11,6 +11,30 @@
   "keywords": ["apeswap", "default"],
   "tokens": [
     {
+      "name": "WETH",
+      "symbol": "WETH",
+      "address": "0x4200000000000000000000000000000000000006",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ETH.png"
+    },
+    {
+      "name": "USDC",
+      "symbol": "USDC",
+      "address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+      "chainId": 8453,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/USDC.svg"
+    },
+    {
+      "name": "DAI",
+      "symbol": "DAI",
+      "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DAI.svg"
+    },
+    {
       "name": "LL.e",
       "symbol": "LL.e",
       "address": "0xd9d7123552fa2bedb2348bb562576d67f6e8e96e",
