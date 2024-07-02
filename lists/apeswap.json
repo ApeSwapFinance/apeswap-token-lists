@@ -35,6 +35,47 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DAI.svg"
     },
     {
+      "name": "SophiaVerse AI",
+      "symbol": "SOPH",
+      "address": "0x73fBD93bFDa83B111DdC092aa3a4ca77fD30d380",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SOPH.png"
+    },
+    {
+      "name": "TokenDAO",
+      "symbol": "TKN",
+      "address": "0x78b3C724A2F663D11373C4a1978689271895256f",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TKN.png"
+    },
+    {
+      "name": "Base Mafia",
+      "symbol": "MAFIA",
+      "address": "0x0A7694214653FD15eEb30D33EacC0C40Fd79660e",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MAFIA.png"
+    },
+    {
+      "name": "Super Best Friends",
+      "symbol": "SUBF",
+      "address": "0xFAA4F3bcFc87D791E9305951275e0f62a98BCb10",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SUBF.png"
+    },
+    {
+      "name": "SmarDEX Token",
+      "symbol": "SDEX",
+      "address": "0xFd4330b0312fdEEC6d4225075b82E00493FF2e3f",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SDEX.png"
+    },
+
+    {
       "name": "LL.e",
       "symbol": "LL.e",
       "address": "0xd9d7123552fa2bedb2348bb562576d67f6e8e96e",
