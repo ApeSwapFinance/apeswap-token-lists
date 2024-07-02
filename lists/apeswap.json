@@ -51,6 +51,14 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TKN.png"
     },
     {
+      "name": "Base Mafia",
+      "symbol": "MAFIA",
+      "address": "0x3f8D935512f74b7C71A2C2395a06af5f87BC9276",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MAFIA.png"
+    },
+    {
       "name": "Super Best Friends",
       "symbol": "SUBF",
       "address": "0xFAA4F3bcFc87D791E9305951275e0f62a98BCb10",
