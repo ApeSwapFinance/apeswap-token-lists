@@ -3635,6 +3635,14 @@
       "chainId": 42161,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CTOK.png"
+    },
+    {
+      "name": "IOTA",
+      "symbol": "IOTA",
+      "address": "0x6e47f8d48a01b44DF3fFF35d258A10A3AEdC114c",
+      "chainId": 8822,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/IOTA.svg"
     }
   ]
 }
