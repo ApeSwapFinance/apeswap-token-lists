@@ -2688,6 +2688,22 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RETRO.png"
     },
+    {
+      "name": "Ready to Fight",
+      "symbol": "RTF",
+      "address": "0xa89e2871A850E0e6fD8F0018eC1fc62FA75440d4",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RTF.png"
+    },
+    {
+      "name": "Magic Square",
+      "symbol": "SQR",
+      "address": "0x2B72867c32CF673F7b02d208B26889fEd353B1f8",
+      "chainId": 56,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SQR.png"
+    },
 
     {
       "name": "WBNB Token",
@@ -3635,6 +3651,14 @@
       "chainId": 42161,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CTOK.png"
+    },
+    {
+      "name": "ENO Token",
+      "symbol": "ENO",
+      "address": "0x2b41806CBf1FFB3D9e31A9ECE6B738Bf9D6f645F",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ENO.png"
     }
   ]
 }
