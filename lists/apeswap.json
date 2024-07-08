@@ -2704,6 +2704,22 @@
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SQR.png"
     },
+    {
+      "name": "BetHustlers",
+      "symbol": "BetHustlers",
+      "address": "0xE2B1f3908588e2338587ED998F974EE6F63f500d",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BetHustlers.png"
+    },
+    {
+      "name": "Harbor Token",
+      "symbol": "HBR",
+      "address": "0x42c95788F791a2be3584446854c8d9BB01BE88A9",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HBR.png"
+    },
 
     {
       "name": "WBNB Token",
