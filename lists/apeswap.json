@@ -715,6 +715,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/KNINE.png"
     },
+    {
+      "name": "Alvara",
+      "symbol": "ALVA",
+      "address": "0x8e729198d1C59B82bd6bBa579310C40d740A11C2",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ALVA.png"
+    },
 
     {
       "name": "Wrapped Telos",
