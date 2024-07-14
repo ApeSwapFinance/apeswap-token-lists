@@ -689,7 +689,7 @@
       "address": "0x8c088775e4139af116Ac1FA6f281Bbf71E8c1c73",
       "chainId": 1,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PUMLx.png"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PUMLX.png"
     },
     {
       "name": "Orbs",
@@ -2718,7 +2718,7 @@
       "address": "0xE2B1f3908588e2338587ED998F974EE6F63f500d",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BetHustlers.png"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BETHUSTLERS.png"
     },
     {
       "name": "Harbor Token",
