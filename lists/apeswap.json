@@ -2728,6 +2728,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HBR.png"
     },
+    {
+      "name": "Clashub",
+      "symbol": "CLASH",
+      "address": "0x8DC0F602696De3fF03B37e19A172e5080f049C15",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CLASH.png"
+    },
 
     {
       "name": "WBNB Token",
