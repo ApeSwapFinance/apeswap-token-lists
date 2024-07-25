@@ -2609,11 +2609,11 @@
     },
     {
       "name": "CATAMOTO",
-      "symbol":"CATA",
-      "address":"0xBDf5bAfEE1291EEc45Ae3aadAc89BE8152D4E673",
-      "chainId":56,
-      "decimals":18,
-      "logoURI":"https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CATA.png"
+      "symbol": "CATA",
+      "address": "0xBDf5bAfEE1291EEc45Ae3aadAc89BE8152D4E673",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CATA.png"
     },
     {
       "name": "AITECH-USDT PCS LP",
@@ -2627,10 +2627,9 @@
       "name": "Trex20",
       "symbol": "TX20",
       "address": "0x29838b8c8b7cd6f0698c2fd6feaf0363d2cb6da1",
-      "chainId":  56,
+      "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TX20.png"
-
     },
     {
       "name": "GPTVerse",
@@ -2654,7 +2653,7 @@
       "address": "0xFdc66A08B0d0Dc44c17bbd471B88f49F50CdD20F",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SDEX.png" 
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SDEX.png"
     },
     {
       "name": "ICHI",
@@ -3325,26 +3324,26 @@
     {
       "name": "UBU-USDC QuickSwap LP",
       "symbol": "UBU-USDC",
-      "address":"0x19ed9003513fD3a3Eb3856b31831Dd8f19f9454A",
+      "address": "0x19ed9003513fD3a3Eb3856b31831Dd8f19f9454A",
       "chainId": 137,
       "decimals": 18,
-      "logoURI":"https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/UBU.png"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/UBU.png"
     },
     {
-      "name":"Ethernity Cloud",
-      "symbol":"ECLD",
-      "address":"0xc6920888988cAcEeA7ACCA0c96f2D65b05eE22Ba",
-      "chainId":137,
-      "decimals":18,
-      "logoURI":"https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ECLD.png"
+      "name": "Ethernity Cloud",
+      "symbol": "ECLD",
+      "address": "0xc6920888988cAcEeA7ACCA0c96f2D65b05eE22Ba",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ECLD.png"
     },
     {
-      "name":"NASDEX",
-      "symbol":"NSDX",
-      "address":"0xE8d17b127BA8b9899a160D9a07b69bCa8E08bfc6",
-      "chainId":137,
-      "decimals":18,
-      "logoURI":"https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NSDX.png"
+      "name": "NASDEX",
+      "symbol": "NSDX",
+      "address": "0xE8d17b127BA8b9899a160D9a07b69bCa8E08bfc6",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NSDX.png"
     },
     {
       "name": "Backstage Pass Notes",
@@ -3716,6 +3715,22 @@
       "chainId": 8822,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RUST.png"
+    },
+    {
+      "name": "AUDIT-IOTA MAGICSEA-LP",
+      "symbol": "AUDIT-IOTA",
+      "address": "0xba7ac526ee9d29209baedccb67c6d3a228644982",
+      "chainId": 8822,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/AUDIT.png"
+    },
+    {
+      "name": "FOMO-IOTA MAGOCSEA-LP",
+      "symbol": "FOMO-IOTA",
+      "address": "0x7ceb96304fbea063d6c461a57ce496213bebe535",
+      "chainId": 8822,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FOMO.png"
     }
   ]
 }
