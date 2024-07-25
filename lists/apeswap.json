@@ -3691,6 +3691,31 @@
       "chainId": 42161,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ENO.png"
+    },
+
+    {
+      "name": "FOMOFox",
+      "symbol": "FOMO",
+      "address": "0x30a1398cF11cb9E852E5d80aCe7FFd5ec271169E",
+      "chainId": 8822,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FOMOFOX.png"
+    },
+    {
+      "name": "AuditOne",
+      "symbol": "AUDIT",
+      "address": "0x159366809b6062960c97BC4eDd548BAFCd7812D8",
+      "chainId": 8822,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/AUDIT.png"
+    },
+    {
+      "name": "Rusty Robots",
+      "symbol": "RUST",
+      "address": "0x3915b5A673ee6cf126D1042f637Bd10b9931aD08",
+      "chainId": 8822,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RUST.png"
     }
   ]
 }
