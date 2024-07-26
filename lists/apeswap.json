@@ -11,6 +11,14 @@
   "keywords": ["apeswap", "default"],
   "tokens": [
     {
+      "name": "WIOTA",
+      "symbol": "WIOTA",
+      "address": "0x6e47f8d48a01b44DF3fFF35d258A10A3AEdC114c",
+      "chainId": 8822,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/IOTA.png"
+    },
+    {
       "name": "WETH",
       "symbol": "WETH",
       "address": "0x4200000000000000000000000000000000000006",
