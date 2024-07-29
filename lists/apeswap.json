@@ -91,7 +91,7 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SKYA.png"
     },
     {
-      "name": "Tether USD",~
+      "name": "Tether USD",
       "symbol": "USDT",
       "address": "0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2",
       "chainId": 8453,
