@@ -3393,6 +3393,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CBY.png"
     },
+    {
+      "name": "Derby Stars RUN",
+      "symbol": "DSRUN",
+      "address": "0xff76c0b48363a7c7307868a81548d340049b0023",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DSRUN.png"
+    },
 
     {
       "name": "Test USD Coin",
