@@ -3401,6 +3401,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DSRUN.png"
     },
+    {
+      "name": "Icon.X World",
+      "symbol": "ICNX",
+      "address": "0x91f3B9366801C1fCa6184C3bD99d5Ab0C43A9033",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ICNX.png"
+    },
 
     {
       "name": "Test USD Coin",
