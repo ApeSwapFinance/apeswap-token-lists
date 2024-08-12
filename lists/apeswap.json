@@ -3417,6 +3417,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ICNX.png"
     },
+    {
+      "name": "Verida",
+      "symbol": "VDA",
+      "address": "0x683565196C3EAb450003C964D4bad1fd3068D4cC",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/VDA.png"
+    },
 
     {
       "name": "Test USD Coin",
