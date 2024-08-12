@@ -84,7 +84,7 @@
     },
     {
       "name": "Sekuya",
-      "symbol" : "SKYA",
+      "symbol": "SKYA",
       "address": "0x623cD3a3EdF080057892aaF8D773Bbb7A5C9b6e9",
       "chainId": 8453,
       "decimals": 18,
@@ -98,7 +98,7 @@
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/USDT.png"
     },
-    
+
     {
       "name": "LL.e",
       "symbol": "LL.e",
@@ -2766,6 +2766,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ELDA.png"
+    },
+    {
+      "name": "Cornucopias",
+      "symbol": "COPI",
+      "address": "0xFeA292e5ea4510881bDB840E3CeC63aBd43f936f",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/COPI.png"
     },
 
     {
