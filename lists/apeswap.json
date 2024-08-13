@@ -3763,6 +3763,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ENO.png"
     },
+    {
+      "name": "Ledgity",
+      "symbol": "LDY",
+      "address": "0x999FAF0AF2fF109938eeFE6A7BF91CA56f0D07e1",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LDY.png"
+    },
 
     {
       "name": "FOMOFox",
