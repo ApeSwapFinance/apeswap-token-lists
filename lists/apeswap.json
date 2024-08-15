@@ -3771,6 +3771,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LDY.png"
     },
+    {
+      "name": "Bonsai",
+      "symbol": "BONSAI",
+      "address": "0x79EaD7a012D97eD8DeEcE279f9bC39e264d7Eef9",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BONSAI.png"
+    },
 
     {
       "name": "FOMOFox",
