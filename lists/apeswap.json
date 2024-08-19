@@ -3433,6 +3433,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/VDA.png"
     },
+    {
+      "name": "Arrland",
+      "symbol": "RUM",
+      "address": "0x14E5386f47466A463f85D151653E1736c0c50Fc3",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RUM.png"
+    },
 
     {
       "name": "Test USD Coin",
