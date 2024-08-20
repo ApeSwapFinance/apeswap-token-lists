@@ -220,6 +220,15 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/USDT.svg"
     },
     {
+      "name": "Efrogs",
+      "symbol": "CROAK",
+      "address": "0xaCb54d07cA167934F57F829BeE2cC665e1A5ebEF",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CROAK.png"
+    },
+
+    {
       "name": "USDC AMBO Ichi LP",
       "symbol": "USDC-AMBO",
       "address": "0x2ff07791f125bf6ce120d938f862d0385cf4c835",
