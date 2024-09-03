@@ -98,6 +98,30 @@
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/USDT.png"
     },
+    {
+      "name": "Cornucopias",
+      "symbol": "COPI",
+      "address": "0x0A953Dd9Fc813feFaf6015b804c9dFA0624690C0",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/COPI.png"
+    },
+    {
+      "name": "Music Protocol",
+      "symbol": "RECORD",
+      "address": "0xE642657E4F43e6DcF0bd73Ef24008394574Dee28",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RECORD.png"
+    },
+    {
+      "name": "Samurai Starter",
+      "symbol": "SAM",
+      "address": "0xed1779845520339693CDBffec49a74246E7D671b",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SAM.png"
+    },
 
     {
       "name": "LL.e",
