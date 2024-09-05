@@ -3861,5 +3861,13 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FOMO.png"
     }
+    {
+      "name" : "ioLend",
+      "symbol": "IOL",
+      "address": "0xF5755e48B6F2F06F8ea904bdA26177CB3ca06Ff0",
+      "chainId": 8822,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/IOL.png"
+    }
   ]
 }
