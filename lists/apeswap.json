@@ -3860,7 +3860,7 @@
       "chainId": 8822,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FOMO.png"
-    }
+    },
     {
       "name" : "ioLend",
       "symbol": "IOL",
