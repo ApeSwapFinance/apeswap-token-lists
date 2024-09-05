@@ -7,7 +7,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky",
+    "format:check": "pretty-quick --staged --check \"**/*.{js,jsx,ts,tsx,json}\" --config .prettierrc",
+    "format:write": "pretty-quick --staged --write \"**/*.{js,jsx,ts,tsx,json}\" --config .prettierrc"
   },
   "files": [
     "lists"
@@ -21,5 +24,10 @@
   "bugs": {
     "url": "https://github.com/ApeSwapFinance/apeswap-token-lists/issues"
   },
-  "homepage": "https://github.com/ApeSwapFinance/apeswap-token-lists#readme"
+  "homepage": "https://github.com/ApeSwapFinance/apeswap-token-lists#readme",
+  "devDependencies": {
+    "husky": "^9.0.11",
+    "pretty-quick": "^4.0.0",
+    "prettier": "^3.3.3"
+  }
 }
