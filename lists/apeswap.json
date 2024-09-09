@@ -2816,6 +2816,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/COPI.png"
     },
+    {
+      "name": "Bull Run Bets",
+      "symbol": "BRBC",
+      "address": "0x117A123dEd97CD125837d9AC19592b77d806fa88",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BRBC.png"
+    },
 
     {
       "name": "WBNB Token",
@@ -3870,7 +3878,7 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FOMO.png"
     },
     {
-      "name" : "ioLend",
+      "name": "ioLend",
       "symbol": "IOL",
       "address": "0xF5755e48B6F2F06F8ea904bdA26177CB3ca06Ff0",
       "chainId": 8822,
