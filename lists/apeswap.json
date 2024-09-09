@@ -788,6 +788,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ALVA.png"
     },
+    {
+      "name": "Magnify Cash",
+      "symbol": "MAG",
+      "address": "0x71DA932ccdA723BA3ab730C976bC66DaAF9C598c",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MAG.png"
+    },
 
     {
       "name": "Wrapped Telos",
