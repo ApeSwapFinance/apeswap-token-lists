@@ -241,7 +241,7 @@
       "address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
       "chainId": 59144,
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/USDT.svg"
+      "lo goURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/USDT.svg"
     },
     {
       "name": "Efrogs",
@@ -795,6 +795,14 @@
       "chainId": 1,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MAG.png"
+    },
+    {
+      "name": "Aether Games",
+      "symbol": "AEG",
+      "address": "0xF0187b76be05C1FCAa24f39C0a3aAB4434099c4f",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/AEG.png"
     },
 
     {
