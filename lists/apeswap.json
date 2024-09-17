@@ -796,6 +796,22 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MAG.png"
     },
+    {
+      "name": "Aether Games",
+      "symbol": "AEG",
+      "address": "0xF0187b76be05C1FCAa24f39C0a3aAB4434099c4f",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/AEG.png"
+    },
+    {
+      "name": "Frictionless",
+      "symbol": "FRIC",
+      "address": "0x23Fa3Aa82858E7aD1F0f04352f4bb7F5E1BbFb68",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FRIC.png"
+    },
 
     {
       "name": "Wrapped Telos",
