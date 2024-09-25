@@ -122,6 +122,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SAM.png"
     },
+    {
+      "name": "Imgnai",
+      "symbol": "IMGNAI",
+      "address": "0x18E692c03De43972Fe81058f322fa542Ae1A5E2c",
+      "chainId": 8453,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/IMGNAI.png"
+    },
 
     {
       "name": "LL.e",
