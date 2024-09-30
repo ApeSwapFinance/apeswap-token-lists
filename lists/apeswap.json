@@ -3871,7 +3871,7 @@
     {
       "name": "Hats Finance",
       "symbol": "HAT",
-      "adress": "0x4D22e37Eb4d71D1acc5f4889a65936D2a44A2f15",
+      "address": "0x4D22e37Eb4d71D1acc5f4889a65936D2a44A2f15",
       "chainId": 42161,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HAT.png"
