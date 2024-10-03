@@ -2856,6 +2856,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BRBC.png"
     },
+    {
+      "name": "Weebs",
+      "symbol": "WEEBS",
+      "address": "0x317ae555dd3D474C4427699a7841891d398fA5A0",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WEEBS.png"
+    },
 
     {
       "name": "WBNB Token",
