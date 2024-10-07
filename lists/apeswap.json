@@ -11,14 +11,6 @@
   "keywords": ["apeswap", "default"],
   "tokens": [
     {
-      "name": "WIOTA",
-      "symbol": "WIOTA",
-      "address": "0x6e47f8d48a01b44DF3fFF35d258A10A3AEdC114c",
-      "chainId": 8822,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/IOTA.png"
-    },
-    {
       "name": "WETH",
       "symbol": "WETH",
       "address": "0x4200000000000000000000000000000000000006",
@@ -131,22 +123,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/IMGNAI.png"
     },
 
-    {
-      "name": "LL.e",
-      "symbol": "LL.e",
-      "address": "0xd9d7123552fa2bedb2348bb562576d67f6e8e96e",
-      "chainId": 1890,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LLE.png"
-    },
-    {
-      "name": "USDC",
-      "symbol": "USDC",
-      "address": "0x18fB38404DADeE1727Be4b805c5b242B5413Fa40",
-      "chainId": 1890,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/USDC.svg"
-    },
     {
       "name": "ICHI-USDC",
       "symbol": "ICHI-USDC",
@@ -3883,55 +3859,6 @@
       "chainId": 42161,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HAT.png"
-    },
-
-    {
-      "name": "FOMOFox",
-      "symbol": "FOMO",
-      "address": "0x30a1398cF11cb9E852E5d80aCe7FFd5ec271169E",
-      "chainId": 8822,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FOMO.png"
-    },
-    {
-      "name": "AuditOne",
-      "symbol": "AUDIT",
-      "address": "0x159366809b6062960c97BC4eDd548BAFCd7812D8",
-      "chainId": 8822,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/AUDIT.png"
-    },
-    {
-      "name": "Rusty Robots",
-      "symbol": "RUST",
-      "address": "0x3915b5A673ee6cf126D1042f637Bd10b9931aD08",
-      "chainId": 8822,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RUST.png"
-    },
-    {
-      "name": "AUDIT-IOTA MAGICSEA-LP",
-      "symbol": "AUDIT-IOTA",
-      "address": "0xba7ac526ee9d29209baedccb67c6d3a228644982",
-      "chainId": 8822,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/AUDIT.png"
-    },
-    {
-      "name": "FOMO-IOTA MAGOCSEA-LP",
-      "symbol": "FOMO-IOTA",
-      "address": "0x7ceb96304fbea063d6c461a57ce496213bebe535",
-      "chainId": 8822,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FOMO.png"
-    },
-    {
-      "name": "ioLend",
-      "symbol": "IOL",
-      "address": "0xF5755e48B6F2F06F8ea904bdA26177CB3ca06Ff0",
-      "chainId": 8822,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/IOL.png"
     }
   ]
 }
