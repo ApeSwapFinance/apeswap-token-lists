@@ -11,6 +11,14 @@
   "keywords": ["apeswap", "default"],
   "tokens": [
     {
+      "name": "Imagine AI",
+      "symbol": "imgnAI",
+      "address": "0x18E692c03De43972Fe81058f322fa542Ae1A5E2c",
+      "chainId": 8453,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/IMGNAI.png"
+    },
+    {
       "name": "WETH",
       "symbol": "WETH",
       "address": "0x4200000000000000000000000000000000000006",
