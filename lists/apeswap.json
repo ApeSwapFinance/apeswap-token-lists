@@ -2856,7 +2856,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WEEBS.png"
     },
-
+    {
+      "name": "Papu Token",
+      "symbol": "PAPU",
+      "address": "0x91dba2CD05c8A0227B48c3e426077145d23B21df",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PAPU.svg"
+    },
     {
       "name": "WBNB Token",
       "symbol": "WBNB",
