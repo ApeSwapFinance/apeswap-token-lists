@@ -130,6 +130,14 @@
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/IMGNAI.png"
     },
+    {
+      "name": "Based PEPE",
+      "symbol": "PEPE",
+      "address": "0x52b492a33E447Cdb854c7FC19F1e57E8BfA1777D",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PEPE.png"
+    },
 
     {
       "name": "ICHI-USDC",
