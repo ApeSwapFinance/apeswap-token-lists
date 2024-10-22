@@ -3530,6 +3530,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RUM.png"
     },
+    {
+      "name": "MEE Governance Token",
+      "symbol": "MEE",
+      "address": "0xEB7eaB87837f4Dad1bb80856db9E4506Fc441f3D",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MEE.png"
+    },
 
     {
       "name": "Test USD Coin",
