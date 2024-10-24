@@ -3546,6 +3546,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MEE.png"
     },
+    {
+      "name": "GOON",
+      "symbol": "GOON",
+      "address": "0x433cDE5a82b5e0658dA3543b47A375dffd126Eb6",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GOON.png"
+    },
 
     {
       "name": "Test USD Coin",
