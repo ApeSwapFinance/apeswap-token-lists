@@ -820,6 +820,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FRIC.png"
     },
+    {
+      "name": "GraphLinq",
+      "symbol": "GLQ",
+      "address": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GLQ.png"
+    },
 
     {
       "name": "Wrapped Telos",
