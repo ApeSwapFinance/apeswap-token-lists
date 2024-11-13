@@ -828,6 +828,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GLQ.png"
     },
+    {
+      "name": "Wrapped Minima",
+      "symbol": "WMINIMA",
+      "address": "0x669c01CAF0eDcaD7c2b8Dc771474aD937A7CA4AF",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WMINIMA.png"
+    },
 
     {
       "name": "Wrapped Telos",
