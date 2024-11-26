@@ -836,6 +836,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WMINIMA.png"
     },
+    {
+      "name": "Zygo The Frog",
+      "symbol": "ZYGO",
+      "address": "0xEe2B9b7e168b5b2D40c507b891c7CfB13A6AaF2b",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ZYGO.png"
+    },
 
     {
       "name": "Wrapped Telos",
