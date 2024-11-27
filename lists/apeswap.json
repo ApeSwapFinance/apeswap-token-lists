@@ -146,6 +146,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TYLER.png"
     },
+    {
+      "name": "BOUNDLESSPAY",
+      "symbol": "BPAY",
+      "address": "0x39b7effBA5edb719E714570369961e72EB147Bf1",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BPAY.png"
+    },
 
     {
       "name": "ICHI-USDC",
