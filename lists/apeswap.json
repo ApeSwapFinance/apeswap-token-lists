@@ -3578,6 +3578,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GOON.png"
     },
+    {
+      "name": "Trakx Token",
+      "symbol": "TRKX",
+      "address": "0x61bf130d973D59c69d3227f1668d534d83119860",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TRKX.png"
+    },
 
     {
       "name": "Test USD Coin",
