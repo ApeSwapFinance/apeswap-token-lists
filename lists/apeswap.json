@@ -138,6 +138,22 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PEPE.png"
     },
+    {
+      "name": "Tyler",
+      "symbol": "TYLER",
+      "address": "0x65e570b560027F493f2b1907e8e8e3B9546053bD",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TYLER.png"
+    },
+    {
+      "name": "BOUNDLESSPAY",
+      "symbol": "BPAY",
+      "address": "0x39b7effBA5edb719E714570369961e72EB147Bf1",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BPAY.png"
+    },
 
     {
       "name": "ICHI-USDC",
@@ -811,6 +827,30 @@
       "chainId": 1,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FRIC.png"
+    },
+    {
+      "name": "GraphLinq",
+      "symbol": "GLQ",
+      "address": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GLQ.png"
+    },
+    {
+      "name": "Wrapped Minima",
+      "symbol": "WMINIMA",
+      "address": "0x669c01CAF0eDcaD7c2b8Dc771474aD937A7CA4AF",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WMINIMA.png"
+    },
+    {
+      "name": "Zygo The Frog",
+      "symbol": "ZYGO",
+      "address": "0xEe2B9b7e168b5b2D40c507b891c7CfB13A6AaF2b",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ZYGO.png"
     },
 
     {
@@ -2864,6 +2904,13 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PAPU.svg"
     },
+      "name": "Blockasset",
+      "symbol": "BLOCK",
+      "address": "0xbC7A566b85eF73F935e640A06b5a8b031Cd975Df",
+      "chainId": 56,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BLOCK.png"
+    },
     {
       "name": "WBNB Token",
       "symbol": "WBNB",
@@ -3528,6 +3575,30 @@
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RUM.png"
+    },
+    {
+      "name": "MEE Governance Token",
+      "symbol": "MEE",
+      "address": "0xEB7eaB87837f4Dad1bb80856db9E4506Fc441f3D",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MEE.png"
+    },
+    {
+      "name": "GOON",
+      "symbol": "GOON",
+      "address": "0x433cDE5a82b5e0658dA3543b47A375dffd126Eb6",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GOON.png"
+    },
+    {
+      "name": "Trakx Token",
+      "symbol": "TRKX",
+      "address": "0x61bf130d973D59c69d3227f1668d534d83119860",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TRKX.png"
     },
 
     {
