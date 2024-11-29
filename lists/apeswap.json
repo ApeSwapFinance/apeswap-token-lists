@@ -2904,6 +2904,14 @@
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BLOCK.png"
     },
+    {
+      "name": "GOLD",
+      "symbol": "GLD",
+      "address": "0x362B47BD0AA70Ed8826e96686F293C57ba462555",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GLD.png"
+    },
 
     {
       "name": "WBNB Token",
