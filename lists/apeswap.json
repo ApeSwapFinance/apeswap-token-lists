@@ -275,6 +275,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LINUS.png"
     },
+    {
+      "name": "Linpuss",
+      "symbol": "LPUSS",
+      "address": "0x81BE2aCB2e9291dB6400f9f6a4D0f35f24de2E77",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LPUSS.png"
+    },
 
     {
       "name": "USDC AMBO Ichi LP",
