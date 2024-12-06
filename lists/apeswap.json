@@ -2928,6 +2928,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GLD.png"
     },
+    {
+      "name": "Shieldeum",
+      "symbol": "SDM",
+      "address": "0x516f8a1fB458EBdcFd0F544fF85c69C1c0Ebc31d",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SDM.png"
+    },
 
     {
       "name": "WBNB Token",
