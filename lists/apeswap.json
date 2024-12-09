@@ -868,6 +868,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ZYGO.png"
     },
+    {
+      "name": "Landwolf",
+      "symbol": "WOLF",
+      "address": "0x67466BE17df832165F8C80a5A120CCc652bD7E69",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WOLF.png"
+    },
 
     {
       "name": "Wrapped Telos",
