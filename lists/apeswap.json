@@ -162,6 +162,22 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BPAY.png"
     },
+    {
+      "name": "OlexAI",
+      "symbol": "OAI",
+      "address": "0x63c387F45046bc3C4aD8Fe12fe9cfa2A7b305385",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/OAI.png"
+    },
+    {
+      "name": "Mozaic Token",
+      "symbol": "MOZ",
+      "address": "0xC227717ef4Ae4D982E14789eB33bA942243c3FEe",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MOZ.png"
+    },
 
     {
       "name": "ICHI-USDC",
