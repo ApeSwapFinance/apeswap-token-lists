@@ -149,9 +149,9 @@
     {
       "name": "Tyler",
       "symbol": "TYLER",
-      "address": "0x65e570b560027F493f2b1907e8e8e3B9546053bD",
+      "address": "0x85645b86243886b7c7c1DA6288571F8bEa6fC035",
       "chainId": 8453,
-      "decimals": 18,
+      "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TYLER.png"
     },
     {
