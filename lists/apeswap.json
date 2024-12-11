@@ -2976,6 +2976,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ORFY.png"
     },
+    {
+      "name": "SolarX",
+      "symbol": "SXCH",
+      "address": "0xE58C3A44B74362048e202cb7C8036D4b0B28Af50",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SXCH.png"
+    },
 
     {
       "name": "WBNB Token",
