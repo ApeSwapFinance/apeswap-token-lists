@@ -2937,6 +2937,13 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WEEBS.png"
     },
     {
+      "name": "Papu Token",
+      "symbol": "PAPU",
+      "address": "0x91dba2CD05c8A0227B48c3e426077145d23B21df",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PAPU.svg"
+    },
       "name": "Blockasset",
       "symbol": "BLOCK",
       "address": "0xbC7A566b85eF73F935e640A06b5a8b031Cd975Df",
@@ -2944,6 +2951,7 @@
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BLOCK.png"
     },
+
     {
       "name": "GOLD",
       "symbol": "GLD",
@@ -2968,6 +2976,7 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ORFY.png"
     },
+
 
     {
       "name": "WBNB Token",
