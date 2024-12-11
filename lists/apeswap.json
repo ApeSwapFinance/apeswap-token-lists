@@ -178,6 +178,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MOZ.png"
     },
+    {
+      "name": "Rewardable",
+      "symbol": "REWARD",
+      "address": "0x1986Cc18D8eC757447254310D2604f85741aA732",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/REWARD.png"
+    },
 
     {
       "name": "ICHI-USDC",
