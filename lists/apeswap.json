@@ -2984,6 +2984,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SXCH.png"
     },
+    {
+      "name": "Quoll Token",
+      "symbol": "QUO",
+      "address": "0x08b450e4a48C04CDF6DB2bD4cf24057f7B9563fF",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/QUO.png"
+    },
 
     {
       "name": "WBNB Token",
