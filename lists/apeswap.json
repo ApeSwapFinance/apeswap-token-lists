@@ -149,9 +149,9 @@
     {
       "name": "Tyler",
       "symbol": "TYLER",
-      "address": "0x65e570b560027F493f2b1907e8e8e3B9546053bD",
+      "address": "0x85645b86243886b7c7c1DA6288571F8bEa6fC035",
       "chainId": 8453,
-      "decimals": 18,
+      "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TYLER.png"
     },
     {
@@ -161,6 +161,30 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BPAY.png"
+    },
+    {
+      "name": "OlexAI",
+      "symbol": "OAI",
+      "address": "0x63c387F45046bc3C4aD8Fe12fe9cfa2A7b305385",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/OAI.png"
+    },
+    {
+      "name": "Mozaic Token",
+      "symbol": "MOZ",
+      "address": "0xC227717ef4Ae4D982E14789eB33bA942243c3FEe",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MOZ.png"
+    },
+    {
+      "name": "Rewardable",
+      "symbol": "REWARD",
+      "address": "0x1986Cc18D8eC757447254310D2604f85741aA732",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/REWARD.png"
     },
 
     {
@@ -867,6 +891,14 @@
       "chainId": 1,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ZYGO.png"
+    },
+    {
+      "name": "Landwolf",
+      "symbol": "WOLF",
+      "address": "0x67466BE17df832165F8C80a5A120CCc652bD7E69",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WOLF.png"
     },
 
     {
@@ -2927,6 +2959,38 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GLD.png"
+    },
+    {
+      "name": "Shieldeum",
+      "symbol": "SDM",
+      "address": "0x516f8a1fB458EBdcFd0F544fF85c69C1c0Ebc31d",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SDM.png"
+    },
+    {
+      "name": "Ordify",
+      "symbol": "ORFY",
+      "address": "0x39f0F4c64c7Ad1Ebb25cfEaFdd221cDEe3084441",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ORFY.png"
+    },
+    {
+      "name": "SolarX",
+      "symbol": "SXCH",
+      "address": "0xE58C3A44B74362048e202cb7C8036D4b0B28Af50",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SXCH.png"
+    },
+    {
+      "name": "Quoll Token",
+      "symbol": "QUO",
+      "address": "0x08b450e4a48C04CDF6DB2bD4cf24057f7B9563fF",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/QUO.png"
     },
 
     {
