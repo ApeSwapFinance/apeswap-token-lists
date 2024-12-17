@@ -900,6 +900,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WOLF.png"
     },
+    {
+      "name": "Oxya Origin",
+      "symbol": "OXYZ",
+      "address": "0xD0623da373F754C4B6762209EA77De59B21DD667",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI":"https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/OXYZ.png"
+    },
 
     {
       "name": "Wrapped Telos",
