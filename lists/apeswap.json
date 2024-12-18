@@ -906,7 +906,23 @@
       "address": "0xD0623da373F754C4B6762209EA77De59B21DD667",
       "chainId": 1,
       "decimals": 18,
-      "logoURI":"https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/OXYZ.png"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/OXYZ.png"
+    },
+    {
+      "name": "Bunny",
+      "symbol": "Bunny",
+      "address": "0xE9aA901D12D401361951F6b143e39ce8d4D42983",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BUNNY.png"
+    },
+    {
+      "name": "SkaiToken",
+      "symbol": "SKAI",
+      "address": "0xCF078DA6e85389de507ceeDE0E3d217e457B9d49",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SKAI.png"
     },
 
     {
