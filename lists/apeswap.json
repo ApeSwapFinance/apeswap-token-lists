@@ -187,6 +187,14 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/REWARD.png"
     },
     {
+      "name": "GRASS",
+      "symbol": "GRASS",
+      "address": "0xfcb49c1545d1D13272467f0d94E57A9aCa39725c",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GRASS.png"
+    },
+    {
       "name": "RandomDEX",
       "symbol": "RDX",
       "address": "0x2659631CfBE9B1b6DcBc1384a3864509356E7B4d",
