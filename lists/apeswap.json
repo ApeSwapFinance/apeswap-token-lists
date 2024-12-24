@@ -3722,6 +3722,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TRKX.png"
     },
+    {
+      "name": "Active Token",
+      "symbol": "ACTIVE",
+      "address": "0xd9a9B4d466747E1Ebcb7aEb42784452F40452367",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ACTIVE.png"
+    },
 
     {
       "name": "Test USD Coin",
