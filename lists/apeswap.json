@@ -4083,6 +4083,14 @@
       "chainId": 42161,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HAT.png"
+    },
+    {
+      "name": "EYWA",
+      "symbol": "EYWA",
+      "address": "0x34173f9cfb5e8c91a31F5428a588160353F0946C",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/EYWA.png"
     }
   ]
 }
