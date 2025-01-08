@@ -4123,6 +4123,14 @@
       "chainId": 42161,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SDT.png"
+    },
+    {
+      "name": "Curve DAO",
+      "symbol": "CRV",
+      "address": "0x5C959D2c1a49B637Fb988c40d663265F8Bf6d289",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CRV.png"
     }
   ]
 }
