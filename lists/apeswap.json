@@ -948,6 +948,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CRV.png"
     },
+    {
+      "name": "ABDS Token",
+      "symbol": "ABDS",
+      "address": "0xB56AaAc80C931161548a49181c9E000a19489C44",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ABDS.png"
+    },
 
     {
       "name": "Wrapped Telos",
