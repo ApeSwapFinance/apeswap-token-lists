@@ -940,6 +940,22 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SKAI.png"
     },
+    {
+      "name": "Curve DAO",
+      "symbol": "CRV",
+      "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CRV.png"
+    },
+    {
+      "name": "ABDS Token",
+      "symbol": "ABDS",
+      "address": "0xB56AaAc80C931161548a49181c9E000a19489C44",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ABDS.png"
+    },
 
     {
       "name": "Wrapped Telos",
@@ -4091,6 +4107,22 @@
       "chainId": 42161,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/EYWA.png"
+    },
+    {
+      "name": "Curve DAO",
+      "symbol": "CRV",
+      "address": "0x11cdb42b0eb46d95f990bedd4695a6e3fa034978",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CRV.png"
+    },
+    {
+      "name": "Stake DAO Token",
+      "symbol": "SDT",
+      "address": "0x7bA4a00d54A07461D9DB2aEF539e91409943AdC9",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SDT.png"
     }
   ]
 }
