@@ -3746,6 +3746,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ACTIVE.png"
     },
+    {
+      "name": "FAN",
+      "symbol": "FAN",
+      "address": "0x3B9E9100Db1389c518d47c635D80a90ad4C4f41b",
+      "chainId": 137,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FAN.png"
+    },
 
     {
       "name": "Test USD Coin",
