@@ -3048,6 +3048,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/QUO.png"
     },
+    {
+      "name": "QAAGAI",
+      "symbol": "QAAGAI",
+      "address": "0x7f22a8Af38BCF14b92cD65Ae8B19260FC0bEeFDf",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/QAAGAI.png"
+    },
 
     {
       "name": "WBNB Token",
