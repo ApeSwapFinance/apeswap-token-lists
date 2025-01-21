@@ -956,6 +956,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ABDS.png"
     },
+    {
+      "name": "Muhdo Hub",
+      "symbol": "MUDHO",
+      "address": "0x7d3e4165fd7D8590fB2a415A550F7bdecE5c4F52",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MUDHO.png"
+    },
 
     {
       "name": "Wrapped Telos",
