@@ -4155,6 +4155,14 @@
       "chainId": 42161,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CRV.png"
+    },
+    {
+      "name": "Credbull",
+      "symbol": "CBL",
+      "address": "0xD6b3d81868770083307840F513A3491960b95cb6",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CBL.png"
     }
   ]
 }
