@@ -202,6 +202,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RDX.png"
     },
+    {
+      "name": "DRINK",
+      "symbol": "DRINK",
+      "address": "0x2dc90Fa3a0f178ba4beE16CAc5D6c9A5a7B4C6cB",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DRINK.png"
+    }
 
     {
       "name": "ICHI-USDC",
