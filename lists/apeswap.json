@@ -210,6 +210,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DRINK.png"
     },
+    {
+      "name": "XAVI by Virtuals",
+      "symbol": "XAVI",
+      "address": "0xACf80A4e55F5f28e1e7d261a221cA495DB5bcbB3",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/XAVI.png"
+    },
 
     {
       "name": "ICHI-USDC",
