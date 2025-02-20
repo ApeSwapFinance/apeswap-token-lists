@@ -218,6 +218,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/XAVI.png"
     },
+    {
+      "name": "Bit Rivals AI",
+      "symbol": "RIVAL",
+      "address": "0x41a359EecffBaAbE3b6a11A285Ee4aE6c9e3BC99",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RIVAL.png"
+    },
 
     {
       "name": "ICHI-USDC",
