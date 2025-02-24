@@ -3088,6 +3088,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/QAAGAI.png"
     },
+    {
+      "name": "BNB Agents",
+      "symbol": "BNBAI",
+      "address": "0x2AaBE2ef9eE8Ab04C6F27C4284c3F268769B35eC",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BNBAI.png"
+    },
 
     {
       "name": "WBNB Token",
