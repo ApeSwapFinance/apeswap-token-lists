@@ -226,6 +226,14 @@
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RIVAL.png"
     },
+    {
+      "name": "ChirpPad",
+      "symbol": "CHPD",
+      "address": "0xF2e244d4020C182e8E2C936d4055E3F0e578064F",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CHPD.png"
+    },
 
     {
       "name": "ICHI-USDC",
