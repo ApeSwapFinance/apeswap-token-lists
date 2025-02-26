@@ -3096,6 +3096,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BNBAI.png"
     },
+    {
+      "name": "Ceranos",
+      "symbol": "CRS",
+      "address": "0x3E51783FEf3Cb3e807cff7Fcb660d3e51c6127F6",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CRS.png"
+    },
 
     {
       "name": "WBNB Token",
