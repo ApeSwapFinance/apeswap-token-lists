@@ -234,6 +234,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CHPD.png"
     },
+    {
+      "name": "Sapiens AI",
+      "symbol": "SPN",
+      "address": "0x035098c2A3bEa5e03b1E08e7140a5369D47Bd349",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SPN.png"
+    },
 
     {
       "name": "ICHI-USDC",
@@ -995,6 +1003,14 @@
       "chainId": 1,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DNA.png"
+    },
+    {
+      "name": "Singularity Finance",
+      "symbol": "SFI",
+      "address": "0x7636D8722Fdf7cd34232a915E48e96aA3eB386BF",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SFI.png"
     },
 
     {
