@@ -371,6 +371,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LPUSS.png"
     },
+    {
+      "name": "Dachshund Coin",
+      "symbol": "HOTDOG",
+      "address": "0xce28211Ed1b2Eeb0C909C83D273DeBE041A12EE9",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HOTDOG.png"
+    },
 
     {
       "name": "USDC AMBO Ichi LP",
