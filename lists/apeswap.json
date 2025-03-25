@@ -3144,6 +3144,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/H2ON.png"
     },
+    {
+      "name": "Love Bit",
+      "symbol": "LB",
+      "address": "0x8613d52D74a48883A51bAdF8b25ab066714087Da",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LB.png"
+      },
 
     {
       "name": "WBNB Token",
