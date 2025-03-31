@@ -1020,6 +1020,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SFI.png"
     },
+    {
+      "name": "ADO Protocol",
+      "symbol": "ADO",
+      "address": "0xf9902EdfCa4F49DcaEBC335C73aEbD82C79C2886",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ADO.png"
+    },
 
     {
       "name": "Wrapped Telos",
