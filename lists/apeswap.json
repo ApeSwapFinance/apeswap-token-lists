@@ -242,6 +242,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SPN.png"
     },
+    {
+      "name": "Wild Goat Coin",
+      "symbol": "WGC",
+      "address": "0x3d63825B0d8669307366E6c8202f656b9E91D368",
+      "chainId": 8453,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WGC.png"
+    },
 
     {
       "name": "ICHI-USDC",
