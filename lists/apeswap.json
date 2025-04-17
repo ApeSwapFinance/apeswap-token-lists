@@ -250,6 +250,14 @@
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WGC.png"
     },
+    {
+      "name": "Functionland Fula",
+      "symbol": "FULA",
+      "address": "0x9e12735d77c72c5C3670636D428f2F3815d8A4cB",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FULA.png"
+    },
 
     {
       "name": "ICHI-USDC",
