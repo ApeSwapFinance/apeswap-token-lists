@@ -4275,6 +4275,31 @@
       "chainId": 42161,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CBL.png"
+    },
+
+    {
+      "name": "Moon Bay",
+      "symbol": "MOON",
+      "address": "0x486B6Fa0419b33a0c7A6e4698c231D7E2f2D5299",
+      "chainId": 146,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MOON.png"
+    },
+    {
+      "name": "Shadow Liquid Staking Token",
+      "symbol": "x33",
+      "address": "0x3333111A391cC08fa51353E9195526A70b333333",
+      "chainId": 146,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/x33.png"
+    },
+    {
+      "name": "Wrapped Sonic",
+      "symbol": "wS",
+      "address": "0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38",
+      "chainId": 146,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/S.png"
     }
   ]
 }
