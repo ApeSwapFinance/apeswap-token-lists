@@ -3175,7 +3175,15 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LB.png"
-      },
+    },
+    {
+      "name": "Ithaca Protocol",
+      "symbol": "ITHACA",
+      "address": "0x49f1D4dB3ea1a64390E990C6deBEaC88EAC007Ca",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ITHACA.png"
+    },
 
     {
       "name": "WBNB Token",
