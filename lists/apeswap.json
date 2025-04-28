@@ -258,6 +258,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FULA.png"
     },
+    {
+      "name": "Unlock Protocol Token",
+      "symbol": "UP",
+      "address": "0xaC27fa800955849d6D17cC8952Ba9dD6EAA66187",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/UP.png"
+    },
 
     {
       "name": "ICHI-USDC",
