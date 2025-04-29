@@ -266,6 +266,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/UP.png"
     },
+    {
+      "name": "Veritas",
+      "symbol": "VPT",
+      "address": "0x00096697DC24bd10423690126D91546A20Ccb3F0",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/VPT.png"
+    },
 
     {
       "name": "ICHI-USDC",
