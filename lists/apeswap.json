@@ -266,6 +266,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/UP.png"
     },
+    {
+      "name": "EMAIL Token",
+      "symbol": "EMT",
+      "address": "0xe2c86869216aC578bd62a4b8313770d9EE359A05",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/EMT.png"
+    },
 
     {
       "name": "ICHI-USDC",
