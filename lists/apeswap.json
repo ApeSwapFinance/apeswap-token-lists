@@ -3200,6 +3200,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ITHACA.png"
     },
+    {
+      "name": "Papu Coin",
+      "symbol": "PAPU",
+      "address": "0x925973F7a873CAfEb114f71A5C3f1B52efe913c2",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PAPU.png"
+    },
 
     {
       "name": "WBNB Token",
