@@ -4308,6 +4308,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CBL.png"
     },
+    {
+      "name": "Kima Network",
+      "symbol": "KIMA",
+      "address": "0x94fCD9c18f99538C0f7C61c5500cA79F0D5C4dab",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/KIMA.png"
+    },
 
     {
       "name": "Moon Bay",
