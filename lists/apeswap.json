@@ -274,6 +274,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/EMT.png"
     },
+    {
+      "name": "Gamertag Token",
+      "symbol": "GMRT",
+      "address": "0x6967F0974d76d34e140caE27efeA32CDf546b58E",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GMRT.png"
+    },
 
     {
       "name": "ICHI-USDC",
