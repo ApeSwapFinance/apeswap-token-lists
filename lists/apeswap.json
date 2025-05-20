@@ -3930,14 +3930,6 @@
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FAN.png"
     },
-    {
-      "name": "FURI",
-      "symbol": "FURI",
-      "address": "0x5742fE477b2afed92c25D092418BaC06CD076ceA",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FURI.png"
-    },
 
     {
       "name": "Test USD Coin",
