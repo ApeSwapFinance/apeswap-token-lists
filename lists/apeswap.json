@@ -4356,6 +4356,14 @@
       "chainId": 146,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/S.png"
+    },
+    {
+      "name": "SPIN IT",
+      "symbol": "SPIN",
+      "address": "0x777ecd9a05d4640133f6112F3aA777f1eD5AcACE",
+      "chainId": 146,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SPIN.png"
     }
   ]
 }
