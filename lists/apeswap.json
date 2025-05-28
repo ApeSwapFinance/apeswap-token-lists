@@ -4379,6 +4379,13 @@
       "address": "0xeaB9814BD2bf57F284368Bcbe9EB5A8394032ca8",
       "chainId": 80094,
       "decimals": 18
+    },
+    {
+      "name": "HoneyFun AI",
+      "symbol": "AIBERA",
+      "address": "0xCc6A16bcFda7D0ebE168F69Ef7b946e96A90E67F",
+      "chainId": 80094,
+      "decimals": 18
     }
   ]
 }
