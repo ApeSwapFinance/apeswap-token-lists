@@ -4364,6 +4364,14 @@
       "chainId": 146,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SPIN.png"
-    }
+    },
+
+    {
+      "name": "Burr Governance Token",
+      "symbol": "BURR",
+      "address": "0x28e0e3B9817012b356119dF9e217c25932D609c2",
+      "chainId": 80094,
+      "decimals": 18
+    }  
   ]
 }
