@@ -11,6 +11,22 @@
   "keywords": ["apeswap", "default"],
   "tokens": [
     {
+      "name": "Wrapped IOTA",
+      "symbol": "WIOTA",
+      "address": "0x6e47f8d48a01b44DF3fFF35d258A10A3AEdC114c",
+      "chainId": 8822,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WIOTA.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "address": "0x7EbeF2A4b1B09381Ec5B9dF8C5c6f2dBECA59c73",
+      "chainId": 1890,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WETH.png"
+    },
+    {
       "name": "Wrapped MONAD",
       "symbol": "WMON",
       "address": "0x760AfE86e5de5fa0Ee542fc7B7B713e1c5425701",
