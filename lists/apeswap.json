@@ -11,6 +11,14 @@
   "keywords": ["apeswap", "default"],
   "tokens": [
     {
+      "name": "Wrapped MONAD",
+      "symbol": "WMON",
+      "address": "0x760AfE86e5de5fa0Ee542fc7B7B713e1c5425701",
+      "chainId": 10143,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WMON.png"
+    },
+    {
       "name": "Base Pad",
       "symbol": "BPAD",
       "address": "0x2105CCA8bf6f00769a45C734C740b0c42C74C03E",
