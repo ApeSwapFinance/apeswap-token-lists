@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 494.5 489.1" style="enable-background:new 0 0 494.5 489.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#282728;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:#6AFFFF;}
+	.st3{fill:#03E1CA;}
+	.st4{fill:#FCE9C3;}
+	.st5{fill:#EFB126;}
+</style>
+<g>
+	<circle class="st0" cx="245.9" cy="224.6" r="217.3"/>
+	<radialGradient id="SVGID_1_" cx="245.8904" cy="224.6207" r="187.3491" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#367EDE"/>
+		<stop  offset="0.1435" style="stop-color:#367AD7"/>
+		<stop  offset="0.3583" style="stop-color:#3470C2"/>
+		<stop  offset="0.6177" style="stop-color:#3260A1"/>
+		<stop  offset="0.9095" style="stop-color:#2F4A73"/>
+		<stop  offset="1" style="stop-color:#2E4263"/>
+	</radialGradient>
+	<circle class="st1" cx="245.9" cy="224.6" r="187.3"/>
+	<g>
+		<path class="st2" d="M245.9,323.5c-54.5,0-98.8-44.3-98.8-98.8s44.3-98.8,98.8-98.8s98.8,44.3,98.8,98.8S300.4,323.5,245.9,323.5z
+			 M245.9,138.7c-47.4,0-85.9,38.6-85.9,85.9s38.6,85.9,85.9,85.9s85.9-38.6,85.9-85.9S293.3,138.7,245.9,138.7z"/>
+	</g>
+	
+		<rect x="206.6" y="385.8" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -228.5777 298.3823)" class="st0" width="78.5" height="78.5"/>
+	
+		<rect x="222.4" y="401.7" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -228.5777 298.3823)" class="st3" width="46.9" height="46.9"/>
+	
+		<rect x="384" y="99.8" transform="matrix(0.9601 0.2796 -0.2796 0.9601 55.7622 -112.8052)" class="st0" width="78.5" height="78.5"/>
+	
+		<rect x="399.9" y="115.6" transform="matrix(0.9601 0.2796 -0.2796 0.9601 55.7622 -112.8052)" class="st3" width="46.9" height="46.9"/>
+	
+		<rect x="30.4" y="99.8" transform="matrix(-0.9601 0.2796 -0.2796 -0.9601 175.4785 253.1061)" class="st0" width="78.5" height="78.5"/>
+	
+		<rect x="46.2" y="115.6" transform="matrix(-0.9601 0.2796 -0.2796 -0.9601 175.4785 253.1061)" class="st3" width="46.9" height="46.9"/>
+	<g>
+		<polygon class="st4" points="93.2,309.5 222.4,90.9 213.4,55.9 262.9,98.4 155.2,275.6 259,275.6 282.1,309.5 		"/>
+		<path class="st5" d="M219.9,66.2l38.3,32.9L155.4,268.1l-6.8,11.2h13.1H257l18.1,26.6H99.6L224.8,94.1l1.5-2.6l-0.8-2.9
+			L219.9,66.2 M207,45.5l11.5,44.9L86.8,313.2H289l-28.1-41.3h-99.2l106-174.2L207,45.5L207,45.5z"/>
+	</g>
+	<g>
+		<polygon class="st4" points="324.8,309.5 306,278 342.2,278 309.2,233 226.2,234.7 235.7,211.2 292.9,211.2 268.4,175.9 
+			286,149.3 398,309.5 		"/>
+		<path class="st5" d="M286.1,155.8l104.8,150h-64.1l-14.4-24.2h22.5h14.5l-8.5-11.7l-27.5-37.6l-2.3-3.1l-3.8,0.1l-75.5,1.6
+			l6.5-16.1h47.7h14l-8-11.5l-19.1-27.5L286.1,155.8 M285.9,142.8L264,175.9l21.9,31.6h-52.6l-12.5,31l86.7-1.8l27.5,37.6h-35.4
+			l23.2,38.9H405L285.9,142.8L285.9,142.8z"/>
+	</g>
+</g>
+</svg>
