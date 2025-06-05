@@ -306,6 +306,13 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GMRT.png"
     },
+    {
+      "name": "Finger Monkeys Token",
+      "symbol": "FMT",
+      "address": "0x5bA9E0ce610927c1915c9d9de4BdaF2b8A1Dee7e",
+      "chainId": 8453,
+      "decimals": 18
+    },
 
     {
       "name": "ICHI-USDC",
