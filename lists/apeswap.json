@@ -4417,6 +4417,13 @@
       "address": "0xCc6A16bcFda7D0ebE168F69Ef7b946e96A90E67F",
       "chainId": 80094,
       "decimals": 18
+    },
+    {
+      "name": "Plutus token",
+      "symbol": "PLUTUS",
+      "address": "0x6698EDe14709A9Dd8379744CC2D28F276E3d2Eac",
+      "chainId": 80094,
+      "decimals": 18
     }
   ]
 }
