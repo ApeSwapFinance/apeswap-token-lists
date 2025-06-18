@@ -1107,13 +1107,6 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DEXTF.png"
     },
-    {
-      "name": "Murloc Bond",
-      "symbol": "MRLCbond",
-      "address": "0x188b8e23CefFCA7a58e8C64C2a7A9771Ab3596A7",
-      "chainId": 1,
-      "decimals": 18
-    },
 
     {
       "name": "Wrapped Telos",
