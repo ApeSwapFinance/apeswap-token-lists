@@ -4396,6 +4396,13 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SPIN.png"
     },
+    {
+      "name": "Rezerve.money",
+      "symbol": "RZR",
+      "address": "0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5",
+      "chainId": 146,
+      "decimals": 18
+    },
 
     {
       "name": "Burr Governance Token",
