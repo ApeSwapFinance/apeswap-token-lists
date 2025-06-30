@@ -3255,6 +3255,13 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PAPU.png"
     },
+    {
+      "name": "Mind-AI",
+      "symbol": "MA",
+      "address": "0xb5Ab5cF2e2c686aE43F01F23859F3a55a8629C1C",
+      "chainId": 56,
+      "decimals": 18
+    },
 
     {
       "name": "WBNB Token",
