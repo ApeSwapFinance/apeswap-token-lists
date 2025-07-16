@@ -1107,6 +1107,13 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DEXTF.png"
     },
+    {
+      "name": "ADO Protocol",
+      "symbol": "ADO",
+      "address": "0xf9902EdfCa4F49DcaEBC335C73aEbD82C79C2886",
+      "chainId": 1,
+      "decimals": 18
+    },
 
     {
       "name": "Wrapped Telos",
@@ -3259,6 +3266,13 @@
       "name": "Mind-AI",
       "symbol": "MA",
       "address": "0xb5Ab5cF2e2c686aE43F01F23859F3a55a8629C1C",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "UCOIN",
+      "symbol": "U",
+      "address": "0xe07710cdcD1c9F0FB04bfd013F9854E4552671cE",
       "chainId": 56,
       "decimals": 18
     },
