@@ -313,6 +313,13 @@
       "chainId": 8453,
       "decimals": 18
     },
+    {
+      "name": "YUUKI",
+      "symbol": "YUUKI",
+      "address": "0x277f301B1d7471EE948f801b1ff3575AD7F33E21",
+      "chainId": 8453,
+      "decimals": 18
+    },
 
     {
       "name": "ICHI-USDC",
@@ -3981,6 +3988,13 @@
       "chainId": 137,
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FAN.png"
+    },
+    {
+      "name": "GALAXIS Token",
+      "symbol": "GALAXIS",
+      "address": "0x3C69d114664d48357d820Dbdd121a8071eAc99bf",
+      "chainId": 137,
+      "decimals": 18
     },
 
     {
