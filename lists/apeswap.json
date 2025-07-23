@@ -457,6 +457,13 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HOTDOG.png"
     },
+    {
+      "name": "Bank Of Linea",
+      "symbol": "BOL",
+      "address": "0xb171EF5cD8d320D52F257924A0E0d41E6f5c40D9",
+      "chainId": 59144,
+      "decimals": 18
+    },
 
     {
       "name": "USDC AMBO Ichi LP",
@@ -3280,6 +3287,20 @@
       "name": "UCOIN",
       "symbol": "U",
       "address": "0xe07710cdcD1c9F0FB04bfd013F9854E4552671cE",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "Vameon",
+      "symbol": "VON",
+      "address": "0xa4c3497b57C8b6D510F3707A1e9694fD791f45FB",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "Soulbucks",
+      "symbol": "SBX",
+      "address": "0x84fCb6f9031FCE00BB89433d5df9e69A6Ba3A4f8",
       "chainId": 56,
       "decimals": 18
     },
