@@ -1128,6 +1128,13 @@
       "chainId": 1,
       "decimals": 18
     },
+    {
+      "name": "Polemos",
+      "symbol": "PLMS",
+      "address": "0x68614481AeF06e53D23bbe0772343fB555ac40c8",
+      "chainId": 1,
+      "decimals": 18
+    },
 
     {
       "name": "Wrapped Telos",
