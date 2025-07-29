@@ -320,6 +320,13 @@
       "chainId": 8453,
       "decimals": 18
     },
+    {
+      "name": "PACA AI",
+      "symbol": "PACA",
+      "address": "0x3639E6f4C224eBd1BF6373C3D97917d33E0492BB",
+      "chainId": 8453,
+      "decimals": 18
+    },
 
     {
       "name": "ICHI-USDC",
