@@ -4473,6 +4473,13 @@
       "chainId": 146,
       "decimals": 18
     },
+    {
+      "name": "Amped Finance",
+      "symbol": "AMPED",
+      "address": "0x4Cae73a23078e7A94D1e828Fa3bABa5080c04FcA",
+      "chain": 146,
+      "decimals": 18
+    },
 
     {
       "name": "Burr Governance Token",
