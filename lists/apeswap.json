@@ -1142,6 +1142,13 @@
       "chainId": 1,
       "decimals": 18
     },
+    {
+      "name": "Privix",
+      "symbol": "PRIVIX",
+      "address": "0xaFB942E2A12aC0861Ad81b5c37682f588912c1d9",
+      "chainId": 1,
+      "decimals": 9
+    },
 
     {
       "name": "Wrapped Telos",
