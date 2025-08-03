@@ -4509,6 +4509,14 @@
       "chainId": 80094,
       "decimals": 18
     },
+{
+  "name": "KIKI Le Singe",
+  "symbol": "KIKI",
+  "address": "0x6A69bfB8dCC9E35Be1F938f84470A88fb8Ba1d2b",
+  "chainId": 56,
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/guygoossens/apeswap-token-lists/main/assets/0x6A69bfB8dCC9E35Be1F938f84470A88fb8Ba1d2b.png"
+},
     {
       "name": "Plutus token",
       "symbol": "PLUTUS",
