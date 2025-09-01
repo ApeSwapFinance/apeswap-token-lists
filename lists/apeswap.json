@@ -1149,6 +1149,13 @@
       "chainId": 1,
       "decimals": 9
     },
+    {
+      "name": "Wrapped PAW",
+      "symbol": "wPAW",
+      "address": "0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb",
+      "chainId": 1,
+      "decimals": 18
+    },
 
     {
       "name": "Wrapped Telos",
