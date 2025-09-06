@@ -345,6 +345,14 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ICHI-BNB.svg"
     },
     {
+      "name": "IOSToken",
+      "symbol": "IOST",
+      "address": "0xAf48B7e315a52518CfBF7d96C455D9dFAD94cB48",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/IOST.png"
+    },
+    {
       "name": "MVX",
       "symbol": "MVX",
       "address": "0x0018D96C579121a94307249d47F053E2D687b5e7",
