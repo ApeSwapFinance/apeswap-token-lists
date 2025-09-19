@@ -4052,6 +4052,13 @@
       "chainId": 137,
       "decimals": 18
     },
+    {
+      "name": "Crypto Factor",
+      "symbol": "CFR",
+      "address": "0x17C7C74e0cD779F33CB5a6E8aB39De46168e9ef7",
+      "chainId": 137,
+      "decimals": 18
+    },
 
     {
       "name": "Test USD Coin",
