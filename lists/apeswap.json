@@ -1163,6 +1163,13 @@
       "chainId": 1,
       "decimals": 18
     },
+    {
+      "name": "BNV",
+      "symbol": "FASH",
+      "address": "0x7D3Ce1265d5eA5848Dc1C96AADbf754E2baD33b1",
+      "chainId": 1,
+      "decimals": 18
+    },
 
     {
       "name": "Wrapped Telos",
