@@ -327,6 +327,13 @@
       "chainId": 8453,
       "decimals": 18
     },
+    {
+      "name": "AIQuant.fun",
+      "symbol": "AIQ",
+      "address": "0x3131b29A1158792b29821166DFf0bFa38efeE335",
+      "chainId": 8453,
+      "decimals": 18
+    },
 
     {
       "name": "ICHI-USDC",
