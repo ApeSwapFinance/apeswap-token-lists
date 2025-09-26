@@ -327,6 +327,13 @@
       "chainId": 8453,
       "decimals": 18
     },
+    {
+      "name": "AIQuant.fun",
+      "symbol": "AIQ",
+      "address": "0x3131b29A1158792b29821166DFf0bFa38efeE335",
+      "chainId": 8453,
+      "decimals": 18
+    },
 
     {
       "name": "ICHI-USDC",
@@ -1160,6 +1167,13 @@
       "name": "MASQ",
       "symbol": "MASQ",
       "address": "0x06F3C323f0238c72BF35011071f2b5B7F43A054c",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "name": "BNV",
+      "symbol": "FASH",
+      "address": "0x7D3Ce1265d5eA5848Dc1C96AADbf754E2baD33b1",
       "chainId": 1,
       "decimals": 18
     },
