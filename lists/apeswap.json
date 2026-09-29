@@ -10,6 +10,14 @@
   "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/apeswap-ape.svg",
   "keywords": ["apeswap", "default"],
   "tokens": [
+        {
+      "name": "everyweekend",
+      "symbol": "evww",
+      "address": "0x72edc8A6Bd089cA9Ec20B21A40e119f08A844e0f",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/EVWW.png"
+    },
     {
       "name": "Wrapped IOTA",
       "symbol": "WIOTA",
