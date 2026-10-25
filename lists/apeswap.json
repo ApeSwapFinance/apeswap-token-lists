@@ -19,6 +19,14 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WIOTA.png"
     },
     {
+      "name": "EVM ATCOIN",
+      "symbol": "ATCOIN",
+      "address": "0x1E1828eA442dA714E2EB965D44cB4b61E87Abc42",
+      "chainId": 56,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ATCOIN.png"
+    },
+    {
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "address": "0x7EbeF2A4b1B09381Ec5B9dF8C5c6f2dBECA59c73",
